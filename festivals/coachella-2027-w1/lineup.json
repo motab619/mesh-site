@@ -1,0 +1,1852 @@
+{
+  "version": 1,
+  "id": "coachella-2027-w1",
+  "rev": 1,
+  "festival": {
+    "name": "Coachella 2027",
+    "tz": "America/Los_Angeles"
+  },
+  "days": [
+    {
+      "id": "fri",
+      "date": "2027-04-16",
+      "label": "Friday"
+    },
+    {
+      "id": "sat",
+      "date": "2027-04-17",
+      "label": "Saturday"
+    },
+    {
+      "id": "sun",
+      "date": "2027-04-18",
+      "label": "Sunday"
+    }
+  ],
+  "stages": [
+    {
+      "id": "coachella",
+      "name": "Coachella"
+    },
+    {
+      "id": "outdoor",
+      "name": "Outdoor"
+    },
+    {
+      "id": "sahara",
+      "name": "Sahara"
+    },
+    {
+      "id": "mojave",
+      "name": "Mojave"
+    },
+    {
+      "id": "gobi",
+      "name": "Gobi"
+    },
+    {
+      "id": "sonora",
+      "name": "Sonora"
+    },
+    {
+      "id": "yuma",
+      "name": "Yuma"
+    },
+    {
+      "id": "quasar",
+      "name": "Quasar"
+    }
+  ],
+  "sets": [
+    {
+      "id": "jim-smith",
+      "idx": 0,
+      "artistId": "jim-smith",
+      "name": "Jim Smith",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T13:00:00-07:00",
+      "end": "2027-04-16T13:40:00-07:00"
+    },
+    {
+      "id": "sahar-z",
+      "idx": 1,
+      "artistId": "sahar-z",
+      "name": "Sahar Z",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T13:00:00-07:00",
+      "end": "2027-04-16T13:45:00-07:00"
+    },
+    {
+      "id": "febuary",
+      "idx": 2,
+      "artistId": "febuary",
+      "name": "Febuary",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T13:40:00-07:00",
+      "end": "2027-04-16T14:10:00-07:00"
+    },
+    {
+      "id": "jessica-brankka",
+      "idx": 3,
+      "artistId": "jessica-brankka",
+      "name": "Jessica Brankka",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T13:45:00-07:00",
+      "end": "2027-04-16T14:45:00-07:00"
+    },
+    {
+      "id": "el-ethos",
+      "idx": 4,
+      "artistId": "el-ethos",
+      "name": "El Ethos",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T14:00:00-07:00",
+      "end": "2027-04-16T14:50:00-07:00"
+    },
+    {
+      "id": "cahuilla-bird-singers-and-dancers",
+      "idx": 5,
+      "artistId": "cahuilla-bird-singers-and-dancers",
+      "name": "Cahuilla Bird Singers and Dancers",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T14:15:00-07:00",
+      "end": "2027-04-16T14:45:00-07:00"
+    },
+    {
+      "id": "bad-gal-gali",
+      "idx": 6,
+      "artistId": "bad-gal-gali",
+      "name": "Bad Gal Gali",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T14:30:00-07:00",
+      "end": "2027-04-16T15:35:00-07:00"
+    },
+    {
+      "id": "carolina-durante",
+      "idx": 7,
+      "artistId": "carolina-durante",
+      "name": "Carolina Durante",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T14:35:00-07:00",
+      "end": "2027-04-16T15:15:00-07:00"
+    },
+    {
+      "id": "arodes",
+      "idx": 8,
+      "artistId": "arodes",
+      "name": "Arodes",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T14:45:00-07:00",
+      "end": "2027-04-16T15:45:00-07:00"
+    },
+    {
+      "id": "jeremiah-red",
+      "idx": 9,
+      "artistId": "jeremiah-red",
+      "name": "Jeremiah Red",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-16T14:50:00-07:00",
+      "end": "2027-04-16T15:50:00-07:00"
+    },
+    {
+      "id": "bob-baker-marionettes",
+      "idx": 10,
+      "artistId": "bob-baker-marionettes",
+      "name": "Bob Baker Marionettes",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T14:55:00-07:00",
+      "end": "2027-04-16T15:35:00-07:00"
+    },
+    {
+      "id": "slayyyter",
+      "idx": 11,
+      "artistId": "slayyyter",
+      "name": "Slayyyter",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T15:00:00-07:00",
+      "end": "2027-04-16T15:45:00-07:00"
+    },
+    {
+      "id": "wednesday",
+      "idx": 12,
+      "artistId": "wednesday",
+      "name": "Wednesday",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T15:40:00-07:00",
+      "end": "2027-04-16T16:20:00-07:00"
+    },
+    {
+      "id": "youna",
+      "idx": 13,
+      "artistId": "youna",
+      "name": "Youna",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T15:45:00-07:00",
+      "end": "2027-04-16T16:35:00-07:00"
+    },
+    {
+      "id": "groove-armada",
+      "idx": 14,
+      "artistId": "groove-armada",
+      "name": "Groove Armada",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T15:45:00-07:00",
+      "end": "2027-04-16T17:00:00-07:00"
+    },
+    {
+      "id": "dabeull",
+      "idx": 15,
+      "artistId": "dabeull",
+      "name": "Dabeull",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T16:00:00-07:00",
+      "end": "2027-04-16T16:50:00-07:00"
+    },
+    {
+      "id": "newdad",
+      "idx": 16,
+      "artistId": "newdad",
+      "name": "NewDad",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T16:00:00-07:00",
+      "end": "2027-04-16T16:40:00-07:00"
+    },
+    {
+      "id": "jaqck-glam",
+      "idx": 17,
+      "artistId": "jaqck-glam",
+      "name": "Jaqck Glam",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-16T16:10:00-07:00",
+      "end": "2027-04-16T17:10:00-07:00"
+    },
+    {
+      "id": "bini",
+      "idx": 18,
+      "artistId": "bini",
+      "name": "BINI",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T16:15:00-07:00",
+      "end": "2027-04-16T17:00:00-07:00"
+    },
+    {
+      "id": "hugel",
+      "idx": 19,
+      "artistId": "hugel",
+      "name": "HUGEL",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T16:50:00-07:00",
+      "end": "2027-04-16T17:50:00-07:00"
+    },
+    {
+      "id": "fleshwater",
+      "idx": 20,
+      "artistId": "fleshwater",
+      "name": "Fleshwater",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T16:50:00-07:00",
+      "end": "2027-04-16T17:30:00-07:00"
+    },
+    {
+      "id": "rossi-x-chloe-caillet",
+      "idx": 21,
+      "artistId": "rossi-x-chloe-caillet",
+      "name": "Rossi. x Chloé Caillet",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T17:00:00-07:00",
+      "end": "2027-04-16T18:15:00-07:00"
+    },
+    {
+      "id": "darco",
+      "idx": 22,
+      "artistId": "darco",
+      "name": "Darco",
+      "stageId": "quasar",
+      "day": "fri",
+      "start": "2027-04-16T17:00:00-07:00",
+      "end": "2027-04-16T19:00:00-07:00"
+    },
+    {
+      "id": "joyce-manor",
+      "idx": 23,
+      "artistId": "joyce-manor",
+      "name": "Joyce Manor",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T17:10:00-07:00",
+      "end": "2027-04-16T17:50:00-07:00"
+    },
+    {
+      "id": "teddy-swims",
+      "idx": 24,
+      "artistId": "teddy-swims",
+      "name": "Teddy Swims",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-16T17:20:00-07:00",
+      "end": "2027-04-16T18:10:00-07:00"
+    },
+    {
+      "id": "lykke-li",
+      "idx": 25,
+      "artistId": "lykke-li",
+      "name": "Lykke Li",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T17:20:00-07:00",
+      "end": "2027-04-16T18:10:00-07:00"
+    },
+    {
+      "id": "central-cee",
+      "idx": 26,
+      "artistId": "central-cee",
+      "name": "Central Cee",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T17:30:00-07:00",
+      "end": "2027-04-16T18:15:00-07:00"
+    },
+    {
+      "id": "the-two-lips",
+      "idx": 27,
+      "artistId": "the-two-lips",
+      "name": "The Two Lips",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T18:00:00-07:00",
+      "end": "2027-04-16T18:40:00-07:00"
+    },
+    {
+      "id": "marlon-hoffstadt",
+      "idx": 28,
+      "artistId": "marlon-hoffstadt",
+      "name": "Marlon Hoffstadt",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T18:15:00-07:00",
+      "end": "2027-04-16T19:15:00-07:00"
+    },
+    {
+      "id": "cmat",
+      "idx": 29,
+      "artistId": "cmat",
+      "name": "CMAT",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T18:15:00-07:00",
+      "end": "2027-04-16T18:55:00-07:00"
+    },
+    {
+      "id": "kettama",
+      "idx": 30,
+      "artistId": "kettama",
+      "name": "Kettama",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T18:15:00-07:00",
+      "end": "2027-04-16T19:30:00-07:00"
+    },
+    {
+      "id": "dijon",
+      "idx": 31,
+      "artistId": "dijon",
+      "name": "Dijon",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T18:40:00-07:00",
+      "end": "2027-04-16T19:30:00-07:00"
+    },
+    {
+      "id": "devo",
+      "idx": 32,
+      "artistId": "devo",
+      "name": "Devo",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T18:45:00-07:00",
+      "end": "2027-04-16T19:40:00-07:00"
+    },
+    {
+      "id": "the-xx",
+      "idx": 33,
+      "artistId": "the-xx",
+      "name": "The xx",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-16T19:00:00-07:00",
+      "end": "2027-04-16T19:55:00-07:00"
+    },
+    {
+      "id": "franky-rizardo",
+      "idx": 34,
+      "artistId": "franky-rizardo",
+      "name": "Franky Rizardo",
+      "stageId": "quasar",
+      "day": "fri",
+      "start": "2027-04-16T19:00:00-07:00",
+      "end": "2027-04-16T21:00:00-07:00"
+    },
+    {
+      "id": "ninajirachi",
+      "idx": 35,
+      "artistId": "ninajirachi",
+      "name": "Ninajirachi",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T19:10:00-07:00",
+      "end": "2027-04-16T20:00:00-07:00"
+    },
+    {
+      "id": "fakemink",
+      "idx": 36,
+      "artistId": "fakemink",
+      "name": "fakemink",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T19:20:00-07:00",
+      "end": "2027-04-16T20:00:00-07:00"
+    },
+    {
+      "id": "prospa",
+      "idx": 37,
+      "artistId": "prospa",
+      "name": "Prospa",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T19:30:00-07:00",
+      "end": "2027-04-16T20:45:00-07:00"
+    },
+    {
+      "id": "katseye",
+      "idx": 38,
+      "artistId": "katseye",
+      "name": "KATSEYE",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T20:00:00-07:00",
+      "end": "2027-04-16T20:45:00-07:00"
+    },
+    {
+      "id": "turnstile",
+      "idx": 39,
+      "artistId": "turnstile",
+      "name": "Turnstile",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T20:05:00-07:00",
+      "end": "2027-04-16T21:00:00-07:00"
+    },
+    {
+      "id": "moby",
+      "idx": 40,
+      "artistId": "moby",
+      "name": "Moby",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T20:10:00-07:00",
+      "end": "2027-04-16T21:00:00-07:00"
+    },
+    {
+      "id": "holly-humberstone",
+      "idx": 41,
+      "artistId": "holly-humberstone",
+      "name": "Holly Humberstone",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T20:25:00-07:00",
+      "end": "2027-04-16T21:10:00-07:00"
+    },
+    {
+      "id": "cachirula-loojan",
+      "idx": 42,
+      "artistId": "cachirula-loojan",
+      "name": "Cachirula & Loojan",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T20:25:00-07:00",
+      "end": "2027-04-16T21:05:00-07:00"
+    },
+    {
+      "id": "max-dean-x-luke-dean",
+      "idx": 43,
+      "artistId": "max-dean-x-luke-dean",
+      "name": "Max Dean x Luke Dean",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T20:45:00-07:00",
+      "end": "2027-04-16T22:00:00-07:00"
+    },
+    {
+      "id": "sabrina-carpenter",
+      "idx": 44,
+      "artistId": "sabrina-carpenter",
+      "name": "Sabrina Carpenter",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-16T21:00:00-07:00",
+      "end": "2027-04-16T22:40:00-07:00"
+    },
+    {
+      "id": "armin-van-buuren-x-adam-beyer-fri",
+      "idx": 45,
+      "artistId": "armin-van-buuren-x-adam-beyer-fri",
+      "name": "Armin van Buuren x Adam Beyer",
+      "stageId": "quasar",
+      "day": "fri",
+      "start": "2027-04-16T21:00:00-07:00",
+      "end": "2027-04-16T23:00:00-07:00"
+    },
+    {
+      "id": "levity",
+      "idx": 46,
+      "artistId": "levity",
+      "name": "Levity",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T21:15:00-07:00",
+      "end": "2027-04-16T22:20:00-07:00"
+    },
+    {
+      "id": "joost",
+      "idx": 47,
+      "artistId": "joost",
+      "name": "Joost",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T21:50:00-07:00",
+      "end": "2027-04-16T22:35:00-07:00"
+    },
+    {
+      "id": "max-styler",
+      "idx": 48,
+      "artistId": "max-styler",
+      "name": "Max Styler",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T22:00:00-07:00",
+      "end": "2027-04-16T23:15:00-07:00"
+    },
+    {
+      "id": "hot-mulligan",
+      "idx": 49,
+      "artistId": "hot-mulligan",
+      "name": "Hot Mulligan",
+      "stageId": "sonora",
+      "day": "fri",
+      "start": "2027-04-16T22:10:00-07:00",
+      "end": "2027-04-16T22:55:00-07:00"
+    },
+    {
+      "id": "disclosure",
+      "idx": 50,
+      "artistId": "disclosure",
+      "name": "Disclosure",
+      "stageId": "outdoor",
+      "day": "fri",
+      "start": "2027-04-16T22:40:00-07:00",
+      "end": "2027-04-16T23:55:00-07:00"
+    },
+    {
+      "id": "ethel-cain",
+      "idx": 51,
+      "artistId": "ethel-cain",
+      "name": "Ethel Cain",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-16T22:45:00-07:00",
+      "end": "2027-04-16T23:35:00-07:00"
+    },
+    {
+      "id": "swae-lee",
+      "idx": 52,
+      "artistId": "swae-lee",
+      "name": "Swae Lee",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-16T22:50:00-07:00",
+      "end": "2027-04-16T23:40:00-07:00"
+    },
+    {
+      "id": "creepy-nuts",
+      "idx": 53,
+      "artistId": "creepy-nuts",
+      "name": "Creepy Nuts",
+      "stageId": "gobi",
+      "day": "fri",
+      "start": "2027-04-16T23:05:00-07:00",
+      "end": "2027-04-16T23:55:00-07:00"
+    },
+    {
+      "id": "gordo",
+      "idx": 54,
+      "artistId": "gordo",
+      "name": "Gordo",
+      "stageId": "yuma",
+      "day": "fri",
+      "start": "2027-04-16T23:15:00-07:00",
+      "end": "2027-04-17T00:55:00-07:00"
+    },
+    {
+      "id": "anyma",
+      "idx": 55,
+      "artistId": "anyma",
+      "name": "Anyma",
+      "stageId": "coachella",
+      "day": "fri",
+      "start": "2027-04-17T00:00:00-07:00",
+      "end": "2027-04-17T01:00:00-07:00"
+    },
+    {
+      "id": "blood-orange",
+      "idx": 56,
+      "artistId": "blood-orange",
+      "name": "Blood Orange",
+      "stageId": "mojave",
+      "day": "fri",
+      "start": "2027-04-17T00:00:00-07:00",
+      "end": "2027-04-17T00:55:00-07:00"
+    },
+    {
+      "id": "sexyy-red",
+      "idx": 57,
+      "artistId": "sexyy-red",
+      "name": "Sexyy Red",
+      "stageId": "sahara",
+      "day": "fri",
+      "start": "2027-04-17T00:05:00-07:00",
+      "end": "2027-04-17T00:55:00-07:00"
+    },
+    {
+      "id": "buster-jarvis",
+      "idx": 58,
+      "artistId": "buster-jarvis",
+      "name": "Buster Jarvis",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T13:00:00-07:00",
+      "end": "2027-04-17T14:00:00-07:00"
+    },
+    {
+      "id": "yamagucci",
+      "idx": 59,
+      "artistId": "yamagucci",
+      "name": "Yamagucci",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T13:00:00-07:00",
+      "end": "2027-04-17T14:00:00-07:00"
+    },
+    {
+      "id": "fundido",
+      "idx": 60,
+      "artistId": "fundido",
+      "name": "Fundido",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T14:00:00-07:00",
+      "end": "2027-04-17T14:45:00-07:00"
+    },
+    {
+      "id": "die-spitz",
+      "idx": 61,
+      "artistId": "die-spitz",
+      "name": "Die Spitz",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T14:00:00-07:00",
+      "end": "2027-04-17T14:40:00-07:00"
+    },
+    {
+      "id": "genesi",
+      "idx": 62,
+      "artistId": "genesi",
+      "name": "GENESI",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T14:00:00-07:00",
+      "end": "2027-04-17T15:00:00-07:00"
+    },
+    {
+      "id": "noga-erez",
+      "idx": 63,
+      "artistId": "noga-erez",
+      "name": "Noga Erez",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T14:05:00-07:00",
+      "end": "2027-04-17T14:50:00-07:00"
+    },
+    {
+      "id": "blondshell",
+      "idx": 64,
+      "artistId": "blondshell",
+      "name": "Blondshell",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T14:40:00-07:00",
+      "end": "2027-04-17T15:25:00-07:00"
+    },
+    {
+      "id": "teed",
+      "idx": 65,
+      "artistId": "teed",
+      "name": "TEED",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T14:50:00-07:00",
+      "end": "2027-04-17T15:50:00-07:00"
+    },
+    {
+      "id": "kacey-musgraves",
+      "idx": 66,
+      "artistId": "kacey-musgraves",
+      "name": "Kacey Musgraves",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T15:00:00-07:00",
+      "end": "2027-04-17T15:50:00-07:00"
+    },
+    {
+      "id": "riordan",
+      "idx": 67,
+      "artistId": "riordan",
+      "name": "Riordan",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T15:00:00-07:00",
+      "end": "2027-04-17T16:15:00-07:00"
+    },
+    {
+      "id": "freak-slug",
+      "idx": 68,
+      "artistId": "freak-slug",
+      "name": "Freak Slug",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T15:10:00-07:00",
+      "end": "2027-04-17T15:50:00-07:00"
+    },
+    {
+      "id": "los-hermanos-flores",
+      "idx": 69,
+      "artistId": "los-hermanos-flores",
+      "name": "Los Hermanos Flores",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T15:55:00-07:00",
+      "end": "2027-04-17T16:45:00-07:00"
+    },
+    {
+      "id": "zulan",
+      "idx": 70,
+      "artistId": "zulan",
+      "name": "ZULAN",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T16:00:00-07:00",
+      "end": "2027-04-17T16:50:00-07:00"
+    },
+    {
+      "id": "whatmore",
+      "idx": 71,
+      "artistId": "whatmore",
+      "name": "WHATMORE",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T16:00:00-07:00",
+      "end": "2027-04-17T16:40:00-07:00"
+    },
+    {
+      "id": "record-safari",
+      "idx": 72,
+      "artistId": "record-safari",
+      "name": "Record Safari",
+      "stageId": "coachella",
+      "day": "sat",
+      "start": "2027-04-17T16:10:00-07:00",
+      "end": "2027-04-17T17:15:00-07:00"
+    },
+    {
+      "id": "mahmut-orhan",
+      "idx": 73,
+      "artistId": "mahmut-orhan",
+      "name": "Mahmut Orhan",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T16:15:00-07:00",
+      "end": "2027-04-17T17:30:00-07:00"
+    },
+    {
+      "id": "ecca-vandal",
+      "idx": 74,
+      "artistId": "ecca-vandal",
+      "name": "Ecca Vandal",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T16:20:00-07:00",
+      "end": "2027-04-17T17:00:00-07:00"
+    },
+    {
+      "id": "fujii-kaze",
+      "idx": 75,
+      "artistId": "fujii-kaze",
+      "name": "Fujii Kaze",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T16:30:00-07:00",
+      "end": "2027-04-17T17:20:00-07:00"
+    },
+    {
+      "id": "hamdi",
+      "idx": 76,
+      "artistId": "hamdi",
+      "name": "Hamdi",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T17:00:00-07:00",
+      "end": "2027-04-17T17:55:00-07:00"
+    },
+    {
+      "id": "devault",
+      "idx": 77,
+      "artistId": "devault",
+      "name": "Devault",
+      "stageId": "quasar",
+      "day": "sat",
+      "start": "2027-04-17T17:00:00-07:00",
+      "end": "2027-04-17T19:00:00-07:00"
+    },
+    {
+      "id": "alex-g",
+      "idx": 78,
+      "artistId": "alex-g",
+      "name": "Alex G",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T17:10:00-07:00",
+      "end": "2027-04-17T18:00:00-07:00"
+    },
+    {
+      "id": "luisa-sonza",
+      "idx": 79,
+      "artistId": "luisa-sonza",
+      "name": "Luísa Sonza",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T17:10:00-07:00",
+      "end": "2027-04-17T17:50:00-07:00"
+    },
+    {
+      "id": "addison-rae",
+      "idx": 80,
+      "artistId": "addison-rae",
+      "name": "Addison Rae",
+      "stageId": "coachella",
+      "day": "sat",
+      "start": "2027-04-17T17:25:00-07:00",
+      "end": "2027-04-17T18:20:00-07:00"
+    },
+    {
+      "id": "ceremony",
+      "idx": 81,
+      "artistId": "ceremony",
+      "name": "Ceremony",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T17:30:00-07:00",
+      "end": "2027-04-17T18:10:00-07:00"
+    },
+    {
+      "id": "ben-sterling",
+      "idx": 82,
+      "artistId": "ben-sterling",
+      "name": "Ben Sterling",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T17:30:00-07:00",
+      "end": "2027-04-17T18:45:00-07:00"
+    },
+    {
+      "id": "royel-otis",
+      "idx": 83,
+      "artistId": "royel-otis",
+      "name": "Royel Otis",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T17:50:00-07:00",
+      "end": "2027-04-17T18:35:00-07:00"
+    },
+    {
+      "id": "ousuk-uk1matsu",
+      "idx": 84,
+      "artistId": "ousuk-uk1matsu",
+      "name": "¥OUSUK€ ¥UK1MATSU",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T18:15:00-07:00",
+      "end": "2027-04-17T19:10:00-07:00"
+    },
+    {
+      "id": "geese",
+      "idx": 85,
+      "artistId": "geese",
+      "name": "Geese",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T18:15:00-07:00",
+      "end": "2027-04-17T19:00:00-07:00"
+    },
+    {
+      "id": "rusowsky",
+      "idx": 86,
+      "artistId": "rusowsky",
+      "name": "rusowsky",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T18:40:00-07:00",
+      "end": "2027-04-17T19:20:00-07:00"
+    },
+    {
+      "id": "sosa",
+      "idx": 87,
+      "artistId": "sosa",
+      "name": "SOSA",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T18:45:00-07:00",
+      "end": "2027-04-17T20:15:00-07:00"
+    },
+    {
+      "id": "giveon",
+      "idx": 88,
+      "artistId": "giveon",
+      "name": "GIVĒON",
+      "stageId": "coachella",
+      "day": "sat",
+      "start": "2027-04-17T19:00:00-07:00",
+      "end": "2027-04-17T19:50:00-07:00"
+    },
+    {
+      "id": "madeon",
+      "idx": 89,
+      "artistId": "madeon",
+      "name": "Madeon",
+      "stageId": "quasar",
+      "day": "sat",
+      "start": "2027-04-17T19:00:00-07:00",
+      "end": "2027-04-17T20:15:00-07:00"
+    },
+    {
+      "id": "sombr",
+      "idx": 90,
+      "artistId": "sombr",
+      "name": "SOMBR",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T19:05:00-07:00",
+      "end": "2027-04-17T19:55:00-07:00"
+    },
+    {
+      "id": "taemin",
+      "idx": 91,
+      "artistId": "taemin",
+      "name": "Taemin",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T19:30:00-07:00",
+      "end": "2027-04-17T20:20:00-07:00"
+    },
+    {
+      "id": "davido",
+      "idx": 92,
+      "artistId": "davido",
+      "name": "Davido",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T19:50:00-07:00",
+      "end": "2027-04-17T20:35:00-07:00"
+    },
+    {
+      "id": "54-ultra",
+      "idx": 93,
+      "artistId": "54-ultra",
+      "name": "54 Ultra",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T19:50:00-07:00",
+      "end": "2027-04-17T20:30:00-07:00"
+    },
+    {
+      "id": "nine-inch-noize",
+      "idx": 94,
+      "artistId": "nine-inch-noize",
+      "name": "Nine Inch Noize",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T20:00:00-07:00",
+      "end": "2027-04-17T20:45:00-07:00"
+    },
+    {
+      "id": "bedouin",
+      "idx": 95,
+      "artistId": "bedouin",
+      "name": "Bedouin",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T20:15:00-07:00",
+      "end": "2027-04-17T21:45:00-07:00"
+    },
+    {
+      "id": "dj-snake-x-rl-grime-x-flosstradamus",
+      "idx": 96,
+      "artistId": "dj-snake-x-rl-grime-x-flosstradamus",
+      "name": "DJ Snake x RL Grime x Flosstradamus",
+      "stageId": "quasar",
+      "day": "sat",
+      "start": "2027-04-17T20:15:00-07:00",
+      "end": "2027-04-17T21:45:00-07:00"
+    },
+    {
+      "id": "labrinth",
+      "idx": 97,
+      "artistId": "labrinth",
+      "name": "Labrinth",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T20:30:00-07:00",
+      "end": "2027-04-17T21:25:00-07:00"
+    },
+    {
+      "id": "pinkpantheress",
+      "idx": 98,
+      "artistId": "pinkpantheress",
+      "name": "PinkPantheress",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T20:55:00-07:00",
+      "end": "2027-04-17T21:45:00-07:00"
+    },
+    {
+      "id": "the-strokes",
+      "idx": 99,
+      "artistId": "the-strokes",
+      "name": "The Strokes",
+      "stageId": "coachella",
+      "day": "sat",
+      "start": "2027-04-17T21:00:00-07:00",
+      "end": "2027-04-17T22:10:00-07:00"
+    },
+    {
+      "id": "bia",
+      "idx": 100,
+      "artistId": "bia",
+      "name": "BIA",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T21:00:00-07:00",
+      "end": "2027-04-17T21:45:00-07:00"
+    },
+    {
+      "id": "adriatique",
+      "idx": 101,
+      "artistId": "adriatique",
+      "name": "Adriatique",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T21:15:00-07:00",
+      "end": "2027-04-17T22:10:00-07:00"
+    },
+    {
+      "id": "mind-enterprises",
+      "idx": 102,
+      "artistId": "mind-enterprises",
+      "name": "Mind Enterprises",
+      "stageId": "sonora",
+      "day": "sat",
+      "start": "2027-04-17T21:45:00-07:00",
+      "end": "2027-04-17T22:35:00-07:00"
+    },
+    {
+      "id": "boys-noize",
+      "idx": 103,
+      "artistId": "boys-noize",
+      "name": "Boys Noize",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T21:45:00-07:00",
+      "end": "2027-04-17T23:00:00-07:00"
+    },
+    {
+      "id": "dj-snake-x-knock2",
+      "idx": 104,
+      "artistId": "dj-snake-x-knock2",
+      "name": "DJ Snake x Knock2",
+      "stageId": "quasar",
+      "day": "sat",
+      "start": "2027-04-17T21:45:00-07:00",
+      "end": "2027-04-17T23:00:00-07:00"
+    },
+    {
+      "id": "morat",
+      "idx": 105,
+      "artistId": "morat",
+      "name": "Morat",
+      "stageId": "gobi",
+      "day": "sat",
+      "start": "2027-04-17T22:10:00-07:00",
+      "end": "2027-04-17T23:00:00-07:00"
+    },
+    {
+      "id": "interpol",
+      "idx": 106,
+      "artistId": "interpol",
+      "name": "Interpol",
+      "stageId": "mojave",
+      "day": "sat",
+      "start": "2027-04-17T22:15:00-07:00",
+      "end": "2027-04-17T23:15:00-07:00"
+    },
+    {
+      "id": "david-byrne",
+      "idx": 107,
+      "artistId": "david-byrne",
+      "name": "David Byrne",
+      "stageId": "outdoor",
+      "day": "sat",
+      "start": "2027-04-17T22:25:00-07:00",
+      "end": "2027-04-17T23:25:00-07:00"
+    },
+    {
+      "id": "worship",
+      "idx": 108,
+      "artistId": "worship",
+      "name": "Worship",
+      "stageId": "sahara",
+      "day": "sat",
+      "start": "2027-04-17T22:35:00-07:00",
+      "end": "2027-04-17T23:35:00-07:00"
+    },
+    {
+      "id": "armin-van-buuren-x-adam-beyer-sat",
+      "idx": 109,
+      "artistId": "armin-van-buuren-x-adam-beyer-sat",
+      "name": "Armin van Buuren x Adam Beyer",
+      "stageId": "yuma",
+      "day": "sat",
+      "start": "2027-04-17T23:00:00-07:00",
+      "end": "2027-04-18T00:55:00-07:00"
+    },
+    {
+      "id": "justin-bieber",
+      "idx": 110,
+      "artistId": "justin-bieber",
+      "name": "Justin Bieber",
+      "stageId": "coachella",
+      "day": "sat",
+      "start": "2027-04-17T23:25:00-07:00",
+      "end": "2027-04-18T01:00:00-07:00"
+    },
+    {
+      "id": "bulletballet",
+      "idx": 111,
+      "artistId": "bulletballet",
+      "name": "Bulletballet",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T13:00:00-07:00",
+      "end": "2027-04-18T14:00:00-07:00"
+    },
+    {
+      "id": "le-yora",
+      "idx": 112,
+      "artistId": "le-yora",
+      "name": "LE YORA",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T13:00:00-07:00",
+      "end": "2027-04-18T14:00:00-07:00"
+    },
+    {
+      "id": "glitterer",
+      "idx": 113,
+      "artistId": "glitterer",
+      "name": "Glitterer",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T14:00:00-07:00",
+      "end": "2027-04-18T14:40:00-07:00"
+    },
+    {
+      "id": "azzecca",
+      "idx": 114,
+      "artistId": "azzecca",
+      "name": "AZZECCA",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T14:00:00-07:00",
+      "end": "2027-04-18T15:00:00-07:00"
+    },
+    {
+      "id": "flowerovlove",
+      "idx": 115,
+      "artistId": "flowerovlove",
+      "name": "flowerovlove",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T14:05:00-07:00",
+      "end": "2027-04-18T14:35:00-07:00"
+    },
+    {
+      "id": "gingee",
+      "idx": 116,
+      "artistId": "gingee",
+      "name": "GINGEE",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T14:30:00-07:00",
+      "end": "2027-04-18T15:30:00-07:00"
+    },
+    {
+      "id": "megatone",
+      "idx": 117,
+      "artistId": "megatone",
+      "name": "Megatone",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T14:30:00-07:00",
+      "end": "2027-04-18T15:10:00-07:00"
+    },
+    {
+      "id": "gabe-real",
+      "idx": 118,
+      "artistId": "gabe-real",
+      "name": "Gabe Real",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T14:45:00-07:00",
+      "end": "2027-04-18T15:30:00-07:00"
+    },
+    {
+      "id": "juicewon",
+      "idx": 119,
+      "artistId": "juicewon",
+      "name": "Juicewon",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T15:00:00-07:00",
+      "end": "2027-04-18T15:50:00-07:00"
+    },
+    {
+      "id": "the-chats",
+      "idx": 120,
+      "artistId": "the-chats",
+      "name": "The Chats",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T15:00:00-07:00",
+      "end": "2027-04-18T15:40:00-07:00"
+    },
+    {
+      "id": "friends",
+      "idx": 121,
+      "artistId": "friends",
+      "name": "&friends",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T15:00:00-07:00",
+      "end": "2027-04-18T16:15:00-07:00"
+    },
+    {
+      "id": "model-actriz",
+      "idx": 122,
+      "artistId": "model-actriz",
+      "name": "Model/Actriz",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T15:10:00-07:00",
+      "end": "2027-04-18T15:50:00-07:00"
+    },
+    {
+      "id": "samia",
+      "idx": 123,
+      "artistId": "samia",
+      "name": "Samia",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T15:15:00-07:00",
+      "end": "2027-04-18T15:55:00-07:00"
+    },
+    {
+      "id": "girl-math-vnssa-x-nala",
+      "idx": 124,
+      "artistId": "girl-math-vnssa-x-nala",
+      "name": "Girl Math (VNSSA x NALA)",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T15:35:00-07:00",
+      "end": "2027-04-18T16:35:00-07:00"
+    },
+    {
+      "id": "tijuana-panthers",
+      "idx": 125,
+      "artistId": "tijuana-panthers",
+      "name": "Tijuana Panthers",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T15:40:00-07:00",
+      "end": "2027-04-18T16:15:00-07:00"
+    },
+    {
+      "id": "gigi-perez",
+      "idx": 126,
+      "artistId": "gigi-perez",
+      "name": "Gigi Perez",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T16:00:00-07:00",
+      "end": "2027-04-18T16:45:00-07:00"
+    },
+    {
+      "id": "linska",
+      "idx": 127,
+      "artistId": "linska",
+      "name": "Linska",
+      "stageId": "quasar",
+      "day": "sun",
+      "start": "2027-04-18T16:00:00-07:00",
+      "end": "2027-04-18T18:00:00-07:00"
+    },
+    {
+      "id": "cobrah",
+      "idx": 128,
+      "artistId": "cobrah",
+      "name": "COBRAH",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T16:05:00-07:00",
+      "end": "2027-04-18T16:50:00-07:00"
+    },
+    {
+      "id": "mestiza",
+      "idx": 129,
+      "artistId": "mestiza",
+      "name": "MËSTIZA",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T16:15:00-07:00",
+      "end": "2027-04-18T17:30:00-07:00"
+    },
+    {
+      "id": "jane-remover",
+      "idx": 130,
+      "artistId": "jane-remover",
+      "name": "Jane Remover",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T16:20:00-07:00",
+      "end": "2027-04-18T17:00:00-07:00"
+    },
+    {
+      "id": "little-simz",
+      "idx": 131,
+      "artistId": "little-simz",
+      "name": "Little Simz",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T16:25:00-07:00",
+      "end": "2027-04-18T17:10:00-07:00"
+    },
+    {
+      "id": "wet-leg",
+      "idx": 132,
+      "artistId": "wet-leg",
+      "name": "Wet Leg",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T16:45:00-07:00",
+      "end": "2027-04-18T17:30:00-07:00"
+    },
+    {
+      "id": "bunt",
+      "idx": 133,
+      "artistId": "bunt",
+      "name": "BUNT.",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T16:45:00-07:00",
+      "end": "2027-04-18T17:45:00-07:00"
+    },
+    {
+      "id": "clipse",
+      "idx": 134,
+      "artistId": "clipse",
+      "name": "CLIPSE",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T17:15:00-07:00",
+      "end": "2027-04-18T18:10:00-07:00"
+    },
+    {
+      "id": "oklou",
+      "idx": 135,
+      "artistId": "oklou",
+      "name": "Oklou",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T17:15:00-07:00",
+      "end": "2027-04-18T18:00:00-07:00"
+    },
+    {
+      "id": "los-retros",
+      "idx": 136,
+      "artistId": "los-retros",
+      "name": "Los Retros",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T17:30:00-07:00",
+      "end": "2027-04-18T18:10:00-07:00"
+    },
+    {
+      "id": "carlita-x-josh-baker",
+      "idx": 137,
+      "artistId": "carlita-x-josh-baker",
+      "name": "Carlita x Josh Baker",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T17:30:00-07:00",
+      "end": "2027-04-18T19:00:00-07:00"
+    },
+    {
+      "id": "suicidal-tendencies",
+      "idx": 138,
+      "artistId": "suicidal-tendencies",
+      "name": "Suicidal Tendencies",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T17:35:00-07:00",
+      "end": "2027-04-18T18:25:00-07:00"
+    },
+    {
+      "id": "lp-giobbi",
+      "idx": 139,
+      "artistId": "lp-giobbi",
+      "name": "LP Giobbi",
+      "stageId": "quasar",
+      "day": "sun",
+      "start": "2027-04-18T18:00:00-07:00",
+      "end": "2027-04-18T20:00:00-07:00"
+    },
+    {
+      "id": "major-lazer",
+      "idx": 140,
+      "artistId": "major-lazer",
+      "name": "Major Lazer",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T18:10:00-07:00",
+      "end": "2027-04-18T19:10:00-07:00"
+    },
+    {
+      "id": "duke-dumont",
+      "idx": 141,
+      "artistId": "duke-dumont",
+      "name": "Duke Dumont",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T18:10:00-07:00",
+      "end": "2027-04-18T19:10:00-07:00"
+    },
+    {
+      "id": "black-flag",
+      "idx": 142,
+      "artistId": "black-flag",
+      "name": "Black Flag",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T18:30:00-07:00",
+      "end": "2027-04-18T19:05:00-07:00"
+    },
+    {
+      "id": "r-z",
+      "idx": 143,
+      "artistId": "r-z",
+      "name": "RØZ",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T18:40:00-07:00",
+      "end": "2027-04-18T19:30:00-07:00"
+    },
+    {
+      "id": "foster-the-people",
+      "idx": 144,
+      "artistId": "foster-the-people",
+      "name": "Foster the People",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T18:45:00-07:00",
+      "end": "2027-04-18T19:40:00-07:00"
+    },
+    {
+      "id": "royksopp",
+      "idx": 145,
+      "artistId": "royksopp",
+      "name": "Röyksopp",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T19:00:00-07:00",
+      "end": "2027-04-18T20:30:00-07:00"
+    },
+    {
+      "id": "iggy-pop",
+      "idx": 146,
+      "artistId": "iggy-pop",
+      "name": "Iggy Pop",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T19:10:00-07:00",
+      "end": "2027-04-18T20:10:00-07:00"
+    },
+    {
+      "id": "mochakk",
+      "idx": 147,
+      "artistId": "mochakk",
+      "name": "Mochakk",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T19:25:00-07:00",
+      "end": "2027-04-18T20:25:00-07:00"
+    },
+    {
+      "id": "tomora",
+      "idx": 148,
+      "artistId": "tomora",
+      "name": "TOMORA",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T19:45:00-07:00",
+      "end": "2027-04-18T20:35:00-07:00"
+    },
+    {
+      "id": "young-thug",
+      "idx": 149,
+      "artistId": "young-thug",
+      "name": "Young Thug",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T19:50:00-07:00",
+      "end": "2027-04-18T20:40:00-07:00"
+    },
+    {
+      "id": "drain",
+      "idx": 150,
+      "artistId": "drain",
+      "name": "DRAIN",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T20:00:00-07:00",
+      "end": "2027-04-18T20:40:00-07:00"
+    },
+    {
+      "id": "sara-landry-s-blood-oath",
+      "idx": 151,
+      "artistId": "sara-landry-s-blood-oath",
+      "name": "Sara Landry's Blood Oath",
+      "stageId": "quasar",
+      "day": "sun",
+      "start": "2027-04-18T20:00:00-07:00",
+      "end": "2027-04-18T22:00:00-07:00"
+    },
+    {
+      "id": "whomadewho",
+      "idx": 152,
+      "artistId": "whomadewho",
+      "name": "WhoMadeWho",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T20:30:00-07:00",
+      "end": "2027-04-18T22:00:00-07:00"
+    },
+    {
+      "id": "laufey",
+      "idx": 153,
+      "artistId": "laufey",
+      "name": "Laufey",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T20:45:00-07:00",
+      "end": "2027-04-18T21:45:00-07:00"
+    },
+    {
+      "id": "fka-twigs",
+      "idx": 154,
+      "artistId": "fka-twigs",
+      "name": "FKA twigs",
+      "stageId": "mojave",
+      "day": "sun",
+      "start": "2027-04-18T20:45:00-07:00",
+      "end": "2027-04-18T22:00:00-07:00"
+    },
+    {
+      "id": "subtronics",
+      "idx": 155,
+      "artistId": "subtronics",
+      "name": "Subtronics",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T21:05:00-07:00",
+      "end": "2027-04-18T22:05:00-07:00"
+    },
+    {
+      "id": "the-rapture",
+      "idx": 156,
+      "artistId": "the-rapture",
+      "name": "The Rapture",
+      "stageId": "gobi",
+      "day": "sun",
+      "start": "2027-04-18T21:05:00-07:00",
+      "end": "2027-04-18T21:55:00-07:00"
+    },
+    {
+      "id": "french-police",
+      "idx": 157,
+      "artistId": "french-police",
+      "name": "French Police",
+      "stageId": "sonora",
+      "day": "sun",
+      "start": "2027-04-18T21:10:00-07:00",
+      "end": "2027-04-18T22:00:00-07:00"
+    },
+    {
+      "id": "green-velvet-x-ayybo",
+      "idx": 158,
+      "artistId": "green-velvet-x-ayybo",
+      "name": "Green Velvet x AYYBO",
+      "stageId": "yuma",
+      "day": "sun",
+      "start": "2027-04-18T22:00:00-07:00",
+      "end": "2027-04-18T23:55:00-07:00"
+    },
+    {
+      "id": "karol-g",
+      "idx": 159,
+      "artistId": "karol-g",
+      "name": "KAROL G",
+      "stageId": "coachella",
+      "day": "sun",
+      "start": "2027-04-18T22:10:00-07:00",
+      "end": "2027-04-19T01:00:00-07:00"
+    },
+    {
+      "id": "bigbang",
+      "idx": 160,
+      "artistId": "bigbang",
+      "name": "BIGBANG",
+      "stageId": "outdoor",
+      "day": "sun",
+      "start": "2027-04-18T22:30:00-07:00",
+      "end": "2027-04-18T23:30:00-07:00"
+    },
+    {
+      "id": "kaskade",
+      "idx": 161,
+      "artistId": "kaskade",
+      "name": "Kaskade",
+      "stageId": "sahara",
+      "day": "sun",
+      "start": "2027-04-18T22:50:00-07:00",
+      "end": "2027-04-18T23:55:00-07:00"
+    }
+  ],
+  "walks": [
+    {
+      "from": "coachella",
+      "to": "outdoor",
+      "minMin": 2,
+      "maxMin": 3
+    },
+    {
+      "from": "coachella",
+      "to": "gobi",
+      "minMin": 5,
+      "maxMin": 7
+    },
+    {
+      "from": "coachella",
+      "to": "mojave",
+      "minMin": 5,
+      "maxMin": 7
+    },
+    {
+      "from": "coachella",
+      "to": "sonora",
+      "minMin": 6,
+      "maxMin": 8
+    },
+    {
+      "from": "coachella",
+      "to": "yuma",
+      "minMin": 7,
+      "maxMin": 9
+    },
+    {
+      "from": "coachella",
+      "to": "sahara",
+      "minMin": 12,
+      "maxMin": 15
+    },
+    {
+      "from": "coachella",
+      "to": "quasar",
+      "minMin": 13,
+      "maxMin": 16
+    },
+    {
+      "from": "outdoor",
+      "to": "gobi",
+      "minMin": 4,
+      "maxMin": 6
+    },
+    {
+      "from": "outdoor",
+      "to": "mojave",
+      "minMin": 4,
+      "maxMin": 6
+    },
+    {
+      "from": "outdoor",
+      "to": "sonora",
+      "minMin": 5,
+      "maxMin": 7
+    },
+    {
+      "from": "outdoor",
+      "to": "yuma",
+      "minMin": 6,
+      "maxMin": 8
+    },
+    {
+      "from": "outdoor",
+      "to": "sahara",
+      "minMin": 11,
+      "maxMin": 14
+    },
+    {
+      "from": "outdoor",
+      "to": "quasar",
+      "minMin": 12,
+      "maxMin": 15
+    },
+    {
+      "from": "gobi",
+      "to": "mojave",
+      "minMin": 1,
+      "maxMin": 2
+    },
+    {
+      "from": "gobi",
+      "to": "sonora",
+      "minMin": 2,
+      "maxMin": 3
+    },
+    {
+      "from": "gobi",
+      "to": "yuma",
+      "minMin": 3,
+      "maxMin": 4
+    },
+    {
+      "from": "gobi",
+      "to": "sahara",
+      "minMin": 8,
+      "maxMin": 11
+    },
+    {
+      "from": "gobi",
+      "to": "quasar",
+      "minMin": 9,
+      "maxMin": 12
+    },
+    {
+      "from": "mojave",
+      "to": "sonora",
+      "minMin": 2,
+      "maxMin": 3
+    },
+    {
+      "from": "mojave",
+      "to": "yuma",
+      "minMin": 3,
+      "maxMin": 4
+    },
+    {
+      "from": "mojave",
+      "to": "sahara",
+      "minMin": 8,
+      "maxMin": 11
+    },
+    {
+      "from": "mojave",
+      "to": "quasar",
+      "minMin": 9,
+      "maxMin": 12
+    },
+    {
+      "from": "sonora",
+      "to": "yuma",
+      "minMin": 2,
+      "maxMin": 3
+    },
+    {
+      "from": "sonora",
+      "to": "sahara",
+      "minMin": 8,
+      "maxMin": 10
+    },
+    {
+      "from": "sonora",
+      "to": "quasar",
+      "minMin": 9,
+      "maxMin": 11
+    },
+    {
+      "from": "yuma",
+      "to": "sahara",
+      "minMin": 7,
+      "maxMin": 10
+    },
+    {
+      "from": "yuma",
+      "to": "quasar",
+      "minMin": 8,
+      "maxMin": 11
+    },
+    {
+      "from": "sahara",
+      "to": "quasar",
+      "minMin": 2,
+      "maxMin": 3
+    }
+  ]
+}

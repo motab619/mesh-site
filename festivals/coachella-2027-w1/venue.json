@@ -1,0 +1,660 @@
+{
+  "type": "FeatureCollection",
+  "venue": {
+    "version": 1,
+    "name": "Coachella 2026",
+    "year": 2026,
+    "updated": "2026-10-12"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12-peaks-nw",
+        "kind": "landmark",
+        "name": "12 Peaks NW corner",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high",
+        "notes": "NW corner of the 12 Peaks structure (2026 drawing shows it)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.241031,
+          33.683453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yuma-se",
+        "kind": "landmark",
+        "name": "Yuma SE corner",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high",
+        "notes": "SE corner of the Yuma tent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.241955,
+          33.681983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sonora-se",
+        "kind": "landmark",
+        "name": "Sonora SE corner",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high",
+        "notes": "SE corner of the Sonora tent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.236684,
+          33.68131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "indio-central-market-nw",
+        "kind": "landmark",
+        "name": "Indio Central Market NW corner",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.235313,
+          33.682789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sahara-sw",
+        "kind": "landmark",
+        "name": "Sahara SW corner",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high",
+        "notes": "SW corner of the Sahara tent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.242035,
+          33.676317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lake-eldorado-n",
+        "kind": "landmark",
+        "name": "Lake Eldorado N tip",
+        "year": 2026,
+        "source": "dan-2026-10",
+        "confidence": "high",
+        "notes": "Camping side; the only surveyed camp landmark so far."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.24785,
+          33.68098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sahara",
+        "kind": "stage",
+        "name": "Sahara",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 9261
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.241699,
+              33.677099
+            ],
+            [
+              -116.242038,
+              33.676317
+            ],
+            [
+              -116.241021,
+              33.676008
+            ],
+            [
+              -116.24069,
+              33.676797
+            ],
+            [
+              -116.241699,
+              33.677099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bunker",
+        "kind": "area",
+        "name": "The Bunker",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 3825
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.241349,
+              33.677442
+            ],
+            [
+              -116.240696,
+              33.677443
+            ],
+            [
+              -116.240703,
+              33.678018
+            ],
+            [
+              -116.241348,
+              33.67801
+            ],
+            [
+              -116.241349,
+              33.677442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "do-lab",
+        "kind": "stage",
+        "name": "Do LaB",
+        "short": "Do LaB",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 7401
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.240725,
+              33.678402
+            ],
+            [
+              -116.240548,
+              33.678431
+            ],
+            [
+              -116.240445,
+              33.678499
+            ],
+            [
+              -116.240324,
+              33.678568
+            ],
+            [
+              -116.240233,
+              33.678644
+            ],
+            [
+              -116.240151,
+              33.678758
+            ],
+            [
+              -116.240106,
+              33.678853
+            ],
+            [
+              -116.240093,
+              33.678984
+            ],
+            [
+              -116.240097,
+              33.679079
+            ],
+            [
+              -116.240238,
+              33.67918
+            ],
+            [
+              -116.240445,
+              33.679275
+            ],
+            [
+              -116.240758,
+              33.679247
+            ],
+            [
+              -116.241008,
+              33.679116
+            ],
+            [
+              -116.24114,
+              33.678955
+            ],
+            [
+              -116.24119,
+              33.678839
+            ],
+            [
+              -116.24118,
+              33.678722
+            ],
+            [
+              -116.241123,
+              33.678569
+            ],
+            [
+              -116.240922,
+              33.678417
+            ],
+            [
+              -116.240725,
+              33.678402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yuma",
+        "kind": "stage",
+        "name": "Yuma",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 3984
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.24239,
+              33.681985
+            ],
+            [
+              -116.241938,
+              33.68201
+            ],
+            [
+              -116.242013,
+              33.682862
+            ],
+            [
+              -116.242458,
+              33.68285
+            ],
+            [
+              -116.24239,
+              33.681985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "coachella",
+        "kind": "stage",
+        "name": "Coachella Stage",
+        "short": "Coachella",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 33328
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.239697,
+              33.682285
+            ],
+            [
+              -116.237985,
+              33.682272
+            ],
+            [
+              -116.238002,
+              33.684163
+            ],
+            [
+              -116.239714,
+              33.68417
+            ],
+            [
+              -116.239697,
+              33.682285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "outdoor",
+        "kind": "stage",
+        "name": "Outdoor Theatre",
+        "short": "Outdoor",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 9045
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.236126,
+              33.68344
+            ],
+            [
+              -116.235058,
+              33.683291
+            ],
+            [
+              -116.235029,
+              33.684182
+            ],
+            [
+              -116.235944,
+              33.684291
+            ],
+            [
+              -116.236126,
+              33.68344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sonora",
+        "kind": "stage",
+        "name": "Sonora",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 2290
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.236681,
+              33.681307
+            ],
+            [
+              -116.236428,
+              33.681611
+            ],
+            [
+              -116.23679,
+              33.681817
+            ],
+            [
+              -116.236903,
+              33.681843
+            ],
+            [
+              -116.237014,
+              33.681832
+            ],
+            [
+              -116.237081,
+              33.68177
+            ],
+            [
+              -116.237133,
+              33.681688
+            ],
+            [
+              -116.237121,
+              33.681609
+            ],
+            [
+              -116.237088,
+              33.681541
+            ],
+            [
+              -116.237028,
+              33.681503
+            ],
+            [
+              -116.236681,
+              33.681307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gobi",
+        "kind": "stage",
+        "name": "Gobi",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 2543
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.236647,
+              33.680718
+            ],
+            [
+              -116.236652,
+              33.681105
+            ],
+            [
+              -116.237294,
+              33.681103
+            ],
+            [
+              -116.237298,
+              33.680727
+            ],
+            [
+              -116.236647,
+              33.680718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mojave",
+        "kind": "stage",
+        "name": "Mojave",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 4016
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.236704,
+              33.679528
+            ],
+            [
+              -116.236709,
+              33.680002
+            ],
+            [
+              -116.237517,
+              33.679993
+            ],
+            [
+              -116.237522,
+              33.679509
+            ],
+            [
+              -116.236704,
+              33.679528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ferris-wheel",
+        "kind": "landmark",
+        "name": "Ferris wheel",
+        "short": "Wheel",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "notes": "Centre of a traced outline (857 m²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.241682,
+          33.680485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "quasar",
+        "kind": "stage",
+        "name": "Quasar",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "areaM2": 5781
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -116.238541,
+              33.678731
+            ],
+            [
+              -116.23859,
+              33.679371
+            ],
+            [
+              -116.238956,
+              33.67921
+            ],
+            [
+              -116.239737,
+              33.678837
+            ],
+            [
+              -116.239081,
+              33.678486
+            ],
+            [
+              -116.238541,
+              33.678731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "spectra",
+        "kind": "landmark",
+        "name": "Spectra",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "notes": "Centre of a traced outline (267 m²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.240256,
+          33.681394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "water",
+        "kind": "water",
+        "name": "Water refill",
+        "short": "Water",
+        "year": 2026,
+        "source": "google-earth-2026-04-wk1",
+        "confidence": "high",
+        "notes": "Centre of a traced outline (18 m²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.238115,
+          33.681248
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "festivals": [
+    {
+      "id": "coachella-2027-w1",
+      "name": "Coachella 2027",
+      "subtitle": "Weekend 1 · Indio, CA",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-18",
+      "lineup": "coachella-2027-w1/lineup.json",
+      "venue": "coachella-2027-w1/venue.json",
+      "overlays": null
+    }
+  ]
+}
