@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["P68H74992L.com.motab619.coachellamesh"],
+        "components": [{ "/": "/join" }, { "/": "/join/*" }]
+      }
+    ]
+  }
+}

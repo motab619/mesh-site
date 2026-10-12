@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coachella Mesh invite</title>
+<meta property="og:title" content="Coachella Mesh invite">
+<meta property="og:description" content="You've been invited to a squad. Tap to join.">
+<meta name="robots" content="noindex">
+<style>
+  :root { color-scheme: dark; --bg: #08080d; --surface: #111118; --border: #222230; --text: #ece9f5;
+          --sub: #9590ad; --accent: #ff6b35; --hot: #ff2d55; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; background: var(--bg); color: var(--text);
+         font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; padding: 48px 16px; }
+  main { max-width: 420px; margin: 0 auto; }
+  .eyebrow { color: var(--sub); font-size: 13px; text-transform: uppercase; letter-spacing: .08em; margin: 0 0 4px; }
+  h1 { font-size: 28px; line-height: 1.2; margin: 0 0 4px; overflow-wrap: anywhere; }
+  .from { color: var(--sub); margin: 0 0 28px; }
+  ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+  li { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+  li h2 { font-size: 15px; margin: 0 0 4px; }
+  li p { color: var(--sub); font-size: 14px; margin: 0 0 12px; }
+  .btn { display: block; text-align: center; background: var(--accent); color: var(--bg); font-weight: 700;
+         text-decoration: none; border-radius: 12px; padding: 12px; }
+  .btn.secondary { background: transparent; color: var(--text); border: 1px solid var(--border); }
+  .error { color: var(--hot); }
+  .note { color: var(--sub); font-size: 13px; margin-top: 24px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<main>
+  <section id="invite" hidden>
+    <p class="eyebrow">Coachella Mesh invite</p>
+    <h1>You're invited to <span id="squad"></span></h1>
+    <p class="from" id="from" hidden>from <span id="from-name"></span></p>
+    <ol>
+      <li>
+        <h2>1. Get the app</h2>
+        <p>Install Apple's TestFlight app, then Coachella Mesh.</p>
+        <a class="btn secondary" id="testflight" href="#" hidden>Get Coachella Mesh on TestFlight</a>
+        <p id="no-testflight">Ask whoever invited you for the TestFlight link.</p>
+      </li>
+      <li>
+        <h2>2. Open the invite</h2>
+        <p>Already have the app? This opens your invite in it.</p>
+        <a class="btn" id="open" href="#">Open in Coachella Mesh</a>
+      </li>
+    </ol>
+    <p class="note">The squad's radio key travels inside this link and never reaches this website. Only share it with people you want in the squad.</p>
+  </section>
+  <section id="bad" hidden>
+    <p class="eyebrow">Coachella Mesh invite</p>
+    <h1>This invite link is incomplete</h1>
+    <p class="error">Ask for a new one, and copy the whole link.</p>
+  </section>
+  <noscript><p>Turn on JavaScript to see this invite, or open the link from the Coachella Mesh app.</p></noscript>
+</main>
+<script>
+  // Filled in once the TestFlight external group exists.
+  var TESTFLIGHT_URL = "";
+  (function () {
+    var hash = location.hash.slice(1);
+    var params = {};
+    hash.split("&").forEach(function (kv) {
+      var i = kv.indexOf("=");
+      if (i > 0) {
+        try { params[kv.slice(0, i)] = decodeURIComponent(kv.slice(i + 1)); } catch (e) { /* bad escape: ignore */ }
+      }
+    });
+    if (params.v !== "1" || !params.c || !params.n) {
+      document.getElementById("bad").hidden = false;
+      return;
+    }
+    document.getElementById("squad").textContent = params.n;
+    if (params.f) {
+      document.getElementById("from-name").textContent = params.f;
+      document.getElementById("from").hidden = false;
+    }
+    if (TESTFLIGHT_URL) {
+      var tf = document.getElementById("testflight");
+      tf.href = TESTFLIGHT_URL;
+      tf.hidden = false;
+      document.getElementById("no-testflight").hidden = true;
+    }
+    document.getElementById("open").href = "coachellamesh://join#" + hash;
+    document.getElementById("invite").hidden = false;
+  })();
+</script>
+</body>
+</html>
