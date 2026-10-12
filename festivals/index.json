@@ -9,7 +9,8 @@
       "endDate": "2027-04-18",
       "lineup": "coachella-2027-w1/lineup.json",
       "venue": "coachella-2027-w1/venue.json",
-      "overlays": null
+      "overlays": null,
+      "food": "coachella-2027-w1/food.json"
     }
   ]
 }
