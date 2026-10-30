@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "coachella-2027-w2",
+  "rev": 1,
+  "festival": { "name": "Coachella 2027", "tz": "America/Los_Angeles" },
+  "days": [
+    { "id": "fri", "date": "2027-04-23", "label": "Friday" },
+    { "id": "sat", "date": "2027-04-24", "label": "Saturday" },
+    { "id": "sun", "date": "2027-04-25", "label": "Sunday" }
+  ],
+  "stages": [
+    { "id": "coachella", "name": "Coachella" },
+    { "id": "outdoor", "name": "Outdoor" },
+    { "id": "sahara", "name": "Sahara" },
+    { "id": "mojave", "name": "Mojave" },
+    { "id": "gobi", "name": "Gobi" },
+    { "id": "sonora", "name": "Sonora" },
+    { "id": "yuma", "name": "Yuma" },
+    { "id": "quasar", "name": "Quasar" }
+  ],
+  "sets": [],
+  "tba": [
+    { "id": "test-band-the-placeholders", "idx": 0, "artistId": "test-band-the-placeholders", "name": "Test Band: The Placeholders", "day": "fri" },
+    { "id": "test-band-dj-lorem-ipsum", "idx": 1, "artistId": "test-band-dj-lorem-ipsum", "name": "Test Band: DJ Lorem Ipsum", "day": "sat" }
+  ],
+  "artists": {
+    "test-band-the-placeholders": {
+      "genres": ["indie rock", "surf rock"],
+      "vibes": ["golden hour"],
+      "tier": "big",
+      "blurb": "Not a real band. A test entry so the crew can try picks, notes and recommendations before the real lineup drops."
+    },
+    "test-band-dj-lorem-ipsum": {
+      "genres": ["house", "indie rock"],
+      "vibes": ["sunset dance"],
+      "tier": "mid",
+      "blurb": "Not a real act either. Shares a genre with The Placeholders so \"If you like this\" has something to show."
+    }
+  },
+  "credits": "Test lineup — not the real Coachella 2027 lineup."
+}
