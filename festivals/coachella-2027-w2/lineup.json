@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "coachella-2027-w2",
-  "rev": 2,
+  "rev": 3,
   "festival": {
     "name": "Coachella 2027",
     "tz": "America/Los_Angeles"
@@ -1147,469 +1147,2508 @@
   ],
   "artists": {
     "dua-lipa": {
-      "tier": "headliner"
+      "tier": "headliner",
+      "appleMusic": "https://music.apple.com/us/artist/dua-lipa/1031397873",
+      "genres": [
+        "dance-pop",
+        "nu-disco",
+        "synth-pop"
+      ],
+      "vibes": [
+        "headliner cardio"
+      ],
+      "subs": [
+        "disco-pop",
+        "pop"
+      ],
+      "collabs": [
+        "tame-impala",
+        "martin-garrix"
+      ],
+      "blurb": "Disco-built pop with a gym-class work ethic. The Radical Optimism tour wrapped in Mexico City in late 2025 and spawned a live album and film; she has been in the studio on album four since. Expect a hit-dense set made for a field singing along."
     },
     "madonna": {
-      "tier": "special"
+      "tier": "special",
+      "appleMusic": "https://music.apple.com/us/artist/madonna/20044",
+      "genres": [
+        "dance-pop",
+        "house",
+        "disco"
+      ],
+      "vibes": [
+        "strike a pose"
+      ],
+      "subs": [
+        "synth-pop",
+        "pop"
+      ],
+      "blurb": "The blueprint for club-rooted pop stardom. Her 2026 album Confessions II reunites her with Stuart Price for a nonstop dance-floor sequel to the 2005 record, and critics called it her best in two decades. She cameoed at Coachella 2026 with Sabrina Carpenter."
     },
     "zara-larsson": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/zara-larsson/570372593",
+      "genres": [
+        "dance-pop",
+        "electropop"
+      ],
+      "vibes": [
+        "golden hour belter"
+      ],
+      "subs": [
+        "swedish pop",
+        "pop"
+      ],
+      "blurb": "Swedish pop powerhouse who won a TV talent show at ten and never looked back. Her 2025 album Midnight Sun leans glossy and summery, and its tour sold out across North America, Asia and Australia through 2026. Big vocals, bigger choruses."
     },
     "steve-lacy": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/steve-lacy/1210275020",
+      "genres": [
+        "alternative r&b",
+        "contemporary r&b",
+        "neo-soul"
+      ],
+      "vibes": [
+        "falsetto in the shade"
+      ],
+      "subs": [
+        "funk",
+        "bedroom pop",
+        "indie rock"
+      ],
+      "collabs": [
+        "sza"
+      ],
+      "blurb": "Guitarist-producer who went from The Internet and phone-made beats to a Grammy with Gemini Rights. His self-produced third album Oh yeah? (July 2026) is his most vulnerable, with SZA and Erykah Badu guesting. Wiry funk guitar, falsetto, and loose charm."
     },
     "jisoo": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/jisoo/1548008317",
+      "genres": [
+        "k-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "blink and you'll cry"
+      ],
+      "subs": [
+        "synth-pop"
+      ],
+      "blurb": "BLACKPINK's Jisoo is in the middle of rolling out her first full-length solo album: pre-release singles \"Click\" (September 2026) and \"Addicted\" (October) followed the 2025 mini album Amortage. Polished K-pop with a cinematic streak."
     },
     "diljit-dosanjh": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/diljit-dosanjh/423087540",
+      "genres": [
+        "punjabi pop",
+        "bhangra"
+      ],
+      "vibes": [
+        "turban-fresh hype"
+      ],
+      "subs": [
+        "desi hip hop",
+        "pop"
+      ],
+      "blurb": "Punjabi superstar and film actor who made history at Coachella 2023 and now fills stadiums worldwide. His 2026 Aura tour set records for a Punjabi act in North America and took him to Wembley. Bhangra drums, swagger and full-crowd call-and-response."
     },
     "peggy-gou": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/peggy-gou/1068912248",
+      "genres": [
+        "house",
+        "deep house",
+        "dance-pop"
+      ],
+      "vibes": [
+        "nanana o'clock"
+      ],
+      "subs": [
+        "90s house",
+        "electro"
+      ],
+      "collabs": [
+        "ayra-starr"
+      ],
+      "blurb": "Berlin-based Korean DJ who turned retro house into festival-sized pop. After 2024's debut album I Hear You, she returned in summer 2026 with \"Wo,man\" featuring Ayra Starr. Her sets mix classic house cuts with her own sing-along hooks."
     },
     "kehlani": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/kehlani/690126399",
+      "genres": [
+        "contemporary r&b",
+        "neo-soul"
+      ],
+      "vibes": [
+        "folded, not stirred"
+      ],
+      "subs": [
+        "hip-hop soul",
+        "r&b"
+      ],
+      "blurb": "Oakland R&B singer whose 2025 single \"Folded\" became a slow-burning smash and won two Grammys. Her self-titled fifth album arrived in April 2026 with a warm, throwback R&B sound. Smooth vocals, frank lyrics."
     },
     "solid-grooves": {
-      "tier": "big"
+      "tier": "big",
+      "genres": [
+        "tech house",
+        "house",
+        "minimal house"
+      ],
+      "vibes": [
+        "phones in pockets"
+      ],
+      "blurb": "The London tech house label and party that rules Thursdays at DC10 in Ibiza, founded by Michael Bibi and PAWSA. Expect a rotating crew going back to back on rolling, groovy, bass-heavy tech house — the 2026 Ibiza nights even banned phones."
     },
     "giorgio-moroder": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/giorgio-moroder/286681",
+      "genres": [
+        "disco",
+        "synth-pop"
+      ],
+      "vibes": [
+        "where it all began"
+      ],
+      "subs": [
+        "euro disco",
+        "italo disco",
+        "electronic"
+      ],
+      "blurb": "The producer who put a synthesizer sequence under Donna Summer's \"I Feel Love\" and changed dance music. Also an Oscar-winning soundtrack composer. In his 80s, his live shows play like a greatest-hits tour of disco and 80s pop."
     },
     "social-distortion": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/social-distortion/543473",
+      "genres": [
+        "punk rock",
+        "cowpunk"
+      ],
+      "vibes": [
+        "pomade and poetry"
+      ],
+      "subs": [
+        "roots rock",
+        "rock"
+      ],
+      "blurb": "Mike Ness's Orange County punk lifers, mixing punk with country and blues swagger. Born to Kill (May 2026, Epitaph) is their first album in 15 years and comes after Ness's recovery from cancer. Greased hair, big riffs, sing-along heartbreak."
     },
     "pinegrove": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/pinegrove/1045791526",
+      "genres": [
+        "indie rock",
+        "alt-country & americana",
+        "emo"
+      ],
+      "vibes": [
+        "group-hug singalong"
+      ],
+      "subs": [
+        "alt-country",
+        "midwest emo",
+        "folk rock"
+      ],
+      "blurb": "Evan Stephens Hall's band, where emo's confessional rush meets alt-country twang. Cardinal (2016) made them DIY heroes; their latest album is 11:11 (2022), and they toured through 2026. Expect tender, wordy songs and a crowd that knows every line."
     },
     "angine-de-poitrine": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/angine-de-poitrine/1750092191",
+      "genres": [
+        "math rock",
+        "indie rock"
+      ],
+      "vibes": [
+        "polka-dot prog"
+      ],
+      "subs": [
+        "experimental rock",
+        "microtonal",
+        "instrumental rock"
+      ],
+      "blurb": "Masked, polka-dotted duo from Saguenay playing looped, microtonal math rock on a custom double-neck guitar plus drums. A KEXP video in early 2026 made them a global curiosity overnight. Instrumental, odd-time, and very much a spectacle."
     },
     "leon-thomas": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/leon-thomas/267251475",
+      "genres": [
+        "contemporary r&b",
+        "neo-soul"
+      ],
+      "vibes": [
+        "grown-folks groove"
+      ],
+      "subs": [
+        "funk",
+        "r&b"
+      ],
+      "collabs": [
+        "sza"
+      ],
+      "blurb": "Former Nickelodeon actor turned in-demand R&B writer, co-writer of SZA's \"Snooze.\" His album Mutt won Best R&B Album at the 2026 Grammys and earned six nominations. Live, he plays guitar and sings with a warm, retro-soul feel."
     },
     "drain-gang": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/drain-gang/1516311027",
+      "genres": [
+        "cloud rap & emo rap",
+        "trap",
+        "hyperpop"
+      ],
+      "vibes": [
+        "drainer congregation"
+      ],
+      "subs": [
+        "cloud rap",
+        "emo rap",
+        "experimental hip hop",
+        "trance"
+      ],
+      "blurb": "The Stockholm collective of Bladee, Ecco2k and Thaiboy Digital, whose blurry, auto-tuned cloud rap shaped a generation of internet music. 2026 brought Bladee's Sulfur Surfer and Thaiboy's Paradise. Live shows feel like a devotional rave for the Drainers."
     },
     "snow-strippers": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/snow-strippers/1597165659",
+      "genres": [
+        "electroclash & indie sleaze",
+        "trance"
+      ],
+      "vibes": [
+        "myspace rave"
+      ],
+      "subs": [
+        "electroclash",
+        "witch house",
+        "hyperpop",
+        "electropop"
+      ],
+      "blurb": "Detroit duo making MySpace-era rave music: trancey synths, blown-out kicks and breathy vocals. The Night Killaz EPs (2023–24) made them cult favourites, and a sold-out 2026 North American tour followed. Pure strobe-light nostalgia."
     },
     "mike-d-5d": {
-      "tier": "mid"
+      "tier": "mid",
+      "genres": [
+        "alternative hip-hop",
+        "bass music & glitch hop"
+      ],
+      "vibes": [
+        "paul's boutique, pt. 2"
+      ],
+      "subs": [
+        "alternative hip hop",
+        "glitch hop",
+        "rap rock",
+        "electronic"
+      ],
+      "blurb": "Beastie Boys co-founder Mike D's new band with his sons. Debut album Thank You (August 2026) is glitchy, distorted rap over stuttering breaks, the first full-length from a Beastie since 2011. Live sets splice new songs with Beastie Boys hits."
     },
     "chris-stassy": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/chris-stassy/6803988477",
+      "genres": [
+        "house",
+        "deep house",
+        "minimal house"
+      ],
+      "vibes": [
+        "same groove, new vowel"
+      ],
+      "subs": [
+        "tech house"
+      ],
+      "blurb": "Dutch DJ-producer, formerly Chris Stussy, who renamed himself in August 2026. A leading name in groovy, dub-tinged deep and minimal house, he runs the Up The Stuss label and has played Coachella before. Sets lean on unreleased tracks."
     },
     "milo-j": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/milo-j/1597598951",
+      "genres": [
+        "latin trap & rap"
+      ],
+      "vibes": [
+        "folk-trap prodigy"
+      ],
+      "subs": [
+        "argentine trap",
+        "latin hip hop",
+        "argentine folk",
+        "art pop"
+      ],
+      "blurb": "Argentine rapper born in 2006 who broke out with a Bizarrap session as a teen. His 2025 album La Vida Era Más Corta swerved into Argentine folklore, with a posthumous Mercedes Sosa duet, and earned seven Latin Grammy nominations."
     },
     "sg-lewis": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/sg-lewis/966324292",
+      "genres": [
+        "nu-disco",
+        "disco",
+        "house"
+      ],
+      "vibes": [
+        "sunset disco ball"
+      ],
+      "subs": [
+        "balearic",
+        "synth-pop",
+        "electronic"
+      ],
+      "collabs": [
+        "shygirl",
+        "robyn"
+      ],
+      "blurb": "British producer of glossy, nostalgic dance music. Anemoia (September 2025) drew on early trance, Balearic house and 2000s electronica, with Shygirl, London Grammar and Oliver Sim guesting. He plays it live with a band, between club set and pop show."
     },
     "kelela": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/kelela/549186342",
+      "genres": [
+        "alternative r&b",
+        "contemporary r&b",
+        "downtempo & trip-hop"
+      ],
+      "vibes": [
+        "slow-motion rave"
+      ],
+      "subs": [
+        "electronic",
+        "ambient",
+        "club",
+        "neo-soul"
+      ],
+      "blurb": "Singer who sets airy R&B vocals over club and ambient production. Her third album, new avatar (Warp, July 2026), follows 2023's Raven and pulls in psych-rock and shoegaze textures, with guests PinkPantheress, Fousheé and A. K. Paul."
     },
     "franky-rizardo": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/franky-rizardo/212264439",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "groove merchant"
+      ],
+      "subs": [
+        "minimal house"
+      ],
+      "blurb": "Dutch DJ-producer playing groove-heavy tech house. His label LTF Records was among Beatport's top-selling house labels of 2025, he hosts FLOW at Pacha Ibiza, and 2026 brought \"Shinjuku\", \"Zero Azúcar\" and \"More To Life\" with Carston."
     },
     "fetty-wap": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/fetty-wap/872900424",
+      "genres": [
+        "melodic rap",
+        "trap"
+      ],
+      "vibes": [
+        "1738 singalong"
+      ],
+      "subs": [
+        "hip hop"
+      ],
+      "blurb": "Paterson rapper whose sing-rap hooks defined 2015 with \"Trap Queen\". Released early from federal prison in early 2026, he returned with the album Zavier on 300 Entertainment that March and a summer Nostalgia Tour."
     },
     "vintage-culture": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/vintage-culture/649942687",
+      "genres": [
+        "melodic house",
+        "deep house",
+        "progressive house"
+      ],
+      "vibes": [
+        "sunset sprint"
+      ],
+      "subs": [
+        "brazilian bass",
+        "house"
+      ],
+      "blurb": "Brazilian DJ-producer Lukas Ruiz, one of South America's biggest dance acts. Sets swing between melodic, progressive and vocal house; 2026 opened with the singles \"Malabaris\" (with Mila Journée) and the more reflective \"Meu Verão\"."
     },
     "the-damned": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/the-damned/3184019",
+      "genres": [
+        "punk rock",
+        "gothic rock"
+      ],
+      "vibes": [
+        "50 years of mohawks"
+      ],
+      "subs": [
+        "post-punk"
+      ],
+      "blurb": "Founding UK punk band, first of their scene to release a single, later drifting into goth and psychedelia. 2026 marks their 50th anniversary: a covers album, Not Like Everybody Else, honours late guitarist Brian James, with Rat Scabies back on drums."
     },
     "atarashii-gakko": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/atarashii-gakko/1231338664",
+      "genres": [
+        "j-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "choreo chaos"
+      ],
+      "subs": [
+        "hip hop",
+        "punk"
+      ],
+      "blurb": "Four-member Japanese group in school uniforms whose shows mix acrobatic choreography, shouty raps and punk energy. Their fourth album, From Tokyo with Love (88rising), was led by the 2026 single \"Oi AG!\"."
     },
     "nettspend": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/nettspend/1662047435",
+      "genres": [
+        "rage",
+        "trap",
+        "cloud rap & emo rap"
+      ],
+      "vibes": [
+        "mosh in a hoodie"
+      ],
+      "subs": [
+        "plugg",
+        "cloud rap",
+        "hip hop"
+      ],
+      "blurb": "Teen Richmond rapper who rose from SoundCloud with a whispery delivery over hazy, glitchy beats. His debut album early life crisis (Interscope, March 2026) features YoungBoy Never Broke Again and OsamaSon; the Virginia Creeper EP followed in October."
     },
     "american-football": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/american-football/27560658",
+      "genres": [
+        "midwest emo",
+        "emo",
+        "math rock",
+        "indie rock"
+      ],
+      "vibes": [
+        "the house on the cover"
+      ],
+      "subs": [
+        "post-rock"
+      ],
+      "blurb": "Midwest emo touchstone led by Mike Kinsella, known for chiming twin guitars, odd time signatures and trumpet. Their fourth self-titled album (LP4, Polyvinyl, May 2026), led by the eight-minute \"Bad Moons\", was their first in seven years."
     },
     "xaviersobased": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/xaviersobased/1540848340",
+      "genres": [
+        "jerk & plugg",
+        "cloud rap & emo rap"
+      ],
+      "vibes": [
+        "chopped and confused"
+      ],
+      "subs": [
+        "jerk",
+        "cloud rap",
+        "plugg",
+        "new york hip hop"
+      ],
+      "blurb": "New York rapper and tastemaker from the 1-Chance crew, known for chopped, sample-heavy beats and mumbled flows that shaped the city's jerk revival. His 20-track debut album Xavier came out in January 2026 via Surf Gang and Atlantic."
     },
     "la-dispute": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/la-dispute/151818067",
+      "genres": [
+        "post-hardcore",
+        "hardcore punk",
+        "emo"
+      ],
+      "vibes": [
+        "bring tissues"
+      ],
+      "subs": [
+        "spoken word",
+        "math rock"
+      ],
+      "blurb": "Michigan post-hardcore band fronted by Jordan Dreyer, whose half-spoken, half-screamed storytelling carries long, dynamic songs. Their fifth album No One Was Driving the Car (Epitaph, Sept 2025) was their first in six years."
     },
     "haute-and-freddy": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/haute-freddy/1751891683",
+      "genres": [
+        "synth-pop",
+        "alt-pop"
+      ],
+      "vibes": [
+        "jester core"
+      ],
+      "subs": [
+        "dance-pop"
+      ],
+      "blurb": "LA duo of singer Michelle Buzz and drummer Lance Shipp, pairing '80s synths with theatrical, court-jester staging. After the viral \"Sophie\", they signed to Atlantic and released the debut album Big Disgrace in March 2026."
     },
     "the-hellp": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/the-hellp/1143680187",
+      "genres": [
+        "electroclash & indie sleaze",
+        "indietronica"
+      ],
+      "vibes": [
+        "indie sleaze 2.0"
+      ],
+      "subs": [
+        "electroclash",
+        "indie sleaze",
+        "synth-punk",
+        "indie electronic"
+      ],
+      "blurb": "LA duo of Noah Dillon and Chandler Lucy reviving electroclash and bloghouse with fuzzed vocals, punk attitude and fashion-world styling. Second album Riviera (Atlantic) arrived in November 2025 after 2024's LL."
     },
     "disco-dom": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/disco-dom/1629027705",
+      "genres": [
+        "disco house",
+        "house",
+        "nu-disco"
+      ],
+      "vibes": [
+        "mirrorball required"
+      ],
+      "subs": [
+        "funk"
+      ],
+      "blurb": "Disco-funk side project of French house DJ Dombresky, launched with a beach set at EDC Las Vegas 2021. Sets lean on '70s-style refunk edits; a 2025 Inferno show at the LA Palladium grew it into a headline act."
     },
     "mph": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/mph/465495678",
+      "genres": [
+        "uk garage"
+      ],
+      "vibes": [
+        "two-step dirty"
+      ],
+      "subs": [
+        "bassline",
+        "speed garage",
+        "house"
+      ],
+      "blurb": "Myles Fairbairn, a Canterbury producer-DJ at the front of the modern UK garage and bassline wave. His debut LP 132.00FM (Night Bass, 2023) was followed by Refraction (2024) and the self-released Substance (2025)."
     },
     "bella-kay": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/bella-kay/1706434165",
+      "genres": [
+        "indie pop"
+      ],
+      "vibes": [
+        "scream-along heartbreak"
+      ],
+      "subs": [
+        "pop rock",
+        "bedroom pop"
+      ],
+      "blurb": "Florida-based singer-songwriter behind 2026's guitar-pop breakout \"iloveitiloveitiloveit\", a No. 2 UK hit about a relationship she knows is bad for her. It led the EP A Couple Minutes Out, after her 2025 debut EP Sick to My Stomach."
     },
     "this-is-lorelei": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/this-is-lorelei/1249727049",
+      "genres": [
+        "indie pop",
+        "indie rock"
+      ],
+      "vibes": [
+        "road-trip notebook"
+      ],
+      "subs": [
+        "lo-fi",
+        "alt-country"
+      ],
+      "blurb": "Solo project of Water From Your Eyes' Nate Amos: hooky, homespun songs that drift between power-pop, country and lo-fi. After 2024's Box for Buddy, Box for Star and 2025's Holo Boy, he moved to Matador for The Singer in My Band (Sept 2026)."
     },
     "the-womack-sisters": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/the-womack-sisters/1196425245",
+      "genres": [
+        "soul",
+        "gospel",
+        "contemporary r&b"
+      ],
+      "vibes": [
+        "three-part harmony"
+      ],
+      "subs": [
+        "r&b",
+        "retro soul"
+      ],
+      "blurb": "Sister trio BG, Zeimani and Kucha Womack, daughters of Womack & Womack and granddaughters of Sam Cooke, singing tight-harmony classic soul. They signed to Daptone and released their self-titled debut in 2026."
     },
     "mary-in-the-junkyard": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/mary-in-the-junkyard/1706946585",
+      "genres": [
+        "indie rock"
+      ],
+      "vibes": [
+        "haunted fairytale"
+      ],
+      "subs": [
+        "art rock",
+        "post-punk"
+      ],
+      "blurb": "London trio writing dark, fable-like songs with intricate guitar and sudden swells. Debut album Role Model Hermit (AMF, July 2026, produced by Oli Bayston) followed the 2024 EP This Old House and drew strong reviews."
     },
     "close-friends-only": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/close-friends-only/1783526861",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "local heroes",
+        "hug your homies"
+      ],
+      "subs": [
+        "latin house"
+      ],
+      "collabs": [
+        "bolo"
+      ],
+      "blurb": "Hometown trio from the Coachella Valley who built a following through comedic Twitch streams before playing Electric Forest and Insomniac shows. They play Latin-tinged tech house; 2026 singles include \"Tembleque\" and \"Move Like That\" with BOLO."
     },
     "obskur": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/obsk%C3%BCr/1476149769",
+      "genres": [
+        "house",
+        "uk garage"
+      ],
+      "vibes": [
+        "dublin 909"
+      ],
+      "subs": [
+        "tech house"
+      ],
+      "blurb": "Dublin duo of Lorcan McCarthy and Fausto who met at under-18 club nights; they make 909-driven house with garage swing and vocal chops. Breakout \"Bayside\" (2020) led to Defected and FFRR releases and a BBC Essential Mix."
     },
     "jacob-lusk": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/jacob-lusk/425027040",
+      "genres": [
+        "neo-soul",
+        "soul"
+      ],
+      "vibes": [
+        "church in the desert"
+      ],
+      "subs": [
+        "gospel",
+        "r&b"
+      ],
+      "blurb": "Compton-raised gospel singer with a towering falsetto, best known as the voice of the soul trio Gabriels. Expect church-choir drama and old-school soul phrasing; he guested with Moby at Coachella 2026."
     },
     "leenalchi": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/leenalchi/1491543148",
+      "genres": [
+        "gugak fusion",
+        "funk",
+        "alt-pop"
+      ],
+      "vibes": [
+        "folk tale rave"
+      ],
+      "subs": [
+        "pansori pop",
+        "korean folk fusion",
+        "funk rock",
+        "alternative pop"
+      ],
+      "blurb": "Seoul band that drops traditional pansori singing over a lean two-bass groove, turning centuries-old Korean stories into dance music. They went viral via a 2020 tourism campaign and released Sugungga on Luaka Bop in 2026."
     },
     "bea-miller": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/bea-miller/706171903",
+      "genres": [
+        "alt-pop"
+      ],
+      "vibes": [
+        "main character crying"
+      ],
+      "subs": [
+        "pop",
+        "pop rock"
+      ],
+      "blurb": "Pop singer who started on X Factor at 13 and grew into blunt, self-mocking alt-pop. Her 2026 album Mr. Peaked in High School leans on confessional singles like depressed on the internet and drunk enough."
     },
     "gang-of-youths": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/gang-of-youths/687934696",
+      "genres": [
+        "indie rock",
+        "alternative rock & grunge"
+      ],
+      "vibes": [
+        "arms around strangers"
+      ],
+      "subs": [
+        "heartland rock",
+        "alternative rock"
+      ],
+      "blurb": "Sydney rock band led by Dave Le'aupepe, built on huge, wordy, Springsteen-sized anthems about grief and faith. Things Take Time (Aug 2026) is their first new music since 2022's Angel in Realtime."
     },
     "love-spells": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/love-spells/1597025563",
+      "genres": [
+        "indie rock",
+        "dream pop & shoegaze",
+        "neo-psychedelic pop"
+      ],
+      "vibes": [
+        "slow dance at golden hour"
+      ],
+      "subs": [
+        "dream pop",
+        "psychedelic pop",
+        "alternative"
+      ],
+      "blurb": "Houston-born Taegan Harris makes hazy, yearning indie rock with dream-pop guitars and romantic lyrics. His debut album Love Is the Law arrived on RCA in 2026."
     },
     "rafael": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/rafael/1513692044",
+      "genres": [
+        "indie dance",
+        "house",
+        "melodic house"
+      ],
+      "blurb": "House and indie-dance DJ known for emotive, melodic builds; 2025 brought remixes for RÜFÜS DU SOL and Jamie Jones and a first Coachella set."
     },
     "nirosta-steel": {
       "tier": "small"
     },
     "ragie-ban": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/ragie-ban/1528463803",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "groove in the dust"
+      ],
+      "blurb": "Young Brazilian DJ-producer (Iago Cardoso) making bouncy tech house with jazz and soul samples in the mix; Chris Lake has backed and collaborated with him."
     },
     "eli": {
       "tier": "small"
     },
     "las-petunias": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/las-petunias/1627752308",
+      "genres": [
+        "punk rock"
+      ],
+      "vibes": [
+        "spanish garage riot"
+      ],
+      "subs": [
+        "pop punk",
+        "garage punk"
+      ],
+      "blurb": "Madrid trio (Elsa, Natalia, Cecilia) mixing scrappy punk energy with sweet pop hooks, sung in Spanish, with a riotous live show."
     },
     "violet-grohl": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/violet-grohl/1538671509",
+      "genres": [
+        "alternative rock & grunge",
+        "dream pop & shoegaze"
+      ],
+      "vibes": [
+        "nepo baby, real riffs"
+      ],
+      "subs": [
+        "alternative rock",
+        "dream pop",
+        "grunge"
+      ],
+      "blurb": "Dave Grohl's daughter steps out with a moody alt-rock debut, Be Sweet to Me (May 2026), drawing on late-'80s/'90s guitar music, dream pop and a bit of hardcore bite."
     },
     "jackie-hollander": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/jackie-hollander/1593254397",
+      "genres": [
+        "tech house",
+        "house",
+        "melodic techno"
+      ],
+      "blurb": "Bay Area DJ-producer playing driving house that tips into melodic techno; released on John Summit's Experts Only and plays Outside Lands and Vegas dayclubs."
     },
     "jamback-x-marsolo": {
-      "tier": "small"
+      "tier": "small",
+      "genres": [
+        "minimal house",
+        "house",
+        "tech house",
+        "deep house"
+      ],
+      "vibes": [
+        "shuffle until sunrise"
+      ],
+      "blurb": "Two Dutch selectors from the Chris Stussy orbit going back to back. Jamback's Positive set the record for longest-running Beatport #1; Marsolo topped it too with Step By Step. Rolling, warm minimal grooves."
     },
     "noya": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/noya/1735751097",
+      "genres": [
+        "house",
+        "disco"
+      ],
+      "subs": [
+        "acid house",
+        "electronica"
+      ],
+      "blurb": "Tel Aviv DJ whose sets weave disco, acid house and electronica into a house-rooted flow; a fixture of the city's underground since 2018."
     },
     "tame-impala": {
-      "tier": "headliner"
+      "tier": "headliner",
+      "appleMusic": "https://music.apple.com/us/artist/tame-impala/290242959",
+      "genres": [
+        "neo-psychedelic pop",
+        "psychedelic rock",
+        "synth-pop"
+      ],
+      "vibes": [
+        "headliner lasers"
+      ],
+      "subs": [
+        "psychedelic pop",
+        "dance-pop"
+      ],
+      "collabs": [
+        "dua-lipa"
+      ],
+      "blurb": "Kevin Parker's one-man psych project, played live as a full band. 2025's Deadbeat leaned into rave and dance sounds, and its single End of Summer won a Grammy. Expect lasers and huge choruses."
     },
     "phoebe-bridgers": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/phoebe-bridgers/697833299",
+      "genres": [
+        "indie folk",
+        "folk revival",
+        "indie rock"
+      ],
+      "vibes": [
+        "group cry, then scream"
+      ],
+      "subs": [
+        "emo",
+        "singer-songwriter"
+      ],
+      "collabs": [
+        "muna"
+      ],
+      "blurb": "LA songwriter of hushed, darkly funny songs that blow up into big finales. Lost Weekend (Aug 2026) is her first solo album since Punisher, out with an arena tour."
     },
     "weezer": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/weezer/115234",
+      "genres": [
+        "power pop",
+        "alternative rock & grunge"
+      ],
+      "vibes": [
+        "dad-friendly moshing"
+      ],
+      "subs": [
+        "alternative rock",
+        "pop punk",
+        "emo"
+      ],
+      "blurb": "Rivers Cuomo's nerd-rock institution with decades of crunchy, hooky singalongs. A new self-titled album came out August 2026, with Wednesday's Karly Hartzman on the single We Might As Well Be Strangers."
     },
     "tiesto": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/ti%C3%ABsto/4091218",
+      "genres": [
+        "trance",
+        "techno",
+        "big room house"
+      ],
+      "vibes": [
+        "hands up, 2004 forever"
+      ],
+      "subs": [
+        "progressive house",
+        "edm"
+      ],
+      "collabs": [
+        "martin-garrix"
+      ],
+      "blurb": "The Dutch DJ who took trance to stadiums, then went pop-EDM. Since late 2025 he has been heading back to trance (Bring Me To Life, Beautiful Places) ahead of a new album."
     },
     "martin-garrix": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/martin-garrix/430932944",
+      "genres": [
+        "big room house",
+        "progressive house",
+        "dance-pop"
+      ],
+      "vibes": [
+        "confetti cannon"
+      ],
+      "subs": [
+        "future bass",
+        "edm"
+      ],
+      "collabs": [
+        "madonna",
+        "tiesto"
+      ],
+      "blurb": "Dutch DJ who broke out as a teen with Animals and now leans pop. 2026 singles include Fireflies with U2 and This Dream of You with his own vocals; the album MARTY is due March 2027."
     },
     "robyn": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/robyn/535211",
+      "genres": [
+        "synth-pop",
+        "electropop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "dancing on your own, together"
+      ],
+      "blurb": "Swedish pop auteur of euphoric, heartbroken dance songs. Sexistential (March 2026), her first album since 2018, mixes club pop with frank songs about IVF, single motherhood and desire."
     },
     "role-model": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/role-model/199215762",
+      "genres": [
+        "indie pop"
+      ],
+      "vibes": [
+        "group sing-along"
+      ],
+      "subs": [
+        "bedroom pop",
+        "soft rock",
+        "pop"
+      ],
+      "blurb": "Tucker Pillsbury's project of wry, heart-on-sleeve pop songs. The 2024 album Kansas Anymore and its sing-along 'Sally, When the Wine Runs Out' took him to arenas; the 2026 album Chuck Timely & The Hourglass keeps the warm, slightly theatrical feel."
     },
     "adela": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/ad%C3%A9la/1765924916",
+      "genres": [
+        "dance-pop",
+        "electropop"
+      ],
+      "vibes": [
+        "choreo at the barrier"
+      ],
+      "subs": [
+        "pop"
+      ],
+      "blurb": "Slovak singer and trained ballet dancer Adéla Jergová, who left the KATSEYE contest and went solo. 'Nicole Kidman' became a Hot 100 hit and her 2026 debut album PRIMA mixes sharp, Eastern-European-tinged dance-pop with big choreography."
     },
     "maneskin": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/m%C3%A5neskin/1312874741",
+      "genres": [
+        "hard & glam rock"
+      ],
+      "vibes": [
+        "leather in the desert"
+      ],
+      "subs": [
+        "glam rock",
+        "hard rock",
+        "pop rock",
+        "rock"
+      ],
+      "blurb": "Roman four-piece who went from busking to winning Eurovision 2021, then turned a Four Seasons cover into a global hit. Swaggering glam-rock riffs and theatrics; after a solo-projects break they are back together for 2027."
     },
     "solomun": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/solomun/200779145",
+      "genres": [
+        "melodic house",
+        "deep house"
+      ],
+      "vibes": [
+        "three-hour journey"
+      ],
+      "subs": [
+        "house"
+      ],
+      "blurb": "Mladen Solomun, the Hamburg DJ behind Diynamic and the Solomun +1 nights in Ibiza. Long, slow-building sets of emotive, melodic house; 2026 brought the single 'Kinesphere' and a first collaboration with Skrillex, 'Rumpta'."
     },
     "nct": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/nct/1533299115",
+      "genres": [
+        "k-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "lightstick sea"
+      ],
+      "subs": [
+        "hip hop",
+        "r&b"
+      ],
+      "blurb": "SM Entertainment's open-ended boy group, made of units like NCT 127, NCT DREAM, WayV and NCT WISH. Known for hard-hitting, experimental K-pop and tight choreography; 2026 marks ten years with a run of unit albums and tours."
     },
     "enigma": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/enigma/3218461",
+      "genres": [
+        "downtempo & trip-hop",
+        "electronica & idm"
+      ],
+      "vibes": [
+        "monk mode"
+      ],
+      "subs": [
+        "new-age",
+        "downtempo",
+        "trip hop",
+        "ambient",
+        "electronic"
+      ],
+      "blurb": "Michael Cretu's studio project that set Gregorian chant and breathy vocals over slow hip-hop beats. 'Sadeness' and 'Return to Innocence' were worldwide hits in the early 1990s; for years it existed only on record, so a live set is a rare event."
     },
     "underworld": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/underworld/996876",
+      "genres": [
+        "techno",
+        "progressive house",
+        "electronica & idm"
+      ],
+      "vibes": [
+        "lager lager lager"
+      ],
+      "subs": [
+        "big beat",
+        "electronica"
+      ],
+      "collabs": [
+        "ki-ki",
+        "brutalismus-3000"
+      ],
+      "blurb": "Karl Hyde and Rick Smith, the duo behind 'Born Slippy .NUXX'. Long, hypnotic live techno with Hyde's stream-of-words vocals. Still busy: 2026 brought 'Arp12' with KI/KI and a feature on Brutalismus 3000's album Harmony."
     },
     "charlotte-de-witte": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/charlotte-de-witte/768227318",
+      "genres": [
+        "techno"
+      ],
+      "vibes": [
+        "dark and fast"
+      ],
+      "subs": [
+        "acid techno",
+        "peak-time techno"
+      ],
+      "blurb": "Belgian techno DJ and producer who runs the KNTXT label. Dark, driving, stripped-back techno with acid lines and long tension. Prolific in 2026: the Amor, The Resistance and Azadi EPs on KNTXT."
     },
     "leon-bridges": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/leon-bridges/961252454",
+      "genres": [
+        "soul",
+        "gospel",
+        "contemporary r&b"
+      ],
+      "vibes": [
+        "golden hour slow dance"
+      ],
+      "subs": [
+        "retro soul",
+        "r&b",
+        "neo-soul"
+      ],
+      "blurb": "Fort Worth singer who broke out with a 1960s-style soul debut, Coming Home. His 2026 album Happiness Anytime, produced by Jungle's J Lloyd and Lydia Kitto, moves toward a looser, more danceable sound."
     },
     "cloonee": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/cloonee/946851486",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "bass in the chest"
+      ],
+      "blurb": "Sheffield-born tech house DJ and producer who runs Hellbent Records. Bouncy, bass-led grooves made for big US dance tents; tours heavily through Las Vegas and North American festivals."
     },
     "magdalena-bay": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/magdalena-bay/1119954914",
+      "genres": [
+        "synth-pop",
+        "art pop"
+      ],
+      "vibes": [
+        "cosmic disc install"
+      ],
+      "subs": [
+        "electropop",
+        "psychedelic pop"
+      ],
+      "blurb": "Mica Tenenbaum and Matthew Lewin make glossy, shape-shifting synth-pop with prog-rock ambitions. The 2024 concept album Imaginal Disk made them cult favourites; their shows lean on surreal visuals and costume."
     },
     "barry-can-t-swim": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/barry-cant-swim/1492752064",
+      "genres": [
+        "house",
+        "electronica & idm",
+        "downtempo & trip-hop"
+      ],
+      "vibes": [
+        "hands-up sunset"
+      ],
+      "subs": [
+        "downtempo",
+        "jazz house",
+        "electronica"
+      ],
+      "blurb": "Joshua Mainnie's project of warm, sample-rich house that mixes jazz piano, soul vocals and big euphoric drops. Albums When Will We Land? and Loner on Ninja Tune; 2026 brought 'Return to Bhibo' and a Late Night Tales mix."
     },
     "boy-harsher": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/boy-harsher/1022460442",
+      "genres": [
+        "darkwave & coldwave",
+        "gothic rock",
+        "synth-pop"
+      ],
+      "vibes": [
+        "goth dance party"
+      ],
+      "subs": [
+        "darkwave",
+        "coldwave",
+        "industrial"
+      ],
+      "blurb": "Jae Matthews and Augustus Muller make moody, pulsing darkwave built for black-lit dance floors. After their split as a couple, they returned in 2026 with Get Mean, a tighter, harder record."
     },
     "ki-ki": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/ki-ki/1532800043",
+      "genres": [
+        "techno",
+        "trance"
+      ],
+      "vibes": [
+        "trance hands"
+      ],
+      "subs": [
+        "acid techno",
+        "hard techno"
+      ],
+      "collabs": [
+        "underworld"
+      ],
+      "blurb": "Amsterdam DJ and producer whose sets race through techno, trance and acid with bass-music accents. She rose fast from local queer parties to big festival stages and in 2026 released 'Arp12' with Underworld."
     },
     "mariah-the-scientist": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/mariah-the-scientist/1475275447",
+      "genres": [
+        "contemporary r&b",
+        "alternative r&b"
+      ],
+      "vibes": [
+        "heartbreak hour"
+      ],
+      "subs": [
+        "r&b"
+      ],
+      "blurb": "Atlanta singer-songwriter making moody, hazy R&B about love and its wreckage. Her 2025 album Hearts Sold Separately topped the R&B charts and 'Burning Blue' was her biggest hit; she toured it through 2026."
     },
     "bad-gyal": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/bad-gyal/1174817313",
+      "genres": [
+        "reggaeton",
+        "reggae & dub"
+      ],
+      "vibes": [
+        "perreo time"
+      ],
+      "subs": [
+        "dancehall",
+        "latin pop",
+        "urbano"
+      ],
+      "blurb": "Catalan singer Alba Farelo, who brought dancehall and reggaeton into Spanish pop with Auto-Tuned, club-ready tracks. Her 2026 album Más Cara came with an arena tour of Spain and North American dates."
     },
     "basement": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/basement/14084822",
+      "genres": [
+        "alternative rock & grunge",
+        "emo",
+        "post-hardcore"
+      ],
+      "vibes": [
+        "crowd-surf watch"
+      ],
+      "subs": [
+        "alternative rock",
+        "grunge"
+      ],
+      "collabs": [
+        "first-day-back"
+      ],
+      "blurb": "Ipswich band mixing fuzzy alt-rock, grunge and emo. 'Covet' found a new young audience years after release; WIRED, their first album in eight years, came out in 2026 on Run For Cover."
     },
     "brutalismus-3000": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
+      "genres": [
+        "hard techno",
+        "techno"
+      ],
+      "vibes": [
+        "mosh at the rave"
+      ],
+      "subs": [
+        "gabber",
+        "techno punk",
+        "hyperpop"
+      ],
+      "collabs": [
+        "underworld"
+      ],
+      "blurb": "Berlin duo mixing gabber, techno and punk shouting. Their 2026 album Harmony adds nu-metal and hyperpop edges, with features from Boys Noize, Underworld and Anya Taylor-Joy."
     },
     "beltran": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/beltran/90369561",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "warehouse at noon"
+      ],
+      "collabs": [
+        "vintage-culture"
+      ],
+      "blurb": "Brazilian tech house DJ and producer whose 'Smack Yo'' topped Beatport in 2022 after Michael Bibi championed it. Punchy, percussive, vocal-sample grooves; regular b2b partner of Vintage Culture and Ben Sterling."
     },
     "underscores": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/underscores/1204838812",
+      "genres": [
+        "hyperpop",
+        "electropop"
+      ],
+      "vibes": [
+        "genre whiplash"
+      ],
+      "subs": [
+        "pop",
+        "pop punk"
+      ],
+      "blurb": "April Harper Grey's project, which mixes glitchy hyperpop, pop-punk guitars and dubstep drops. After the concept album Wallsocket, 2026's U is her poppiest record yet and drew strong reviews."
     },
     "sb19": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/sb19/1439702222",
+      "genres": [
+        "p-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "A'TIN army assembles"
+      ],
+      "subs": [
+        "k-pop",
+        "pop"
+      ],
+      "blurb": "Five-member Filipino boy group that turned P-pop into a stadium-sized export. Sharp choreography, Tagalog-and-English hooks, and a 2026 album (Wakas at Simula) after a world tour, Lollapalooza and Summer Sonic."
     },
     "twin-tribes": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/twin-tribes/1414679340",
+      "genres": [
+        "darkwave & coldwave",
+        "gothic rock"
+      ],
+      "vibes": [
+        "black clothes, 100°F"
+      ],
+      "subs": [
+        "darkwave",
+        "cold wave",
+        "post-punk",
+        "synth-pop"
+      ],
+      "blurb": "Border-town darkwave duo: chorus-drenched guitars, cold drum machines and Navarro's baritone, sometimes in Spanish. Their 2024 album Pendulum cemented them as a goth-club staple on both sides of the Atlantic."
     },
     "odeal": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/odeal/1221904128",
+      "genres": [
+        "contemporary r&b",
+        "afrobeats"
+      ],
+      "vibes": [
+        "golden hour slow wine"
+      ],
+      "subs": [
+        "r&b",
+        "afro-fusion",
+        "afroswing",
+        "alté",
+        "alternative pop"
+      ],
+      "collabs": [
+        "leon-thomas"
+      ],
+      "blurb": "London singer blending silky R&B with Afro-fusion grooves. 'Soh-Soh' broke him in 2024, MOBO wins followed, and two 2025 EPs (The Summer That Saved Me, The Fall That Saved Us) brought in Leon Thomas and WizKid."
     },
     "bassvictim": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/bassvictim/1704163385",
+      "genres": [
+        "electroclash & indie sleaze"
+      ],
+      "vibes": [
+        "sweaty basement energy"
+      ],
+      "subs": [
+        "electroclash",
+        "indie sleaze",
+        "witch house",
+        "hyperpop",
+        "electronic"
+      ],
+      "blurb": "Maria Manow's deadpan-to-feral vocals over Ike Clateman's blown-out bass and cheap-synth beats. Started on Basspunk tapes, went tender on 2025's Forever, and just released PEACE + WAR (Nov 2026)."
     },
     "los-pibes-chorros": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/los-pibes-chorros/261947456",
+      "genres": [
+        "cumbia villera",
+        "cumbia"
+      ],
+      "vibes": [
+        "cumbia line forms here"
+      ],
+      "subs": [
+        "latin"
+      ],
+      "blurb": "Argentine cumbia villera institution: keyboard-led cumbia with raw, street-level lyrics that soundtracked a generation of Buenos Aires parties. Still touring hard across Latin America and Europe."
     },
     "tiffany-day": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/tiffany-day/1125468067",
+      "genres": [
+        "hyperpop",
+        "electropop"
+      ],
+      "vibes": [
+        "main character energy"
+      ],
+      "subs": [
+        "bedroom pop",
+        "pop"
+      ],
+      "blurb": "Went viral in 2017 singing in an Italian well, then reinvented herself from bedroom pop to bright, crunchy hyperpop. Her 2026 album HALO made her one of the year's breakout internet-pop names."
     },
     "no-na": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/no-na/1809786661",
+      "genres": [
+        "dance-pop",
+        "k-pop"
+      ],
+      "vibes": [
+        "head in the clouds"
+      ],
+      "subs": [
+        "pop",
+        "r&b"
+      ],
+      "blurb": "Four-member Indonesian girl group from 88rising, pitching 'island pop': glossy dance-pop and R&B with Southeast Asian flavor. Singles like 'Work' went viral in 2026 ahead of debut album island girl."
     },
     "mathame": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/mathame/952851477",
+      "genres": [
+        "melodic techno",
+        "techno",
+        "melodic house"
+      ],
+      "vibes": [
+        "laser cathedral"
+      ],
+      "subs": [
+        "electronic"
+      ],
+      "blurb": "Sicilian brothers making cinematic, sci-fi-tinged melodic techno with big vocal moments. Afterlife alumni with a 2023 debut album (MEMO) and a run of 2026 singles including the Japanese-inspired 'Yogen'."
     },
     "ear": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/ear/1829661500",
+      "genres": [
+        "indietronica",
+        "electronica & idm"
+      ],
+      "vibes": [
+        "tamagotchi feelings"
+      ],
+      "subs": [
+        "glitch pop",
+        "lo-fi pop",
+        "idm"
+      ],
+      "blurb": "New York duo making glitchy, lo-fi pop with IDM textures, in the line of The Postal Service. Debut album in 2025, and their second, Rumspringa, came out on A24 Music in May 2026."
     },
     "vandelux": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/vandelux/1094559354",
+      "genres": [
+        "melodic house",
+        "deep house",
+        "indie dance",
+        "downtempo & trip-hop"
+      ],
+      "vibes": [
+        "sunset sway"
+      ],
+      "subs": [
+        "downtempo",
+        "electronic"
+      ],
+      "blurb": "Evan White's project: warm melodic house with live instruments and his own indie-ish vocals, drifting between dancefloor and chillout. Second album Closer arrived in late 2025."
     },
     "rommulas": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/rommulas/1814338110",
+      "genres": [
+        "hyperpop",
+        "reggaeton",
+        "alternative hip-hop"
+      ],
+      "vibes": [
+        "mosh-pit perreo"
+      ],
+      "subs": [
+        "alternative rap",
+        "latin trap"
+      ],
+      "blurb": "Mexican-American LA rapper-singer mixing hyperpop synths, reggaeton bounce and bilingual raps. Broke out on 2hollis's 'left to right' (2025), then the ANIMÁL EP and 2026's SONOFRHEASILVIA on Warner."
     },
     "apollonia": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/apollonia/82353967",
+      "genres": [
+        "minimal house",
+        "house",
+        "deep house"
+      ],
+      "vibes": [
+        "three decks, no exits"
+      ],
+      "subs": [
+        "tech house"
+      ],
+      "blurb": "Three French house veterans who play together back-to-back-to-back, often for hours, and run the label of the same name. Rolling, groove-first minimal and deep house built for long nights."
     },
     "getdown-services": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/getdown-services/1547195934",
+      "genres": [
+        "dance-punk & disco-punk",
+        "post-punk",
+        "indie rock"
+      ],
+      "vibes": [
+        "cha-cha slide chaos"
+      ],
+      "subs": [
+        "disco-punk",
+        "groove rock"
+      ],
+      "blurb": "Two friends from Minehead doing absurdist disco-punk: deadpan lyrics about crisps and radiators over loose, groovy guitar and drum machines. Live shows are chaos. Second album Massive Champion came out in 2026."
     },
     "good-neighbours": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/good-neighbours/1726004707",
+      "genres": [
+        "indie pop"
+      ],
+      "vibes": [
+        "windows-down singalong"
+      ],
+      "subs": [
+        "pop rock",
+        "alternative pop"
+      ],
+      "blurb": "Oli Fox and Scott Verrill's sunny, nostalgic indie-pop with gang-vocal choruses. 'Home' went viral in 2024; debut album Blue Sky Mentality (2025) got an expanded edition in 2026."
     },
     "first-day-back": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/first-day-back/1816855014",
+      "genres": [
+        "emo",
+        "hardcore punk",
+        "midwest emo"
+      ],
+      "vibes": [
+        "twinkle twinkle"
+      ],
+      "subs": [
+        "emo revival",
+        "indie rock"
+      ],
+      "blurb": "Young Santa Cruz emo band who went from forming in 2024 to selling out hometown shows after their June 2025 debut album Forward. Twinkly guitars, shout-along choruses, heavy 2026 touring."
     },
     "jimi-jules": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/jimi-jules/586933009",
+      "genres": [
+        "melodic house",
+        "deep house",
+        "indie dance"
+      ],
+      "vibes": [
+        "moody after-hours"
+      ],
+      "subs": [
+        "house"
+      ],
+      "blurb": "Swiss producer-DJ who sings over his own moody, hypnotic house. A long-time Innervisions name; 2026 brought the Baby Run EP on CircoLoco and 'Whisper To Me' with Modern Tales."
     },
     "twisted-teens": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/twisted-teens/1777608709",
+      "genres": [
+        "cowpunk",
+        "punk rock"
+      ],
+      "vibes": [
+        "yeehaw but make it punk"
+      ],
+      "subs": [
+        "country punk",
+        "garage rock",
+        "folk punk"
+      ],
+      "blurb": "New Orleans duo playing loud, twangy country-punk with pedal steel and garage-rock scrappiness. Released three full-lengths in 2026 alone, including Sub Pop debut The Holy Cross Tigers."
     },
     "murda-beatz": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/murda-beatz/1053740960",
+      "genres": [
+        "trap",
+        "house"
+      ],
+      "vibes": [
+        "hip-hop to house pivot"
+      ],
+      "subs": [
+        "hip hop"
+      ],
+      "blurb": "Canadian producer behind 'MotorSport', 'Nice for What' and 'Pipe It Up'. Still dropping rap singles in 2026 and now taking DJ sets into dance-music rooms, so expect trap anthems with a house tilt."
     },
     "villanelle": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/villanelle/1836519194",
+      "genres": [
+        "alternative rock & grunge"
+      ],
+      "vibes": [
+        "parka weather"
+      ],
+      "subs": [
+        "alternative rock",
+        "grunge",
+        "britpop"
+      ],
+      "blurb": "Young UK band led by Gene Gallagher, playing loud, '90s-leaning rock with grunge fuzz and big choruses. Debut EP Measly Means came in 2026, followed by Governor's Ball, Lolla and Reading & Leeds."
     },
     "kolter-x-sidney-charles": {
-      "tier": "small"
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house",
+        "minimal house"
+      ],
+      "vibes": [
+        "groove-rolling b2b"
+      ],
+      "blurb": "Two German house diggers going back-to-back: Kolter (Cologne, formerly Djoko, runs Koltrax) and Sidney Charles (Hamburg, Heavy House Society). Expect bouncy, swinging underground house."
     },
     "la-texana": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/la-texana/1556783621",
+      "genres": [
+        "post-punk",
+        "norteño"
+      ],
+      "vibes": [
+        "sad cowboy in eyeliner"
+      ],
+      "subs": [
+        "regional mexican",
+        "alternative rock"
+      ],
+      "blurb": "Josué Ramírez's project grafts cold, Cure-style post-punk guitars onto norteño accordions and trumpets. Started as a teenager in 2021, it reached a debut album, La Casa Que Cae, and a sold-out Mexico City show in 2025."
     },
     "omri": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/omri/1523480033",
+      "genres": [
+        "deep house",
+        "house",
+        "indie dance"
+      ],
+      "vibes": [
+        "desert after-hours"
+      ],
+      "subs": [
+        "psychedelic house"
+      ],
+      "blurb": "A Tel Aviv DJ who came up through psytrance before turning to deep, trippy, groove-led house. Ran the city's NEKOODOT and More than Friends parties and now plays alongside the Crosstown Rebels and Hot Creations crowd."
     },
     "volkoder": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/volkoder/452994007",
+      "genres": [
+        "tech house",
+        "house",
+        "melodic techno"
+      ],
+      "vibes": [
+        "bassline hypnosis"
+      ],
+      "blurb": "Brazilian producer Marcos Benedetti makes rolling, bass-heavy tech house that has been played by Carl Cox, Jamie Jones and Marco Carola. His 2026 EP on Diynamic leaned into hypnotic, synth-heavy melodic territory."
     },
     "zimmer90": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/zimmer90/1500576149",
+      "genres": [
+        "synth-pop",
+        "indie pop"
+      ],
+      "vibes": [
+        "linen shirt groove"
+      ],
+      "subs": [
+        "electropop",
+        "alternative pop"
+      ],
+      "blurb": "Stuttgart pair Finn Gronemeyer and Joscha Becker (plus a live drummer) make breezy, falsetto-friendly electro-pop that blends acoustic and electronic sounds. Their debut album Interior came out in 2025, followed by a 29-date European tour in 2026."
     },
     "lusid": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/lusid/808143388",
+      "genres": [
+        "bass music & glitch hop",
+        "dubstep"
+      ],
+      "vibes": [
+        "didgeridoo drop"
+      ],
+      "subs": [
+        "bass music",
+        "glitch hop",
+        "psychedelic bass",
+        "electronica"
+      ],
+      "blurb": "Dean McDonnell's live-looping bass project layers guitar, funky bass, didgeridoo, theremin and turntable scratching over grooving low end. A long-time fixture of the St. Louis bass scene with a run of self-released LPs."
     },
     "dream-boat": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/dream-boat/6821013227",
+      "genres": [
+        "indie pop"
+      ],
+      "vibes": [
+        "boat shoes mandatory"
+      ],
+      "subs": [
+        "yacht rock",
+        "soft rock",
+        "sunshine pop"
+      ],
+      "blurb": "Two members of Parcels, Patrick Hetherington and Jules Crommelin, started this side project during long tours. The first single, 'Real!', leans into Beach Boys harmonies and smooth yacht-rock sheen, with an album due spring 2027."
     },
     "sza": {
-      "tier": "headliner"
+      "tier": "headliner",
+      "appleMusic": "https://music.apple.com/us/artist/sza/605800394",
+      "genres": [
+        "alternative r&b",
+        "contemporary r&b",
+        "neo-soul"
+      ],
+      "vibes": [
+        "group-chat singalong"
+      ],
+      "subs": [
+        "r&b",
+        "pop"
+      ],
+      "blurb": "SZA's conversational, diaristic R&B made Ctrl a generation's breakup manual and SOS a record-breaking blockbuster. Lana extended that era in 2024; a third album is in the works, reportedly shaped by her push against AI in art."
     },
     "don-toliver": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/don-toliver/1237012992",
+      "genres": [
+        "melodic rap",
+        "trap"
+      ],
+      "vibes": [
+        "car-park bass test"
+      ],
+      "subs": [
+        "hip-hop",
+        "r&b"
+      ],
+      "blurb": "A Houston singer-rapper from Travis Scott's Cactus Jack camp whose elastic, auto-tuned melodies float over psychedelic trap. His fifth album Octane (January 2026) was his first to debut at No. 1 on the Billboard 200."
     },
     "dom-dolla": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/dom-dolla/555348065",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "peak-hour fist pump"
+      ],
+      "subs": [
+        "bass house"
+      ],
+      "collabs": [
+        "solomun"
+      ],
+      "blurb": "Melbourne's Dom Dolla turns chunky tech house into stadium material, punchy, vocal-hooked and built for big drops. 2026 brought 'Don't Worry Baby' with Tiga and 'DANGER DANGER' with Solomun and Skepta after an Ibiza residency."
     },
     "kygo": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/kygo/635806094",
+      "genres": [
+        "tropical house",
+        "house",
+        "dance-pop"
+      ],
+      "vibes": [
+        "sunset piano sway"
+      ],
+      "subs": [
+        "edm"
+      ],
+      "blurb": "Kygo's piano-and-marimba melodies defined mid-2010s tropical house and carried him from SoundCloud to stadiums. In 2026 he kept the singles coming, with Gryffin and Khalid, an Avicii tribute with Dan Tyminski, and Max McNown."
     },
     "empire-of-the-sun": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/empire-of-the-sun/284433289",
+      "genres": [
+        "synth-pop",
+        "neo-psychedelic pop"
+      ],
+      "vibes": [
+        "headdress singalong"
+      ],
+      "subs": [
+        "electropop",
+        "psychedelic pop",
+        "dance-pop"
+      ],
+      "blurb": "Luke Steele and Nick Littlemore's costumed, glittering synth-pop spectacle. Their latest album is 2024's Ask That God, and the 2026 'Afterlife' tour ran through the Hollywood Bowl and Outside Lands before heading Down Under in early 2027."
     },
     "four-tet": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/four-tet/35888604",
+      "genres": [
+        "electronica & idm",
+        "house"
+      ],
+      "vibes": [
+        "crying at a kick drum"
+      ],
+      "subs": [
+        "electronica",
+        "folktronica",
+        "idm"
+      ],
+      "blurb": "Kieran Hebden's tender, sample-rich electronica runs from folktronica to euphoric house, and his DJ sets are famously eclectic. In 2026 he surprise-released an eight-track album on Text under a cryptic Wingdings alias."
     },
     "the-neighbourhood": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/the-neighbourhood/219350813",
+      "genres": [
+        "alternative rock & grunge",
+        "indie pop"
+      ],
+      "vibes": [
+        "sweater weather in april"
+      ],
+      "subs": [
+        "alternative rock",
+        "dark pop",
+        "alternative r&b"
+      ],
+      "blurb": "Jesse Rutherford's band pairs moody, monochrome alt-rock with hip-hop rhythm and R&B croon. After a near three-year break they returned with (((((ultraSOUND))))) in November 2025, followed by a deluxe edition and a 2026 world tour."
     },
     "becky-g": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/becky-g/550411604",
+      "genres": [
+        "latin pop",
+        "reggaeton",
+        "regional mexican"
+      ],
+      "vibes": [
+        "perreo with a mariachi chaser"
+      ],
+      "subs": [
+        "latin trap"
+      ],
+      "blurb": "Inglewood's Becky G went from teen pop-rap to reggaeton hits and then to regional Mexican on Esquinas. Her fifth album Baraja Bendita (August 2026) circles back to rap with a deliberately genre-less mix."
     },
     "babymonster": {
-      "tier": "big"
+      "tier": "big",
+      "appleMusic": "https://music.apple.com/us/artist/babymonster/1715981813",
+      "genres": [
+        "k-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "fancam frenzy"
+      ],
+      "subs": [
+        "hip-hop"
+      ],
+      "blurb": "YG's seven-member girl group trades on hard-hitting hip-hop production, rap-forward verses and big vocals. 2026 brought the CHOOM mini album, singles 'SUGAR HONEY ICE TEA' and 'DESERVE', and a world tour running into 2027."
     },
     "amelie-lens-x-sara-landry": {
-      "tier": "mid"
+      "tier": "mid",
+      "genres": [
+        "techno",
+        "hard techno"
+      ],
+      "vibes": [
+        "no sunset, only strobe"
+      ],
+      "subs": [
+        "industrial techno",
+        "peak-time techno"
+      ],
+      "blurb": "Belgian techno star Amelie Lens, whose debut album Aura arrived in 2026, goes back-to-back with Sara Landry, the self-styled high priestess of hard techno. Expect relentless, fast, industrial-edged techno."
     },
     "remi-wolf": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/remi-wolf/1223869670",
+      "genres": [
+        "funk",
+        "soul",
+        "indie pop"
+      ],
+      "vibes": [
+        "neon tracksuit chaos"
+      ],
+      "subs": [
+        "funk pop",
+        "bedroom pop"
+      ],
+      "blurb": "Remi Wolf's 'funky soul pop' is loud, colourful and gleefully off-kilter, all elastic vocals and wonky grooves. Her third album Mud arrived in October 2026, preceded by 'Twiggy', 'Bottle' and 'I Won't Cry'."
     },
     "tove-lo": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/tove-lo/570136838",
+      "genres": [
+        "electropop",
+        "synth-pop",
+        "dance-pop"
+      ],
+      "vibes": [
+        "2am kitchen dance"
+      ],
+      "subs": [
+        "pop"
+      ],
+      "collabs": [
+        "sg-lewis"
+      ],
+      "blurb": "Swedish pop writer Tove Lo makes frank, sweaty, grunge-tinged electropop about lust and hangovers. Her sixth album Estrus arrived in 2026, and she has a new song on the GTA VI soundtrack."
     },
     "victoria-monet": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/victoria-mon%C3%A9t/540070252",
+      "genres": [
+        "contemporary r&b",
+        "neo-soul",
+        "funk"
+      ],
+      "vibes": [
+        "choreo in the dust"
+      ],
+      "subs": [
+        "r&b",
+        "pop"
+      ],
+      "blurb": "A songwriter behind Ariana Grande hits who stepped out with Jaguar II, a lush, funk-inflected R&B album that won her three Grammys including Best New Artist. Frequency of Love followed in 2026 with its own tour."
     },
     "esdeekid": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/esdeekid/1754179834",
+      "genres": [
+        "uk rap",
+        "cloud rap & emo rap",
+        "jerk & plugg"
+      ],
+      "vibes": [
+        "balaclava in the desert"
+      ],
+      "subs": [
+        "cloud rap",
+        "trap",
+        "jerk"
+      ],
+      "blurb": "A masked Liverpool rapper whose Scouse drawl over icy, jerk-influenced beats became one of UK rap's breakout sounds. The 2025 mixtape Rebel reached the US Billboard 200, and a '4 Raws' remix featured Timothée Chalamet."
     },
     "caroline-polachek": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/caroline-polachek/385592090",
+      "genres": [
+        "art pop",
+        "synth-pop"
+      ],
+      "vibes": [
+        "yodel at golden hour"
+      ],
+      "subs": [
+        "alt-pop",
+        "electropop"
+      ],
+      "blurb": "Former Chairlift singer whose solo records turn operatic vocal acrobatics into glossy, strange pop. Her 2023 album Desire, I Want to Turn Into You is still the latest; in 2026 she sang on Danny L Harle's debut Cerulean while a fifth album is in the works."
     },
     "chase-and-status": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/chase-status/121546679",
+      "genres": [
+        "jungle & drum and bass",
+        "reggae & dub"
+      ],
+      "vibes": [
+        "bass in your ribcage"
+      ],
+      "subs": [
+        "drum and bass",
+        "jungle",
+        "uk bass",
+        "dubstep",
+        "electronic"
+      ],
+      "blurb": "London duo who carried drum & bass into arenas, now on a late-career high after the Baddadan era. Their October 2026 album Generic Everything pulls in Little Simz, J Hus, Giggs and Skrillex, and a UK/EU arena run follows in early 2027."
     },
     "muna": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/muna/1042111883",
+      "genres": [
+        "synth-pop",
+        "indie pop"
+      ],
+      "vibes": [
+        "group-hug singalong"
+      ],
+      "subs": [
+        "dance-pop",
+        "queer pop"
+      ],
+      "collabs": [
+        "phoebe-bridgers"
+      ],
+      "blurb": "Queer LA trio writing big-hearted synth-pop for crying and dancing at once. Fourth album Dancing On The Wall (May 2026) heads back to the dancefloor and gets more political, with tracks like 'Big Stick' and 'So What'."
     },
     "boris-brejcha": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/boris-brejcha/202970860",
+      "genres": [
+        "minimal techno",
+        "techno",
+        "melodic techno"
+      ],
+      "vibes": [
+        "joker mask, serious groove"
+      ],
+      "subs": [
+        "high-tech minimal"
+      ],
+      "blurb": "The masked German who calls his sound 'high-tech minimal': rubbery basslines, ominous synth hooks and long, theatrical builds. Played Tomorrowland 2026 and has said he plans to retire in 2028, so the farewell window is open."
     },
     "jorja-smith": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/jorja-smith/1088331223",
+      "genres": [
+        "contemporary r&b",
+        "neo-soul",
+        "uk garage"
+      ],
+      "vibes": [
+        "sunset two-step"
+      ],
+      "subs": [
+        "r&b",
+        "2-step",
+        "afro house"
+      ],
+      "blurb": "Warm, unhurried UK R&B voice who has always had one foot in garage and grime. Third album What Are The Odds (Aug 2026, her first fully independent) leans into 2-step and Afro house, with Wizkid on 'Alive' and Devlin on 'This City'."
     },
     "the-avalanches": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/the-avalanches/27524431",
+      "genres": [
+        "plunderphonics & sample collage",
+        "electronica & idm",
+        "disco"
+      ],
+      "vibes": [
+        "record-crate daydream"
+      ],
+      "subs": [
+        "plunderphonics",
+        "sample-based electronic",
+        "neo-psychedelia",
+        "electronic"
+      ],
+      "collabs": [
+        "barry-can-t-swim"
+      ],
+      "blurb": "Australian crate-diggers who stitch thousands of samples into sunny, dreamlike collages; Since I Left You is a cult classic. Fourth album No Bad Memories (Oct 2026) features Jamie xx, Karen O, Mike Patton and Barry Can't Swim."
     },
     "bolo": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/bolo/153197456",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "cumbia meets warehouse"
+      ],
+      "subs": [
+        "latin tech house",
+        "latin house",
+        "reggaeton"
+      ],
+      "blurb": "Mexican-American DJ blending tech house with reggaeton, mariachi and hip-hop samples and Spanglish vocals. Rose fast from a 2024 Beyond Wonderland art-car set to EDC 2026 and a fall 2026 headline tour."
     },
     "pennywise": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/pennywise/2820315",
+      "genres": [
+        "skate punk & melodic hardcore",
+        "hardcore punk"
+      ],
+      "vibes": [
+        "circle pit cardio"
+      ],
+      "subs": [
+        "skate punk",
+        "melodic hardcore",
+        "punk rock"
+      ],
+      "blurb": "South Bay skate-punk lifers playing fast, shout-along anthems about unity and defiance. No album since 2018's Never Gonna Die, but they toured hard through 2026 with Circle Jerks and H2O. 'Bro Hymn' closes the set and the pit loses its mind."
     },
     "freddie-gibbs": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/freddie-gibbs/302166615",
+      "genres": [
+        "street rap & boom bap"
+      ],
+      "vibes": [
+        "grown-folks bars"
+      ],
+      "subs": [
+        "gangsta rap",
+        "hip-hop",
+        "boom bap",
+        "midwest rap"
+      ],
+      "blurb": "Gary, Indiana rapper with a dense, cutthroat flow, best known for full albums with Madlib (Piñata, Bandana) and The Alchemist (Alfredo, Alfredo 2). In 2026 he dropped the RBT EP and a 10-song deluxe of You Only Die 1nce."
     },
     "shygirl": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/shygirl/456494592",
+      "genres": [
+        "club & global club",
+        "electropop"
+      ],
+      "vibes": [
+        "club seduction"
+      ],
+      "subs": [
+        "club",
+        "electronic pop",
+        "uk bass",
+        "hyperpop",
+        "r&b"
+      ],
+      "blurb": "South London artist who came up through club culture, rapping and purring over hard-edged bass. Second album Swallow! (Nov 2026, produced by Karma Kid and Casey MQ) turns toward romantic songwriting without losing the club pulse."
     },
     "julia-wolf": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/julia-wolf/1482698876",
+      "genres": [
+        "alt-pop"
+      ],
+      "vibes": [
+        "eyeliner and feelings"
+      ],
+      "subs": [
+        "gothic pop",
+        "pop punk",
+        "alternative rock"
+      ],
+      "blurb": "Queens singer making dark, moody alt-pop that keeps edging toward rock. Viral 'In My Room' and a Drake collab ('Dog House') broke her in 2025 alongside second album Pressure; the remix EP 2MUCHPRESSURE followed in late 2026."
     },
     "odd-mob": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/odd-mob/397445168",
+      "genres": [
+        "tech house",
+        "house"
+      ],
+      "vibes": [
+        "cheeky sample flip"
+      ],
+      "subs": [
+        "bass house"
+      ],
+      "blurb": "Australian producer behind cheeky, sample-flipping tech house built on growling bass stabs. 2026 brought Club Rompas Vol. 2, the Odd Boys EP with Goodboys, and more HYPERBEAM releases with OMNOM."
     },
     "ayra-starr": {
-      "tier": "mid"
+      "tier": "mid",
+      "appleMusic": "https://music.apple.com/us/artist/ayra-starr/1536429348",
+      "genres": [
+        "afrobeats",
+        "afrobeat",
+        "contemporary r&b"
+      ],
+      "vibes": [
+        "sunshine strut"
+      ],
+      "subs": [
+        "afropop",
+        "r&b",
+        "pop"
+      ],
+      "blurb": "Mavin Records star who gives Afrobeats a confident pop-R&B sheen. Third album Starrgirl (Aug 2026) was made across Lagos, New York and LA, with Wizkid, Rema and ZAYN guesting."
     },
     "lambrini-girls": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/lambrini-girls/1541291393",
+      "genres": [
+        "punk rock"
+      ],
+      "vibes": [
+        "shout it back"
+      ],
+      "subs": [
+        "noise punk",
+        "riot grrrl",
+        "post-punk"
+      ],
+      "blurb": "Brighton queer punk band that plays loud, funny and furious, aiming at creeps, cops and the celebrity class. Debut Who Let the Dogs Out (2025) made noise; second album No Refunds arrives January 2027, just ahead of their US tour."
     },
     "akriila": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/akriila/1526015823",
+      "genres": [
+        "latin trap & rap",
+        "club & global club"
+      ],
+      "vibes": [
+        "perreo with a glitch"
+      ],
+      "subs": [
+        "experimental trap",
+        "urbano",
+        "reggaeton",
+        "club",
+        "pop"
+      ],
+      "blurb": "Chilean rapper-singer who also DJs, mixing experimental trap, raw club rhythms and Latin urbano with maximalist pop hooks. Debut album Epistolares (2024) had the hit 'Mal Comunicada'; signed to Atlantic, she was an NME cover star in 2026."
     },
     "dinner-party": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/dinner-party/1539968565",
+      "genres": [
+        "jazz",
+        "neo-soul",
+        "alternative hip-hop"
+      ],
+      "vibes": [
+        "late-night cookout"
+      ],
+      "subs": [
+        "jazz-rap",
+        "r&b",
+        "hip-hop"
+      ],
+      "blurb": "Supergroup of Terrace Martin, Robert Glasper, Kamasi Washington and producer 9th Wonder, playing smoky, slow-cooked jazz over hip-hop grooves. Third album Watchu Bringing? came out in August 2026."
     },
     "silva-bumpa": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/silva-bumpa/1660983808",
+      "genres": [
+        "uk garage"
+      ],
+      "vibes": [
+        "skippy garage sprint"
+      ],
+      "subs": [
+        "speed garage",
+        "bassline",
+        "breaks",
+        "house"
+      ],
+      "blurb": "Sheffield DJ-producer reviving rowdy mid-2000s bassline and speed garage energy for a new crowd. Named DJ Mag's Breakthrough DJ for 2025; his HYPA EP landed on Room Two in 2026."
     },
     "dj-habibeats": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/dj-habibeats/1727404289",
+      "genres": [
+        "club & global club",
+        "house"
+      ],
+      "vibes": [
+        "dabke on the dancefloor"
+      ],
+      "subs": [
+        "arabic club",
+        "global club",
+        "afro house"
+      ],
+      "blurb": "Palestinian-American DJ (and former law student) who folds Arabic pop and folk into house and global club music. His Habibi's House parties tour North America, Europe and the Middle East; in 2026 he was a Shazam Fast Forward pick and released 'Hayati' with Felukah."
     },
     "chanel-beads": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/chanel-beads/1459184309",
+      "genres": [
+        "dream pop & shoegaze",
+        "indie rock",
+        "art pop"
+      ],
+      "vibes": [
+        "woozy afternoon"
+      ],
+      "subs": [
+        "experimental pop",
+        "dream pop",
+        "indie pop"
+      ],
+      "blurb": "Shane Lavers' project of hazy, collage-like indie pop where guitars, samples and murmured vocals blur together. Second album, again titled Your Day Will Come (June 2026, Jagjaguwar), brings in more live players and sharper songs."
     },
     "adam-ten": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/adam-ten/1472226854",
+      "genres": [
+        "indie dance",
+        "house"
+      ],
+      "vibes": [
+        "desert sunrise"
+      ],
+      "subs": [
+        "organic house",
+        "deep house",
+        "melodic house"
+      ],
+      "blurb": "Tel Aviv DJ-producer of hypnotic, groove-heavy indie dance and organic house, a Burning Man and Ibiza regular. Co-runs Maccabi House with Mita Gami; his rework of Rhye's '3 Days' became '3 Days Later'."
     },
     "after": {
       "tier": "small"
     },
     "zack-fox": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/zack-fox/1260700568",
+      "genres": [
+        "alternative hip-hop"
+      ],
+      "vibes": [
+        "heckle-proof"
+      ],
+      "subs": [
+        "comedy rap",
+        "hip hop"
+      ],
+      "blurb": "Comedian and rapper who went from viral tweets to absurdist, bass-heavy rap songs. His tracks with Kenny Beats play like sketches with real beats underneath; expect jokes between songs and a crowd that knows every ad-lib."
     },
     "fat-dog": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/fat-dog/1696953372",
+      "genres": [
+        "dance-punk & disco-punk",
+        "post-punk"
+      ],
+      "vibes": [
+        "sweaty pit",
+        "rave in a shed"
+      ],
+      "subs": [
+        "dance-punk",
+        "new rave"
+      ],
+      "blurb": "Seven-piece South London band built in lockdown that fuses rave synths, klezmer-ish sax and pounding punk drums. Joe Love yells, the strings swoop, and the pit goes feral. Debut album Woof. landed in 2024; a second record followed in 2026."
     },
     "omar-plus": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/omar/1557580010",
+      "genres": [
+        "house",
+        "uk garage"
+      ],
+      "vibes": [
+        "sing-along house"
+      ],
+      "subs": [
+        "uk house"
+      ],
+      "blurb": "British producer who sings on his own house tracks, pairing R&B-style hooks with 4x4 and garage-leaning grooves. Collabs with GEE LEE, Josh Baker and Luke Dean put him in the UK club charts and on Radio 1."
     },
     "genesis-owusu": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/genesis-owusu/1045380633",
+      "genres": [
+        "alternative hip-hop",
+        "post-punk",
+        "funk"
+      ],
+      "vibes": [
+        "genre roulette"
+      ],
+      "subs": [
+        "alternative hip hop",
+        "art rap"
+      ],
+      "blurb": "Ghanaian-Australian shapeshifter who flips between funk, rap, punk and post-punk inside one record. His live show is wired and theatrical, with a band that can swing from groove to snarl in a bar. Double ARIA Album of the Year winner."
     },
     "joshua-slone": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/joshua-slone/1633809648",
+      "genres": [
+        "alt-country & americana",
+        "country",
+        "indie folk"
+      ],
+      "vibes": [
+        "porch-light sad"
+      ],
+      "subs": [
+        "folk country",
+        "alt-country",
+        "folk-pop"
+      ],
+      "blurb": "Kentucky singer-songwriter who broke through online in 2025 with plainspoken country-folk. Work with Zach Bryan raised his profile and his debut album Thinking Too Much nearly topped iTunes. Acoustic heartache, sung straight."
     },
     "the-mainliners": {
       "tier": "small"
     },
     "marten-lou-x-alex-wann": {
-      "tier": "small"
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "vibes": [
+        "b2b bounce"
+      ],
+      "blurb": "A one-off back-to-back pairing of two house producers from the club circuit. Expect a groove-first set of bouncy house and tech house built for a Sunday dance tent."
     },
     "chasewest": {
-      "tier": "small"
+      "tier": "small",
+      "genres": [
+        "house"
+      ]
     },
     "florence-road": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/florence-road/1646425758",
+      "genres": [
+        "indie rock",
+        "alternative rock & grunge"
+      ],
+      "vibes": [
+        "scream-along"
+      ],
+      "subs": [
+        "alternative rock",
+        "grunge-pop"
+      ],
+      "blurb": "Four school friends from Bray playing loud, hooky indie rock with grunge edges. Covers on TikTok and the viral 'Heavy' got them to Warner, Olivia Rodrigo support slots and an Irish airplay No. 1 with 'Hanging Out to Dry'."
     },
     "jazzy": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/jazzy/1519246472",
+      "genres": [
+        "house",
+        "dance-pop"
+      ],
+      "vibes": [
+        "handclap heaven"
+      ],
+      "subs": [
+        "uk house"
+      ],
+      "blurb": "Dublin singer-DJ whose cool, half-spoken vocals over house beats made 'Giving Me' an Irish No. 1 and a UK top three. She sings and spins, with features alongside Sonny Fodera, Belters Only and Headie One."
     },
     "tul8te": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/tul8te/1637337830",
+      "genres": [
+        "arabic pop",
+        "contemporary r&b"
+      ],
+      "vibes": [
+        "mystery mask"
+      ],
+      "subs": [
+        "egyptian pop",
+        "arabic r&b"
+      ],
+      "blurb": "Masked Egyptian singer who wants you to hear the voice, not see the face. His Gen Z Arab pop mixes classic Egyptian melody with trap and R&B beats; 'Habeeby Leh' turned him into a regional star without a major label."
     },
     "jakob-nowell-and-the-castle": {
-      "tier": "small"
+      "tier": "small",
+      "genres": [
+        "alternative rock & grunge",
+        "reggae & dub"
+      ],
+      "vibes": [
+        "long beach legacy"
+      ],
+      "subs": [
+        "alternative rock",
+        "ska punk",
+        "reggae rock",
+        "pop rock"
+      ],
+      "blurb": "Jakob Nowell, son of Sublime's late Bradley Nowell and now Sublime's own frontman, leads his side project here. Expect Long Beach-bred alt rock with ska and reggae in its bones, sung by a voice that sounds eerily familiar."
     },
     "talon": {
       "tier": "small"
     },
     "klave-efectiva": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/klave-efectiva/6772334920",
+      "genres": [
+        "norteño",
+        "regional mexican"
+      ],
+      "vibes": [
+        "hometown heroes"
+      ],
+      "blurb": "Hometown norteño group from the city of Coachella itself, flying the flag for the valley's regional Mexican scene. Think accordion, bajo sexto and dance-floor two-steps."
     }
-  }
+  },
+  "credits": "Research: the crew's notes, written for this site. Corrections welcome."
 }

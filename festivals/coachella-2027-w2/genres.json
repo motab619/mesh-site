@@ -1,0 +1,2313 @@
+{
+  "version": 1,
+  "packId": "coachella-2027-w2",
+  "rev": 1,
+  "credits": "Genre map and write-ups: the crew's research notes. Original writing; years and places are approximate.",
+  "roots": [
+    "electronic",
+    "bass",
+    "pop",
+    "hip-hop",
+    "rnb-soul",
+    "rock",
+    "punk",
+    "latin",
+    "global-pop",
+    "folk-country",
+    "uncharted"
+  ],
+  "nodes": {
+    "electronic": {
+      "id": "electronic",
+      "name": "Electronic & Dance",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Music made with machines, for bodies. From Munich disco sequencers to Detroit drum machines to whatever a Berlin warehouse is playing at 7 a.m., this is the biggest family on the lineup. Follow the arrows: almost everything here borrowed its groove from disco, funk or soul and then started turning knobs.",
+      "sound": "Drum machines and synths, a steady kick, long builds and releases, tracks made for DJs to blend.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#7cc4ff"
+    },
+    "disco": {
+      "id": "disco",
+      "name": "Disco",
+      "parent": "electronic",
+      "year": 1974,
+      "origin": "New York, Philadelphia & Munich",
+      "summary": "Born in gay, Black and Latino clubs in early-70s New York, disco took Philadelphia soul's strings and funk's bass and stretched them out for the dancefloor. In Munich, Giorgio Moroder swapped the orchestra for a sequencer on 'I Feel Love' and quietly invented the future. A 1979 backlash tried to bury it; house music dug it straight back up.",
+      "sound": "Four-on-the-floor kick, off-beat open hi-hats, octave-jumping bass, strings, big diva vocals.",
+      "bpm": [
+        110,
+        130
+      ],
+      "influencedBy": [
+        "funk",
+        "soul"
+      ],
+      "related": [
+        "dance-pop"
+      ],
+      "artists": [
+        "giorgio-moroder"
+      ],
+      "alsoArtists": [
+        "madonna",
+        "noya",
+        "the-avalanches"
+      ]
+    },
+    "nu-disco": {
+      "id": "nu-disco",
+      "name": "Nu-disco",
+      "parent": "disco",
+      "year": 2004,
+      "origin": "Europe & the music-blog era",
+      "summary": "Disco revival for people raised on the internet: re-edits, Italo and boogie records re-sequenced and given a glossy modern low end. It spread from blog-era DJs into pop itself — plenty of the biggest pop records of the 2020s are nu-disco in a sequinned jacket.",
+      "sound": "Slinky bass guitar or synth bass, filtered strings, vocoders, mid-tempo groove, sunset chords.",
+      "bpm": [
+        110,
+        124
+      ],
+      "influencedBy": [
+        "funk",
+        "synth-pop"
+      ],
+      "related": [
+        "disco-house",
+        "indie-dance"
+      ],
+      "artists": [
+        "sg-lewis"
+      ],
+      "alsoArtists": [
+        "dua-lipa",
+        "disco-dom"
+      ]
+    },
+    "house": {
+      "id": "house",
+      "name": "House",
+      "parent": "electronic",
+      "year": 1984,
+      "origin": "Chicago",
+      "summary": "When disco was declared dead, Chicago DJs like Frankie Knuckles kept playing it — re-edited, reinforced with drum machines and sung like a church service. Cheap Roland gear and local pressing plants turned that into house music, which crossed to the UK, lit the fuse for rave, and has never really left the room since. Still the lineup's centre of gravity.",
+      "sound": "Four-on-the-floor kick, claps on 2 and 4, 909 hats, piano stabs or a soulful vocal, built to loop for hours.",
+      "bpm": [
+        118,
+        128
+      ],
+      "influencedBy": [
+        "disco",
+        "funk",
+        "gospel"
+      ],
+      "related": [
+        "techno",
+        "uk-garage"
+      ],
+      "artists": [
+        "peggy-gou",
+        "chris-stassy",
+        "obskur",
+        "noya",
+        "barry-can-t-swim",
+        "kolter-x-sidney-charles",
+        "omar-plus",
+        "marten-lou-x-alex-wann",
+        "jazzy"
+      ],
+      "alsoArtists": [
+        "madonna",
+        "sg-lewis",
+        "murda-beatz",
+        "four-tet",
+        "dj-habibeats",
+        "chasewest"
+      ]
+    },
+    "deep-house": {
+      "id": "deep-house",
+      "name": "Deep House",
+      "parent": "house",
+      "year": 1986,
+      "origin": "Chicago & New York",
+      "summary": "House with the lights down: Larry Heard's jazz chords and patient basslines instead of big piano anthems. It's music for the hour when nobody is showing off. The name gets stuck on anything vaguely smooth, but at its best this is the most grown-up corner of the club.",
+      "sound": "Warm Rhodes and pad chords, rounded bass, softer drums, murmured or soulful vocals, unhurried pace.",
+      "bpm": [
+        115,
+        124
+      ],
+      "influencedBy": [
+        "jazz",
+        "soul"
+      ],
+      "related": [
+        "minimal-house"
+      ],
+      "artists": [
+        "omri"
+      ],
+      "alsoArtists": [
+        "peggy-gou",
+        "chris-stassy",
+        "jamback-x-marsolo",
+        "apollonia"
+      ]
+    },
+    "melodic-house": {
+      "id": "melodic-house",
+      "name": "Melodic House",
+      "parent": "deep-house",
+      "year": 2010,
+      "origin": "Berlin, Ibiza & Tulum",
+      "summary": "The emotional, wide-screen sound of 2010s Ibiza terraces and desert parties: long arpeggios, minor-key swells and breakdowns that land like a sunrise. A handful of labels made it the default soundtrack for big outdoor sunsets — which, conveniently, is exactly what Coachella has.",
+      "sound": "Rolling arpeggios, minor chords, slow-building breakdowns, polished kicks around 120–124 BPM.",
+      "bpm": [
+        118,
+        124
+      ],
+      "influencedBy": [
+        "trance"
+      ],
+      "related": [
+        "melodic-techno",
+        "indie-dance"
+      ],
+      "artists": [
+        "vintage-culture",
+        "solomun",
+        "vandelux",
+        "jimi-jules"
+      ],
+      "alsoArtists": [
+        "rafael",
+        "mathame"
+      ]
+    },
+    "tech-house": {
+      "id": "tech-house",
+      "name": "Tech House",
+      "parent": "house",
+      "year": 1994,
+      "origin": "London",
+      "summary": "Started in mid-90s London as a lean meeting point between house groove and techno discipline. Its 2010s rebirth via Ibiza and the American festival circuit swapped subtlety for chunky basslines and vocal hooks you can shout back — which is why it owns more of this poster than any other dance style. Snobs sneer; crowds move.",
+      "sound": "Punchy kick, rubbery rolling bassline, swung percussion, a one-line vocal chop, groove over melody.",
+      "bpm": [
+        122,
+        130
+      ],
+      "influencedBy": [
+        "techno"
+      ],
+      "related": [
+        "minimal-house",
+        "uk-garage"
+      ],
+      "artists": [
+        "solid-grooves",
+        "franky-rizardo",
+        "close-friends-only",
+        "ragie-ban",
+        "jackie-hollander",
+        "cloonee",
+        "beltran",
+        "volkoder",
+        "dom-dolla",
+        "bolo",
+        "odd-mob"
+      ],
+      "alsoArtists": [
+        "jamback-x-marsolo",
+        "kolter-x-sidney-charles",
+        "marten-lou-x-alex-wann"
+      ]
+    },
+    "minimal-house": {
+      "id": "minimal-house",
+      "name": "Minimal House",
+      "parent": "house",
+      "year": 2000,
+      "origin": "Cologne, Frankfurt & Bucharest",
+      "summary": "Strip house down to the hi-hats and see how long you can keep people hooked. Germany's 2000s microhouse labels, then Romania's 'rominimal' DJs, turned restraint into an art form; the payoff is a groove so hypnotic you forget there was ever a chorus. The after-party connoisseur's style of choice.",
+      "sound": "Skippy, swung drums, tiny clicks and shuffles, deep sub-bass, almost no melody, very long tracks.",
+      "bpm": [
+        122,
+        128
+      ],
+      "influencedBy": [
+        "minimal-techno"
+      ],
+      "related": [
+        "deep-house"
+      ],
+      "artists": [
+        "jamback-x-marsolo",
+        "apollonia"
+      ],
+      "alsoArtists": [
+        "solid-grooves",
+        "chris-stassy",
+        "kolter-x-sidney-charles"
+      ]
+    },
+    "disco-house": {
+      "id": "disco-house",
+      "name": "Disco House",
+      "parent": "house",
+      "year": 1996,
+      "origin": "Paris & New York",
+      "summary": "Loop a few bars of an old disco record, run it through a filter, open it slowly and watch the floor lose its mind. The French touch producers of the late 90s turned that trick into a global sound; today's edit-heads keep it alive with crisper drums. Shameless, joyful and very hard to dislike.",
+      "sound": "Filtered disco samples, slow low-pass sweeps, compressed four-to-the-floor, funky guitar or horn loops.",
+      "bpm": [
+        118,
+        128
+      ],
+      "influencedBy": [
+        "funk"
+      ],
+      "related": [
+        "nu-disco"
+      ],
+      "artists": [
+        "disco-dom"
+      ],
+      "alsoArtists": []
+    },
+    "progressive-house": {
+      "id": "progressive-house",
+      "name": "Progressive House",
+      "parent": "house",
+      "year": 1992,
+      "origin": "UK",
+      "summary": "Early-90s UK house that took the scenic route: layered, slowly evolving tracks built for DJs to stitch into multi-hour journeys. In the 2010s the stadium EDM crowd borrowed the name for something much louder, so ask which 'progressive' someone means before you agree with them.",
+      "sound": "Long builds, layered pads and arpeggios, gradual tension, rolling basslines; the 2010s version adds huge breakdowns.",
+      "bpm": [
+        124,
+        130
+      ],
+      "influencedBy": [
+        "trance"
+      ],
+      "related": [
+        "melodic-house"
+      ],
+      "artists": [],
+      "alsoArtists": [
+        "vintage-culture",
+        "underworld"
+      ]
+    },
+    "big-room-house": {
+      "id": "big-room-house",
+      "name": "Big Room House",
+      "parent": "progressive-house",
+      "year": 2012,
+      "origin": "Netherlands",
+      "summary": "The sound of the 2010s EDM main stage, largely engineered in the Netherlands: a stripped-back kick, a giant breakdown, a countdown, then a minimal synth drop that works best with fireworks. Easy to mock, hard to stand still to. Its stars learned to write actual songs, which is how they ended up on pop radio.",
+      "sound": "Snare rolls, a silence, then a punchy kick and a simple lead stab; festival-sized everything.",
+      "bpm": [
+        126,
+        130
+      ],
+      "influencedBy": [
+        "trance"
+      ],
+      "related": [
+        "electropop"
+      ],
+      "artists": [
+        "martin-garrix"
+      ],
+      "alsoArtists": [
+        "tiesto"
+      ]
+    },
+    "tropical-house": {
+      "id": "tropical-house",
+      "name": "Tropical House",
+      "parent": "house",
+      "year": 2014,
+      "origin": "Norway & online",
+      "summary": "Deep house slowed down and sent on holiday: marimbas, pan flutes, steel-drum plucks and a vocal you can hum. Mid-2010s remixes made it a streaming juggernaut and, briefly, the sound of every hotel lobby on earth. Lightweight by design and unbeatable at golden hour.",
+      "sound": "Slower tempo, airy pads, marimba or flute leads, gentle kick, chopped vocal hooks.",
+      "bpm": [
+        100,
+        115
+      ],
+      "influencedBy": [
+        "reggae-dub"
+      ],
+      "related": [
+        "deep-house",
+        "dance-pop"
+      ],
+      "artists": [
+        "kygo"
+      ],
+      "alsoArtists": []
+    },
+    "indie-dance": {
+      "id": "indie-dance",
+      "name": "Indie Dance",
+      "parent": "house",
+      "year": 2006,
+      "origin": "New York, Paris, Berlin & Tel Aviv",
+      "summary": "Once the bridge where rock kids discovered the club (2000s DFA and Kitsuné), now a DJ category for darker, slower, synth-heavy house that looks like it owns a leather jacket. Tel Aviv and Berlin producers made it moody and psychedelic, and it pairs beautifully with a desert night.",
+      "sound": "Mid-tempo grooves, arpeggiated analogue synths, chugging basslines, post-punk or krautrock flavours.",
+      "bpm": [
+        110,
+        124
+      ],
+      "influencedBy": [
+        "post-punk",
+        "synth-pop"
+      ],
+      "related": [
+        "dance-punk",
+        "melodic-house"
+      ],
+      "artists": [
+        "rafael",
+        "adam-ten"
+      ],
+      "alsoArtists": [
+        "vandelux",
+        "jimi-jules",
+        "omri"
+      ]
+    },
+    "techno": {
+      "id": "techno",
+      "name": "Techno",
+      "parent": "electronic",
+      "year": 1985,
+      "origin": "Detroit",
+      "summary": "Three friends from Belleville, Michigan — Juan Atkins, Derrick May and Kevin Saunderson — imagined Kraftwerk and Parliament in a hollowed-out Detroit and built the future from drum machines. Berlin adopted it after the Wall fell, and it has been the serious, relentless engine room of club culture ever since. Less about songs, more about the trance of repetition.",
+      "sound": "Driving kick, hypnotic synth loops, few vocals, machine percussion; evolves slowly across a DJ set.",
+      "bpm": [
+        125,
+        140
+      ],
+      "influencedBy": [
+        "funk",
+        "synth-pop"
+      ],
+      "related": [
+        "house"
+      ],
+      "artists": [
+        "underworld",
+        "charlotte-de-witte",
+        "ki-ki",
+        "amelie-lens-x-sara-landry"
+      ],
+      "alsoArtists": []
+    },
+    "minimal-techno": {
+      "id": "minimal-techno",
+      "name": "Minimal Techno",
+      "parent": "techno",
+      "year": 1994,
+      "origin": "Detroit & Berlin",
+      "summary": "Robert Hood and the Berlin labels asked how much of techno you could remove and still have techno. The answer: nearly all of it. Since then 'minimal' has stretched from austere loops to the playful, melodic, arena-sized 'high-tech minimal' of today — masks optional.",
+      "sound": "Sparse loops, tight percussive patterns, small variations doing big work, occasional bright melodic hooks.",
+      "bpm": [
+        125,
+        132
+      ],
+      "influencedBy": [],
+      "related": [
+        "minimal-house"
+      ],
+      "artists": [
+        "boris-brejcha"
+      ],
+      "alsoArtists": []
+    },
+    "melodic-techno": {
+      "id": "melodic-techno",
+      "name": "Melodic Techno",
+      "parent": "techno",
+      "year": 2012,
+      "origin": "Berlin & Italy",
+      "summary": "Techno's emotional younger sibling: the kick stays firm but the tracks are written around soaring, dark-cinematic synth lines. Big label showcases turned it into a spectacle with LED walls to match. Critics call it trance in a black T-shirt; the crowd at sunset does not care.",
+      "sound": "Dark arpeggios, cinematic breakdowns, pulsing bass, steady 4/4 at 120–128 BPM.",
+      "bpm": [
+        120,
+        128
+      ],
+      "influencedBy": [
+        "trance"
+      ],
+      "related": [
+        "melodic-house"
+      ],
+      "artists": [
+        "mathame"
+      ],
+      "alsoArtists": [
+        "jackie-hollander",
+        "volkoder",
+        "boris-brejcha"
+      ]
+    },
+    "hard-techno": {
+      "id": "hard-techno",
+      "name": "Hard Techno",
+      "parent": "techno",
+      "year": 1995,
+      "origin": "Germany, Belgium & Rotterdam",
+      "summary": "Techno with the speed and distortion cranked: Schranz in 90s Germany, gabber's 160-plus BPM in Rotterdam, then a huge 2020s revival led by ravers who think 130 BPM is a lullaby. Loud, fast and often funny on purpose — closer to punk than its fans might admit.",
+      "sound": "140–160+ BPM, distorted kicks, rave stabs, trance riffs, pitched-up vocal samples.",
+      "bpm": [
+        140,
+        165
+      ],
+      "influencedBy": [
+        "punk-rock"
+      ],
+      "related": [
+        "rage",
+        "hyperpop"
+      ],
+      "artists": [
+        "brutalismus-3000"
+      ],
+      "alsoArtists": [
+        "amelie-lens-x-sara-landry"
+      ]
+    },
+    "trance": {
+      "id": "trance",
+      "name": "Trance",
+      "parent": "techno",
+      "year": 1991,
+      "origin": "Frankfurt",
+      "summary": "Early-90s Frankfurt producers took techno's loops and added euphoria: long breakdowns, rising arpeggios, the cathartic moment the kick returns. By the 2000s it filled stadiums from Amsterdam to Ibiza; then it went out of fashion, then a new generation found it again. Shameless emotion is the whole point.",
+      "sound": "Rolling 16th-note bass, supersaw chords, long euphoric breakdowns, 130–140 BPM.",
+      "bpm": [
+        130,
+        140
+      ],
+      "influencedBy": [],
+      "related": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "artists": [
+        "tiesto"
+      ],
+      "alsoArtists": [
+        "snow-strippers",
+        "ki-ki"
+      ]
+    },
+    "electronica": {
+      "id": "electronica",
+      "name": "Electronica & IDM",
+      "parent": "electronic",
+      "year": 1992,
+      "origin": "UK",
+      "summary": "Electronic music for listening as much as dancing. In the early 90s Warp Records pitched it to people coming home from the club, and the awkward tag 'IDM' stuck. Its descendants fold in folk guitars, jazz samples and broken beats — and some of its makers are still the best DJs on any bill.",
+      "sound": "Intricate, often broken rhythms, textural synths, found sounds and samples, warmth over volume.",
+      "influencedBy": [
+        "jazz",
+        "hip-hop"
+      ],
+      "related": [
+        "indie-rock"
+      ],
+      "artists": [
+        "four-tet"
+      ],
+      "alsoArtists": [
+        "underworld",
+        "barry-can-t-swim"
+      ]
+    },
+    "downtempo": {
+      "id": "downtempo",
+      "name": "Downtempo & Trip-hop",
+      "parent": "electronica",
+      "year": 1991,
+      "origin": "Bristol & London",
+      "summary": "Slow electronic music from the chill-out rooms and Bristol's dub-and-hip-hop sound systems. Then came the 90s chill compilations, Gregorian-chant crossovers and plenty of coffee-table records. At its best it's head music with a heartbeat; at Coachella it's the shade-tent soundtrack.",
+      "sound": "Slow breakbeats or soft kicks, dubby bass, samples, atmospheric pads, hushed or chanted vocals.",
+      "bpm": [
+        80,
+        110
+      ],
+      "influencedBy": [
+        "reggae-dub",
+        "hip-hop"
+      ],
+      "related": [
+        "tropical-house"
+      ],
+      "artists": [
+        "enigma"
+      ],
+      "alsoArtists": [
+        "kelela",
+        "barry-can-t-swim",
+        "vandelux"
+      ]
+    },
+    "plunderphonics": {
+      "id": "plunderphonics",
+      "name": "Plunderphonics & Sample Collage",
+      "parent": "electronica",
+      "year": 1985,
+      "origin": "Toronto",
+      "summary": "Music made almost entirely from other records. The term came from a 1985 John Oswald essay; the joyful version arrived in 2000 when an Australian group stitched thousands of samples into one long party. Crate-digging as composition, and a clearance lawyer's worst nightmare.",
+      "sound": "Dense collages of vintage samples, looped grooves, voices lifted from old films and records.",
+      "influencedBy": [
+        "hip-hop",
+        "disco"
+      ],
+      "related": [
+        "psychedelic-pop"
+      ],
+      "artists": [
+        "the-avalanches"
+      ],
+      "alsoArtists": []
+    },
+    "indietronica": {
+      "id": "indietronica",
+      "name": "Indietronica",
+      "parent": "electronica",
+      "year": 2000,
+      "origin": "Germany, UK & US",
+      "summary": "Indie songwriting run through laptops and glitchy software: fragile, bedroom-made pop that treats a crackle or a cut-up vocal as an instrument. Its descendants live happily on Bandcamp and in club side rooms, equally at home with a guitar and a sampler.",
+      "sound": "Glitchy edits, soft synths, lo-fi textures, small voices, pop melodies under electronic clutter.",
+      "influencedBy": [
+        "indie-rock"
+      ],
+      "related": [
+        "indie-pop",
+        "hyperpop"
+      ],
+      "artists": [
+        "ear"
+      ],
+      "alsoArtists": [
+        "the-hellp"
+      ]
+    },
+    "electroclash": {
+      "id": "electroclash",
+      "name": "Electroclash & Indie Sleaze",
+      "parent": "electronic",
+      "year": 2000,
+      "origin": "New York, Munich & Berlin",
+      "summary": "Around 2000, Munich and New York DJs mashed Italo disco, 80s synth-pop and punk attitude into something trashy and gloriously deadpan. It burned out fast — then the 2020s 'indie sleaze' revival brought it back with witch-house fog and hyperpop distortion. Sunglasses indoors are mandatory.",
+      "sound": "Cheap-sounding synths, robotic basslines, deadpan or sneered vocals, distorted drums, deliberate trashiness.",
+      "bpm": [
+        120,
+        135
+      ],
+      "influencedBy": [
+        "synth-pop",
+        "post-punk"
+      ],
+      "related": [
+        "dance-punk",
+        "hyperpop",
+        "darkwave"
+      ],
+      "artists": [
+        "snow-strippers",
+        "the-hellp",
+        "bassvictim"
+      ],
+      "alsoArtists": []
+    },
+    "club": {
+      "id": "club",
+      "name": "Club & Global Club",
+      "parent": "electronic",
+      "year": 2012,
+      "origin": "London, New York & online",
+      "summary": "A home for the forward-leaning club music of the 2010s and 20s: London's experimental pop-club crowd, New York's underground parties and a global network of DJs fusing local rhythms — baile funk, Arabic percussion, gqom, dembow — with hard-edged electronics. Less a genre than a very good group chat.",
+      "sound": "Hard, glossy drums, rhythms from everywhere, pop vocals chopped into percussion, sudden switch-ups.",
+      "bpm": [
+        100,
+        140
+      ],
+      "influencedBy": [
+        "uk-garage",
+        "reggaeton",
+        "afrobeats"
+      ],
+      "related": [
+        "hyperpop",
+        "alternative-rnb"
+      ],
+      "artists": [
+        "shygirl",
+        "dj-habibeats"
+      ],
+      "alsoArtists": [
+        "akriila"
+      ]
+    },
+    "bass": {
+      "id": "bass",
+      "name": "Sound System & Bass",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "The Caribbean-and-British branch: music shaped by sound systems, pirate radio and bass you feel in your ribs. Jamaican dub taught producers to play the mixing desk as an instrument; London's rave and garage scenes did the rest. Expect a lot of low end and a lot of MCs.",
+      "sound": "Sub-bass first, broken or skippy rhythms, MCs, dub echoes.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#2dd4bf"
+    },
+    "reggae-dub": {
+      "id": "reggae-dub",
+      "name": "Reggae & Dub",
+      "parent": "bass",
+      "year": 1968,
+      "origin": "Kingston, Jamaica",
+      "summary": "Reggae grew out of ska and rocksteady in late-60s Kingston; dub happened when engineers like King Tubby and Lee 'Scratch' Perry pulled out the vocals and played the mixing desk. Echo, reverb, bass as lead instrument, the very idea of a remix — modern dance music owes it more than it usually admits.",
+      "sound": "Off-beat skank guitar, heavy round bass, drums dropping in and out of echo, deep reverb.",
+      "bpm": [
+        60,
+        90
+      ],
+      "influencedBy": [
+        "soul"
+      ],
+      "related": [
+        "downtempo"
+      ],
+      "artists": [],
+      "alsoArtists": [
+        "bad-gyal",
+        "jakob-nowell-and-the-castle"
+      ]
+    },
+    "drum-and-bass": {
+      "id": "drum-and-bass",
+      "name": "Jungle & Drum and Bass",
+      "parent": "reggae-dub",
+      "year": 1993,
+      "origin": "London",
+      "summary": "Early-90s London rave sped up old funk breakbeats until they rattled, then laid reggae sound-system bass underneath: that was jungle. Sleeker, tougher drum & bass followed, and it has held Britain's attention for three decades, from pirate radio to arenas. Liquid, jump-up, neuro — all branches of one tree.",
+      "sound": "Chopped breakbeats at 170+ BPM, huge half-speed sub-bass, MCs, rave stabs.",
+      "bpm": [
+        165,
+        178
+      ],
+      "influencedBy": [
+        "hip-hop",
+        "techno",
+        "funk"
+      ],
+      "related": [
+        "dubstep",
+        "uk-garage"
+      ],
+      "artists": [
+        "chase-and-status"
+      ],
+      "alsoArtists": []
+    },
+    "uk-garage": {
+      "id": "uk-garage",
+      "name": "UK Garage",
+      "parent": "bass",
+      "year": 1994,
+      "origin": "London",
+      "summary": "London DJs played New York garage records pitched up, then added R&B vocals, champagne and Sunday sessions. Speed garage, 2-step and bassline followed; then garage seeded grime and dubstep. Its 2020s revival is everywhere, and every new wave of producers rediscovers that shuffle.",
+      "sound": "Shuffling, swung two-step drums, chopped and pitched R&B vocals, warm sub-bass, 130–138 BPM.",
+      "bpm": [
+        130,
+        138
+      ],
+      "influencedBy": [
+        "house",
+        "contemporary-rnb"
+      ],
+      "related": [
+        "club",
+        "tech-house"
+      ],
+      "artists": [
+        "mph",
+        "silva-bumpa"
+      ],
+      "alsoArtists": [
+        "obskur",
+        "jorja-smith",
+        "omar-plus"
+      ]
+    },
+    "dubstep": {
+      "id": "dubstep",
+      "name": "Dubstep",
+      "parent": "uk-garage",
+      "year": 2002,
+      "origin": "Croydon, South London",
+      "summary": "South London producers took garage's darker side, half-timed it and drenched it in dub space: early dubstep was meditative, bass-weight music. Then America turned it into a roaring mid-range monster nicknamed brostep. Both versions fed the US bass scene that came after.",
+      "sound": "Half-time drums at 140 BPM, wobbling or roaring bass, sparse dubby space.",
+      "bpm": [
+        138,
+        142
+      ],
+      "influencedBy": [
+        "reggae-dub"
+      ],
+      "related": [
+        "drum-and-bass"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "bass-music": {
+      "id": "bass-music",
+      "name": "Bass Music & Glitch Hop",
+      "parent": "dubstep",
+      "year": 2010,
+      "origin": "US West Coast",
+      "summary": "The American festival underground that grew out of dubstep: glitch hop, psychedelic bass and slow, squelchy tracks built for forest stages and visual-heavy sets. It values sound design over songs, and its crowd travels with totems, flow toys and very comfortable shoes.",
+      "sound": "Mid-tempo hip-hop or half-time beats, intricate wobbles and glitches, psychedelic sound design.",
+      "bpm": [
+        90,
+        150
+      ],
+      "influencedBy": [
+        "hip-hop",
+        "electronica"
+      ],
+      "related": [],
+      "artists": [
+        "lusid"
+      ],
+      "alsoArtists": [
+        "mike-d-5d"
+      ]
+    },
+    "rock": {
+      "id": "rock",
+      "name": "Rock & Indie",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Electric guitars, drums and the eternal argument about whether rock is dead. On this lineup it's alive in psych dreamers, darkwave duos, post-punk revivalists, art-rock oddballs and arena-sized indie. The common thread is a band (or someone convincingly pretending to be one) and a song.",
+      "sound": "Guitars, bass, drums, a singer with something to get off their chest.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#ff7a59"
+    },
+    "psychedelic-rock": {
+      "id": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "parent": "rock",
+      "year": 1966,
+      "origin": "San Francisco & London",
+      "summary": "Mid-60s rock under the influence: longer songs, studio trickery, Indian drones, backwards tapes. From San Francisco ballrooms to Abbey Road it broke the three-minute single and changed how rock was recorded. Every 'reverb-drenched' band bio since quietly cites it.",
+      "sound": "Fuzz and phased guitars, backwards effects, drones, long jams, dreamy or surreal lyrics.",
+      "influencedBy": [
+        "folk",
+        "jazz"
+      ],
+      "related": [
+        "dream-pop"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "psychedelic-pop": {
+      "id": "psychedelic-pop",
+      "name": "Neo-psychedelic Pop",
+      "parent": "psychedelic-rock",
+      "year": 2008,
+      "origin": "Perth, Brooklyn & home studios",
+      "summary": "The 21st-century psych revival, often made by one person in a home studio layering phased drums, vintage synths and falsetto into giant headphone records. Kevin Parker's run from Perth turned it into headliner material and pulled it ever closer to disco and pop.",
+      "sound": "Phased, compressed drums, warm vintage synths, multi-tracked falsetto, sweeping filter moves.",
+      "influencedBy": [
+        "synth-pop",
+        "disco"
+      ],
+      "related": [
+        "plunderphonics",
+        "dream-pop"
+      ],
+      "artists": [
+        "tame-impala"
+      ],
+      "alsoArtists": [
+        "love-spells",
+        "empire-of-the-sun"
+      ]
+    },
+    "hard-rock": {
+      "id": "hard-rock",
+      "name": "Hard & Glam Rock",
+      "parent": "rock",
+      "year": 1968,
+      "origin": "UK",
+      "summary": "Blues riffs, turned up and sped up: late-60s British bands made rock heavy, and the 70s added glitter, platforms and stadium choruses. Every generation gets a band that brings back leather, mascara and swagger, to the delight of most people and the despair of whoever just declared rock dead.",
+      "sound": "Big riffs, loud drums, wailing or snarling vocals, guitar solos, singalong choruses.",
+      "influencedBy": [
+        "soul"
+      ],
+      "related": [
+        "punk-rock"
+      ],
+      "artists": [
+        "maneskin"
+      ],
+      "alsoArtists": []
+    },
+    "power-pop": {
+      "id": "power-pop",
+      "name": "Power Pop",
+      "parent": "rock",
+      "year": 1972,
+      "origin": "US & UK",
+      "summary": "Rock that prizes the hook above everything: Beatles melodies with Who-sized guitars, done in under three minutes. Big Star and Cheap Trick in the 70s, then 90s alt-rock's nerdiest heirs singing about sweaters. Never fashionable for long, always somebody's favourite band.",
+      "sound": "Crunchy guitars, sugar-rush melodies, stacked harmonies, short tight songs.",
+      "influencedBy": [],
+      "related": [
+        "indie-pop",
+        "emo",
+        "melodic-hardcore"
+      ],
+      "artists": [
+        "weezer"
+      ],
+      "alsoArtists": []
+    },
+    "post-punk": {
+      "id": "post-punk",
+      "name": "Post-punk",
+      "parent": "rock",
+      "year": 1978,
+      "origin": "Manchester, London & New York",
+      "summary": "What punk did next: Joy Division, Gang of Four, Siouxsie and Wire kept the urgency but borrowed dub bass, funk rhythm and art-school ideas. It's the restless parent of goth, indie and dance-punk, and gets revived every decade by bands in long coats — sometimes with a Texan accordion.",
+      "sound": "Melodic, prominent bass, angular guitar, taut drums, cold or declamatory vocals.",
+      "influencedBy": [
+        "punk-rock",
+        "reggae-dub",
+        "funk"
+      ],
+      "related": [
+        "indie-dance"
+      ],
+      "artists": [
+        "la-texana"
+      ],
+      "alsoArtists": [
+        "genesis-owusu"
+      ]
+    },
+    "gothic-rock": {
+      "id": "gothic-rock",
+      "name": "Gothic Rock",
+      "parent": "post-punk",
+      "year": 1980,
+      "origin": "UK",
+      "summary": "Post-punk with the lights off: Bauhaus, The Cure, Siouxsie and the Sisters of Mercy built a world of flanged guitars, drum machines and dark romance. It created one of music's most loyal subcultures, with an excellent dress code. It has been 'back' since roughly 1983.",
+      "sound": "Flanged chorus guitars, booming drums or drum machines, baritone vocals, minor keys.",
+      "influencedBy": [],
+      "related": [
+        "dream-pop"
+      ],
+      "artists": [],
+      "alsoArtists": [
+        "the-damned"
+      ]
+    },
+    "darkwave": {
+      "id": "darkwave",
+      "name": "Darkwave & Coldwave",
+      "parent": "gothic-rock",
+      "year": 1983,
+      "origin": "France, Germany & California",
+      "summary": "Gothic mood, synth-pop machinery. French coldwave and German darkwave in the 80s, then a big 2010s revival led by duos with a drum machine and a smoke machine. Dance music for people dressed in black; the line between a goth club and a techno club has never been thinner.",
+      "sound": "Cold analogue synths, drum-machine beats, reverb-heavy vocals, melancholy hooks, post-punk bass.",
+      "bpm": [
+        110,
+        135
+      ],
+      "influencedBy": [
+        "synth-pop",
+        "techno"
+      ],
+      "related": [
+        "electroclash"
+      ],
+      "artists": [
+        "boy-harsher",
+        "twin-tribes"
+      ],
+      "alsoArtists": []
+    },
+    "dance-punk": {
+      "id": "dance-punk",
+      "name": "Dance-punk & Disco-punk",
+      "parent": "post-punk",
+      "year": 2001,
+      "origin": "New York",
+      "summary": "Post-punk's funky side, rediscovered in early-2000s New York: cowbell, mirrorball, sarcasm. The UK answered with glowstick-waving 'new rave'. Today's bands take the same idea louder and stranger — guitars for people who would really rather be dancing.",
+      "sound": "Disco hi-hats under punk guitars, cowbell, shouty vocals, motorik grooves.",
+      "bpm": [
+        110,
+        130
+      ],
+      "influencedBy": [
+        "disco",
+        "house"
+      ],
+      "related": [
+        "electroclash",
+        "indie-dance"
+      ],
+      "artists": [
+        "fat-dog",
+        "getdown-services"
+      ],
+      "alsoArtists": []
+    },
+    "alternative-rock": {
+      "id": "alternative-rock",
+      "name": "Alternative Rock & Grunge",
+      "parent": "rock",
+      "year": 1985,
+      "origin": "US college radio & Seattle",
+      "summary": "The 80s college-radio underground went overground with grunge in the early 90s, and 'alternative' became a radio format rather than an attitude. The sound survives in quiet-loud dynamics, heavy chords and lyrics about feeling out of place, now a nostalgic touchstone for kids who weren't born yet.",
+      "sound": "Distorted chords, quiet verse / loud chorus, angsty or ironic vocals, 90s grunge textures.",
+      "influencedBy": [
+        "punk-rock",
+        "post-punk"
+      ],
+      "related": [
+        "indie-rock",
+        "alt-pop"
+      ],
+      "artists": [
+        "violet-grohl",
+        "basement",
+        "villanelle",
+        "the-neighbourhood",
+        "jakob-nowell-and-the-castle"
+      ],
+      "alsoArtists": [
+        "gang-of-youths",
+        "weezer",
+        "florence-road"
+      ]
+    },
+    "indie-rock": {
+      "id": "indie-rock",
+      "name": "Indie Rock",
+      "parent": "rock",
+      "year": 1981,
+      "origin": "US & UK independent labels",
+      "summary": "Originally just rock on independent labels, it became a sound of its own: earnest, jangly, scrappy, then a 2000s boom of skinny jeans and blog buzz. Now a big tent for anthemic heartland bands, art-rockers and bedroom confessionals, held together by a do-it-yourself streak.",
+      "sound": "Guitar-bass-drums, jangle or fuzz, conversational vocals, lyrics up front, homemade production.",
+      "influencedBy": [
+        "post-punk",
+        "folk"
+      ],
+      "related": [
+        "alternative-rock",
+        "indie-pop"
+      ],
+      "artists": [
+        "pinegrove",
+        "mary-in-the-junkyard",
+        "gang-of-youths",
+        "love-spells",
+        "florence-road"
+      ],
+      "alsoArtists": [
+        "american-football",
+        "this-is-lorelei",
+        "phoebe-bridgers",
+        "getdown-services"
+      ]
+    },
+    "math-rock": {
+      "id": "math-rock",
+      "name": "Math Rock",
+      "parent": "indie-rock",
+      "year": 1990,
+      "origin": "Chicago, Louisville & Japan",
+      "summary": "Rock in odd time signatures: tapped guitar lines, stop-start rhythms and songs that count to seven or eleven. It grew out of 90s American indie and found a second home in Japan and the UK. Its fans can air-drum in 5/4 without blinking.",
+      "sound": "Tapped, clean interlocking guitars, odd and shifting meters, abrupt stops, often instrumental.",
+      "influencedBy": [
+        "jazz",
+        "post-hardcore"
+      ],
+      "related": [
+        "midwest-emo"
+      ],
+      "artists": [
+        "angine-de-poitrine"
+      ],
+      "alsoArtists": [
+        "american-football"
+      ]
+    },
+    "dream-pop": {
+      "id": "dream-pop",
+      "name": "Dream Pop & Shoegaze",
+      "parent": "indie-rock",
+      "year": 1983,
+      "origin": "UK",
+      "summary": "Cocteau Twins, My Bloody Valentine and Slowdive made guitars sound like weather: blurred, reverb-soaked, beautiful. Shoegaze was the loud version, dream pop the soft one. Both are deep into a long comeback, and newer artists warp them with electronics and pop songwriting.",
+      "sound": "Washes of reverb and delay, hazy vocals mixed low, slow tempos, gauzy textures.",
+      "influencedBy": [
+        "psychedelic-rock"
+      ],
+      "related": [
+        "darkwave",
+        "art-pop"
+      ],
+      "artists": [
+        "chanel-beads"
+      ],
+      "alsoArtists": [
+        "love-spells",
+        "violet-grohl"
+      ]
+    },
+    "punk": {
+      "id": "punk",
+      "name": "Punk, Hardcore & Emo",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Three chords, a deadline and something to say. Punk's DIY ethic spawned faster hardcore and then the more confessional emo. This family spans fifty years: original 1976 provocateurs still touring, skate-video soundtracks, Midwest basement-show heroes and furious new feminist punk.",
+      "sound": "Fast drums, loud guitars, shouted or sung-shouted vocals, short songs, a lot of feeling.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#ff4d6d"
+    },
+    "punk-rock": {
+      "id": "punk-rock",
+      "name": "Punk Rock",
+      "parent": "punk",
+      "year": 1976,
+      "origin": "New York & London",
+      "summary": "The Ramones in New York; the Sex Pistols and The Damned in London. In 1976 rock got short, fast, cheap and rude again. Punk's real legacy was permission — anyone could form a band, press a record or start a zine — and every generation since has reinvented it, from Californian lifers to riot-grrrl-inspired noise punks.",
+      "sound": "Buzzsaw guitars, fast simple beats, snotty vocals, two-minute songs.",
+      "influencedBy": [
+        "hard-rock",
+        "power-pop"
+      ],
+      "related": [
+        "post-punk"
+      ],
+      "artists": [
+        "social-distortion",
+        "the-damned",
+        "las-petunias",
+        "lambrini-girls"
+      ],
+      "alsoArtists": []
+    },
+    "cowpunk": {
+      "id": "cowpunk",
+      "name": "Cowpunk",
+      "parent": "punk-rock",
+      "year": 1982,
+      "origin": "Los Angeles",
+      "summary": "Early-80s LA punks discovered their parents' country records and liked them: punk energy with twang and outlaw storytelling, Johnny Cash as patron saint. It's the spot where the hardcore show meets the honky-tonk, and where a few bands have happily lived for forty years.",
+      "sound": "Punk drive with country twang, Telecaster leads, boom-chick rhythms, gruff vocals about bad decisions.",
+      "influencedBy": [
+        "country"
+      ],
+      "related": [
+        "alt-country"
+      ],
+      "artists": [
+        "twisted-teens"
+      ],
+      "alsoArtists": [
+        "social-distortion"
+      ]
+    },
+    "hardcore": {
+      "id": "hardcore",
+      "name": "Hardcore Punk",
+      "parent": "punk",
+      "year": 1980,
+      "origin": "Los Angeles & Washington, DC",
+      "summary": "Punk made faster, shorter and angrier at the start of the 80s by Black Flag, Bad Brains and Minor Threat. It built a self-run network of labels, venues and zines, and nearly every guitar subculture of the next forty years — emo, post-hardcore, skate punk, metalcore — began as a hardcore kid's side project.",
+      "sound": "Very fast drums, shouted vocals, short bursts, gang choruses, breakdowns.",
+      "influencedBy": [
+        "punk-rock"
+      ],
+      "related": [],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "melodic-hardcore": {
+      "id": "melodic-hardcore",
+      "name": "Skate Punk & Melodic Hardcore",
+      "parent": "hardcore",
+      "year": 1988,
+      "origin": "Southern California",
+      "summary": "Hardcore speed with melodies you can sing back, forged in late-80s and 90s Southern California around a couple of fiercely independent labels. It soundtracked a generation of skate videos and road-trip mixtapes. Unfashionable with critics, permanently beloved by anyone who ever owned a deck.",
+      "sound": "Fast double-time drums, harmonised vocals, palm-muted guitars, positive or political lyrics.",
+      "influencedBy": [
+        "power-pop"
+      ],
+      "related": [
+        "punk-rock"
+      ],
+      "artists": [
+        "pennywise"
+      ],
+      "alsoArtists": []
+    },
+    "post-hardcore": {
+      "id": "post-hardcore",
+      "name": "Post-hardcore",
+      "parent": "hardcore",
+      "year": 1985,
+      "origin": "Washington, DC",
+      "summary": "Hardcore that wanted to try new things: odd structures, big dynamics, poetry. Washington, DC set the template in the mid-80s; later bands added screamed-and-spoken vocals and literary ambition. It's where hardcore intensity meets art-rock patience.",
+      "sound": "Dynamic shifts, angular guitars, screamed and spoken vocals, complex song structures.",
+      "influencedBy": [
+        "post-punk"
+      ],
+      "related": [
+        "math-rock",
+        "emo"
+      ],
+      "artists": [
+        "la-dispute"
+      ],
+      "alsoArtists": [
+        "basement"
+      ]
+    },
+    "emo": {
+      "id": "emo",
+      "name": "Emo",
+      "parent": "hardcore",
+      "year": 1985,
+      "origin": "Washington, DC",
+      "summary": "Born in DC's 1985 'Revolution Summer' as emotional hardcore, emo has had more waves than any other genre: 90s indie, 2000s mall-pop, the 2010s revival and a whole rap offshoot. Each wave insists the previous one wasn't real emo. All of them have feelings, and say so loudly.",
+      "sound": "Confessional lyrics, clean and distorted guitars, cracked or shouted vocals, big emotional crescendos.",
+      "influencedBy": [
+        "indie-rock"
+      ],
+      "related": [
+        "alternative-rock",
+        "alt-pop",
+        "indie-folk"
+      ],
+      "artists": [
+        "first-day-back"
+      ],
+      "alsoArtists": [
+        "pinegrove",
+        "la-dispute",
+        "basement"
+      ]
+    },
+    "midwest-emo": {
+      "id": "midwest-emo",
+      "name": "Midwest Emo",
+      "parent": "emo",
+      "year": 1993,
+      "origin": "Illinois & the US Midwest",
+      "summary": "The 90s Midwestern strain swapped hardcore aggression for twinkly guitars, odd tunings and nostalgic, house-party-in-a-college-town lyrics. A cult corner of the internet kept it alive until a 2010s revival made it a foundation stone for a whole new generation of bands.",
+      "sound": "Twinkly arpeggiated guitars, odd tunings and meters, the occasional trumpet, wistful vocals.",
+      "influencedBy": [
+        "math-rock"
+      ],
+      "related": [
+        "indie-rock"
+      ],
+      "artists": [
+        "american-football"
+      ],
+      "alsoArtists": [
+        "first-day-back"
+      ]
+    },
+    "pop": {
+      "id": "pop",
+      "name": "Pop",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Music designed to be loved by as many people as possible — harder than it looks. Here it ranges from disco-glazed stadium pop to synth-wielding auteurs, bedroom indie and the deliberately broken internet sound of hyperpop. Pop steals from every other family on this map and usually returns the favour.",
+      "sound": "Hooks first: memorable choruses, clear vocals, tight production, three-ish minutes.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#ff6fd8"
+    },
+    "dance-pop": {
+      "id": "dance-pop",
+      "name": "Dance-pop",
+      "parent": "pop",
+      "year": 1983,
+      "origin": "New York",
+      "summary": "Pop built for the club, launched from early-80s New York dancefloors by a certain Michigan-born singer and perfected by producers who knew how to sell a beat to radio. It's the mainstream's main bloodline: every few years it borrows something from the underground — house, EDM, nu-disco — and turns it into a stadium chorus.",
+      "sound": "Four-on-the-floor or mid-tempo dance beats, huge hooks, glossy vocals, a key change if you're lucky.",
+      "bpm": [
+        100,
+        128
+      ],
+      "influencedBy": [
+        "disco",
+        "house"
+      ],
+      "related": [
+        "k-pop",
+        "latin-pop"
+      ],
+      "artists": [
+        "dua-lipa",
+        "madonna",
+        "zara-larsson",
+        "adela",
+        "no-na"
+      ],
+      "alsoArtists": [
+        "jisoo",
+        "peggy-gou",
+        "atarashii-gakko",
+        "martin-garrix",
+        "robyn",
+        "nct",
+        "sb19",
+        "kygo",
+        "babymonster",
+        "tove-lo",
+        "jazzy"
+      ]
+    },
+    "synth-pop": {
+      "id": "synth-pop",
+      "name": "Synth-pop",
+      "parent": "pop",
+      "year": 1979,
+      "origin": "Sheffield, Basildon & Düsseldorf",
+      "summary": "When synthesisers got cheap, post-punk kids in northern England (with Kraftwerk ringing in their ears) wrote pop songs with them. Synth-pop ruled the early 80s and has been the backbone of 'cool' pop ever since — Scandinavian sad-bangers, Australian space operas, pastel internet auteurs. Melancholy you can dance to is its signature move.",
+      "sound": "Synth leads and pads, drum machines, cool or yearning vocals, strong hooks over 80s-style textures.",
+      "influencedBy": [
+        "disco",
+        "post-punk"
+      ],
+      "related": [
+        "darkwave",
+        "electroclash"
+      ],
+      "artists": [
+        "haute-and-freddy",
+        "robyn",
+        "magdalena-bay",
+        "empire-of-the-sun",
+        "zimmer90",
+        "muna"
+      ],
+      "alsoArtists": [
+        "dua-lipa",
+        "giorgio-moroder",
+        "tame-impala",
+        "boy-harsher",
+        "caroline-polachek"
+      ]
+    },
+    "electropop": {
+      "id": "electropop",
+      "name": "Electropop",
+      "parent": "synth-pop",
+      "year": 2008,
+      "origin": "Scandinavia & Los Angeles",
+      "summary": "Synth-pop for the era of laptops and festival drops: louder, sharper and more club-literate. Scandinavian writers and producers made it a major export in the late 2000s and 2010s, pairing frank, messy lyrics with very clean beats.",
+      "sound": "Bright, compressed synths, EDM-style drops, upfront vocals, frank lyrics.",
+      "bpm": [
+        100,
+        128
+      ],
+      "influencedBy": [
+        "electroclash",
+        "house"
+      ],
+      "related": [
+        "hyperpop",
+        "big-room-house"
+      ],
+      "artists": [
+        "tove-lo"
+      ],
+      "alsoArtists": [
+        "zara-larsson",
+        "robyn",
+        "adela",
+        "underscores",
+        "tiffany-day",
+        "shygirl"
+      ]
+    },
+    "art-pop": {
+      "id": "art-pop",
+      "name": "Art Pop",
+      "parent": "pop",
+      "year": 1967,
+      "origin": "London & New York",
+      "summary": "Pop that thinks like an art project: from Bowie and Kate Bush to Björk and the 2020s auteurs, it treats a single as a place for strange sounds, odd structures and big ideas. Often ahead of the curve, occasionally ahead of its audience, usually worth the effort.",
+      "sound": "Unusual vocal techniques, eclectic production, surprising structures, ornate arrangements.",
+      "influencedBy": [
+        "psychedelic-rock",
+        "electronica"
+      ],
+      "related": [
+        "dream-pop",
+        "hyperpop"
+      ],
+      "artists": [
+        "caroline-polachek"
+      ],
+      "alsoArtists": [
+        "magdalena-bay",
+        "chanel-beads"
+      ]
+    },
+    "indie-pop": {
+      "id": "indie-pop",
+      "name": "Indie Pop",
+      "parent": "pop",
+      "year": 1986,
+      "origin": "Glasgow & London",
+      "summary": "Named after a 1986 music-paper cassette of jangly, twee guitar bands, indie pop is now the broad home of melody-minded artists outside (or pretending to be outside) the major-label machine. Modern versions run from bedroom confessionals and lo-fi yacht rock to big, glossy guitar pop.",
+      "sound": "Melodic guitars or soft synths, gentle or wry vocals, warm home-studio production.",
+      "influencedBy": [
+        "indie-rock",
+        "folk"
+      ],
+      "related": [
+        "power-pop",
+        "indietronica"
+      ],
+      "artists": [
+        "bella-kay",
+        "this-is-lorelei",
+        "role-model",
+        "good-neighbours",
+        "dream-boat"
+      ],
+      "alsoArtists": [
+        "zimmer90",
+        "the-neighbourhood",
+        "remi-wolf",
+        "muna"
+      ]
+    },
+    "alt-pop": {
+      "id": "alt-pop",
+      "name": "Alt-pop",
+      "parent": "pop",
+      "year": 2013,
+      "origin": "Los Angeles & online",
+      "summary": "Pop artists borrowing the emotional colours and guitars of alternative rock and emo: darker lyrics, moodier production, a bit of eyeliner. It took off when streaming stopped caring about genre walls, and it's where much of the pop-punk revival now lives.",
+      "sound": "Pop hooks over moody or grungy production, guitars and trap hi-hats, confessional lyrics.",
+      "influencedBy": [
+        "alternative-rock",
+        "emo"
+      ],
+      "related": [
+        "hyperpop"
+      ],
+      "artists": [
+        "bea-miller",
+        "julia-wolf"
+      ],
+      "alsoArtists": [
+        "haute-and-freddy",
+        "leenalchi"
+      ]
+    },
+    "hyperpop": {
+      "id": "hyperpop",
+      "name": "Hyperpop",
+      "parent": "pop",
+      "year": 2019,
+      "origin": "London & online",
+      "summary": "Plastic London club-pop, SoundCloud emo-rap and a lot of distortion: hyperpop exaggerates pop until it glitches. Named by a streaming playlist in 2019, it gave queer and trans artists and very online teenagers a sound of their own, and quietly rewired mainstream pop production.",
+      "sound": "Pitched-up vocals, blown-out 808s, crunchy synths, sudden genre swerves, bubblegum hooks.",
+      "bpm": [
+        130,
+        180
+      ],
+      "influencedBy": [
+        "electroclash",
+        "cloud-rap",
+        "emo"
+      ],
+      "related": [
+        "club",
+        "hard-techno"
+      ],
+      "artists": [
+        "underscores",
+        "tiffany-day",
+        "rommulas"
+      ],
+      "alsoArtists": [
+        "drain-gang"
+      ]
+    },
+    "hip-hop": {
+      "id": "hip-hop",
+      "name": "Hip-hop",
+      "parent": null,
+      "year": 1973,
+      "origin": "The Bronx, New York",
+      "summary": "From DJ Kool Herc's 1973 block parties in the Bronx to the dominant pop music of the 21st century. Hip-hop's genius is the sample and the voice: it rebuilt soul, funk and disco records into something new, then spun off regional sounds faster than anyone could name them.",
+      "sound": "Beats built from breaks or 808s, rapped vocals, sampling, heavy bass.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#ffd166"
+    },
+    "gangsta-rap": {
+      "id": "gangsta-rap",
+      "name": "Street Rap & Boom Bap",
+      "parent": "hip-hop",
+      "year": 1986,
+      "origin": "Los Angeles & New York",
+      "summary": "Two of rap's classic modes: vivid street storytelling, popularised in mid-80s LA and Philadelphia and argued about ever since, and the dusty, sample-chopped drums of 90s New York. Together they form the craft-first tradition — dense verses over soulful loops, rappers judged on bars rather than hooks.",
+      "sound": "Hard snares, sampled soul and jazz loops, dense narrative verses, minimal hooks.",
+      "influencedBy": [
+        "funk",
+        "jazz"
+      ],
+      "related": [],
+      "artists": [
+        "freddie-gibbs"
+      ],
+      "alsoArtists": []
+    },
+    "alternative-hip-hop": {
+      "id": "alternative-hip-hop",
+      "name": "Alternative Hip-hop",
+      "parent": "hip-hop",
+      "year": 1988,
+      "origin": "New York",
+      "summary": "Hip-hop's eclectic wing since the late-80s Native Tongues crews: jazz samples, rock guitars, weird jokes, art-school ideas. It's where rap meets punk, funk, comedy and electronic experiments, and where artists go to avoid sounding like the radio.",
+      "sound": "Eclectic samples, live instruments, playful or abstract flows, genre-hopping production.",
+      "influencedBy": [
+        "jazz",
+        "funk",
+        "post-punk"
+      ],
+      "related": [
+        "neo-soul",
+        "electronica"
+      ],
+      "artists": [
+        "mike-d-5d",
+        "genesis-owusu",
+        "zack-fox"
+      ],
+      "alsoArtists": [
+        "rommulas",
+        "dinner-party"
+      ]
+    },
+    "trap": {
+      "id": "trap",
+      "name": "Trap",
+      "parent": "hip-hop",
+      "year": 2003,
+      "origin": "Atlanta",
+      "summary": "Atlanta street rap named after the houses it described, built on rattling hi-hats and booming 808s. By the 2010s its production simply was the sound of pop, and it has splintered into melodic, ambient, rage and countless local variants since.",
+      "sound": "Rapid triplet hi-hats, booming 808 bass, sparse dark melodies, ad-libs everywhere.",
+      "bpm": [
+        130,
+        150
+      ],
+      "influencedBy": [],
+      "related": [
+        "latin-trap",
+        "uk-rap"
+      ],
+      "artists": [
+        "murda-beatz"
+      ],
+      "alsoArtists": []
+    },
+    "melodic-rap": {
+      "id": "melodic-rap",
+      "name": "Melodic Rap",
+      "parent": "trap",
+      "year": 2014,
+      "origin": "Atlanta, New Jersey & Houston",
+      "summary": "When rappers started singing through Auto-Tune and the line between hook and verse disappeared. Around 2014–15 it became hip-hop's dominant mode: hazy, catchy, half-sung, built for the playlist. Its best practitioners write melodies that stick around for a decade.",
+      "sound": "Auto-Tuned sung rap, trap drums, airy or psychedelic synths, hook-heavy songs.",
+      "influencedBy": [
+        "contemporary-rnb"
+      ],
+      "related": [
+        "alternative-rnb"
+      ],
+      "artists": [
+        "fetty-wap",
+        "don-toliver"
+      ],
+      "alsoArtists": []
+    },
+    "cloud-rap": {
+      "id": "cloud-rap",
+      "name": "Cloud Rap & Emo Rap",
+      "parent": "trap",
+      "year": 2010,
+      "origin": "Bay Area, Stockholm & online",
+      "summary": "Rap that floats: ethereal, lo-fi beats, sleepy vocals and oceans of reverb, from the Bay Area's internet eccentrics to a Stockholm collective with its own mythology. It merged with emo's sad-boy candour on SoundCloud and became a full subculture with its own fashion and lore.",
+      "sound": "Hazy ambient samples, slow trap drums, heavy reverb, mumbled or sung emotional vocals.",
+      "influencedBy": [
+        "emo",
+        "downtempo"
+      ],
+      "related": [
+        "hyperpop"
+      ],
+      "artists": [
+        "drain-gang"
+      ],
+      "alsoArtists": [
+        "nettspend",
+        "esdeekid"
+      ]
+    },
+    "jerk": {
+      "id": "jerk",
+      "name": "Jerk & Plugg",
+      "parent": "cloud-rap",
+      "year": 2023,
+      "origin": "New York, Philadelphia & online",
+      "summary": "The 2020s underground: plugg's twinkly, video-game beats and a choppier newer wave the kids call 'jerk', recorded in bedrooms and released straight to SoundCloud. Short songs, cult followings, hard-to-google names — and a fast-moving sound that mainstream rap keeps raiding.",
+      "sound": "Bright, chiming synth melodies, punchy minimal drums, very short tracks, slurred or chopped flows.",
+      "influencedBy": [],
+      "related": [
+        "rage"
+      ],
+      "artists": [
+        "xaviersobased"
+      ],
+      "alsoArtists": [
+        "esdeekid"
+      ]
+    },
+    "rage": {
+      "id": "rage",
+      "name": "Rage",
+      "parent": "trap",
+      "year": 2020,
+      "origin": "Atlanta & online",
+      "summary": "Named after the moshpits it causes: around 2020 trap producers gave the beat a buzzing, trance-style synth lead and a punk show's energy. The scene is young, loud and very online, and the gigs look more like hardcore shows than rap concerts.",
+      "sound": "Buzzing trance-style synth leads, distorted 808s, shouted ad-libs, moshpit tempos.",
+      "influencedBy": [
+        "trance",
+        "punk-rock"
+      ],
+      "related": [
+        "hard-techno",
+        "jerk"
+      ],
+      "artists": [
+        "nettspend"
+      ],
+      "alsoArtists": []
+    },
+    "uk-rap": {
+      "id": "uk-rap",
+      "name": "UK Rap",
+      "parent": "hip-hop",
+      "year": 2003,
+      "origin": "London & beyond",
+      "summary": "British rap stepped out of America's shadow via grime's garage-built 140 BPM and road rap's gritty stories, then drill made it a global export. The newest wave comes from outside London and from the internet underground, with regional accents, eerie beats and viral moments.",
+      "sound": "UK accents and slang, drill or trap drums, dark minor-key melodies, deadpan delivery.",
+      "influencedBy": [
+        "uk-garage",
+        "trap"
+      ],
+      "related": [
+        "drum-and-bass"
+      ],
+      "artists": [
+        "esdeekid"
+      ],
+      "alsoArtists": []
+    },
+    "rnb-soul": {
+      "id": "rnb-soul",
+      "name": "Soul, R&B & Jazz",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "The Black American music that taught everyone else to groove: gospel's voices, jazz's improvisation, soul's testimony, funk's emphasis on the one, and today's R&B in all its moods. Nearly every other family on this map has an arrow pointing back here.",
+      "sound": "Voice front and centre, groove, rich chords, call and response.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#b794f6"
+    },
+    "jazz": {
+      "id": "jazz",
+      "name": "Jazz",
+      "parent": "rnb-soul",
+      "year": 1917,
+      "origin": "New Orleans",
+      "summary": "Born in New Orleans from blues, ragtime and brass bands, jazz became America's great improvised art form, then splintered into swing, bebop, fusion and beyond. In the 21st century it's in a lively crossover phase with hip-hop and neo-soul — a jam session that never quite ended.",
+      "sound": "Swing or broken rhythms, extended chords, improvised solos, horns, upright or electric bass.",
+      "influencedBy": [],
+      "related": [
+        "neo-soul",
+        "alternative-hip-hop"
+      ],
+      "artists": [
+        "dinner-party"
+      ],
+      "alsoArtists": []
+    },
+    "gospel": {
+      "id": "gospel",
+      "name": "Gospel",
+      "parent": "rnb-soul",
+      "year": 1930,
+      "origin": "Chicago & the Black church",
+      "summary": "Black church music professionalised in 1930s Chicago by Thomas A. Dorsey: ecstatic choirs, call and response, voices pushed to the edge of the possible. It trained the singers who invented soul, and its fingerprints are on house music's divas and modern R&B's vocal runs.",
+      "sound": "Choir harmonies, call and response, piano and Hammond organ, soaring lead vocals.",
+      "influencedBy": [],
+      "related": [
+        "house"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "soul": {
+      "id": "soul",
+      "name": "Soul",
+      "parent": "gospel",
+      "year": 1959,
+      "origin": "Memphis, Detroit & Chicago",
+      "summary": "Ray Charles, Sam Cooke and others took gospel's fire into secular love songs; by the 60s Motown, Stax and Chicago's labels were making the sound of civil-rights-era America. Retro-soul revivalists still chase its warmth with vintage gear, and a great soul voice can still stop a festival field.",
+      "sound": "Gospel-rooted vocals, horn sections, tight rhythm sections, heartfelt lyrics, warm analogue sound.",
+      "influencedBy": [],
+      "related": [
+        "contemporary-rnb"
+      ],
+      "artists": [
+        "the-womack-sisters",
+        "leon-bridges"
+      ],
+      "alsoArtists": []
+    },
+    "neo-soul": {
+      "id": "neo-soul",
+      "name": "Neo-soul",
+      "parent": "soul",
+      "year": 1995,
+      "origin": "Philadelphia, New York & London",
+      "summary": "In the mid-90s a handful of singers made R&B with live bands again — jazz chords, hip-hop's lazy drag, 70s soul warmth — with a loose New York collective as its engine room. It remains the go-to sound for artists who want to feel both classic and current.",
+      "sound": "Laid-back, behind-the-beat drums, Rhodes and jazz chords, live bass, intimate vocals.",
+      "influencedBy": [
+        "alternative-hip-hop",
+        "jazz"
+      ],
+      "related": [
+        "alternative-rnb"
+      ],
+      "artists": [
+        "jacob-lusk"
+      ],
+      "alsoArtists": [
+        "steve-lacy",
+        "kehlani",
+        "leon-thomas",
+        "sza",
+        "victoria-monet",
+        "jorja-smith",
+        "dinner-party"
+      ]
+    },
+    "funk": {
+      "id": "funk",
+      "name": "Funk",
+      "parent": "soul",
+      "year": 1965,
+      "origin": "James Brown's band, then everywhere",
+      "summary": "James Brown moved the emphasis to 'the one' and turned every instrument into a drum; Sly Stone and Parliament-Funkadelic turned it into a philosophy. Funk's breaks are hip-hop's raw material, its basslines run through disco and house, and pop reaches for it whenever it needs to feel playful.",
+      "sound": "Syncopated bass, choppy rhythm guitar, horn stabs, everything landing on the one, tight grooves.",
+      "bpm": [
+        95,
+        115
+      ],
+      "influencedBy": [
+        "jazz"
+      ],
+      "related": [
+        "disco",
+        "afrobeat"
+      ],
+      "artists": [
+        "remi-wolf"
+      ],
+      "alsoArtists": [
+        "leenalchi",
+        "victoria-monet",
+        "genesis-owusu"
+      ]
+    },
+    "contemporary-rnb": {
+      "id": "contemporary-rnb",
+      "name": "Contemporary R&B",
+      "parent": "rnb-soul",
+      "year": 1986,
+      "origin": "US",
+      "summary": "Modern R&B began when mid-80s new jack swing put soul vocals over hip-hop beats, then came 90s girl groups, slow jams and futuristic 2000s production. Today it's a fluid field where singers move between trap beats, neo-soul warmth, Afro-fusion and UK garage — still home to pop's best vocal performances.",
+      "sound": "Smooth or acrobatic vocals, hip-hop drums, lush chords, intimate production.",
+      "influencedBy": [
+        "soul",
+        "hip-hop"
+      ],
+      "related": [
+        "uk-garage",
+        "afrobeats"
+      ],
+      "artists": [
+        "kehlani",
+        "leon-thomas",
+        "mariah-the-scientist",
+        "odeal",
+        "jorja-smith",
+        "victoria-monet"
+      ],
+      "alsoArtists": [
+        "the-womack-sisters",
+        "leon-bridges",
+        "ayra-starr",
+        "tul8te"
+      ]
+    },
+    "alternative-rnb": {
+      "id": "alternative-rnb",
+      "name": "Alternative R&B",
+      "parent": "contemporary-rnb",
+      "year": 2011,
+      "origin": "Toronto, Los Angeles & online",
+      "summary": "The 2010s turn when R&B got moody, spacious and personal, led by a wave of mysterious mixtapes and diaristic albums. It borrows from indie, electronic and ambient music as freely as from soul, and its biggest stars sell out stadiums with songs that read like diary entries.",
+      "sound": "Atmospheric, sparse production, unusual song shapes, conversational or layered vocals, electronic textures.",
+      "influencedBy": [
+        "electronica",
+        "indie-rock",
+        "cloud-rap"
+      ],
+      "related": [
+        "neo-soul",
+        "club"
+      ],
+      "artists": [
+        "steve-lacy",
+        "kelela",
+        "sza"
+      ],
+      "alsoArtists": [
+        "mariah-the-scientist"
+      ]
+    },
+    "latin": {
+      "id": "latin",
+      "name": "Latin",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Spanish-language music has rewritten the global charts this century, but its roots run back through Colombian cumbia, Mexico's regional styles and Caribbean rhythms. This family stretches from Argentine trap to borderland norteño, Catalan reggaeton and the Latin pop machine.",
+      "sound": "Clave and dembow rhythms, accordion and bajo sexto, Spanish-language hooks.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#a3e635"
+    },
+    "latin-pop": {
+      "id": "latin-pop",
+      "name": "Latin Pop",
+      "parent": "latin",
+      "year": 1984,
+      "origin": "Miami",
+      "summary": "Built in 1980s Miami studios, Latin pop married ballads and dance beats to Spanish lyrics, then went bilingual and global. Today it borrows freely from reggaeton and regional Mexican, and its stars switch between Spanish and English mid-chorus without a second thought.",
+      "sound": "Bright pop production, Latin percussion, bilingual hooks, reggaeton or tropical rhythms.",
+      "influencedBy": [
+        "dance-pop"
+      ],
+      "related": [
+        "reggaeton"
+      ],
+      "artists": [
+        "becky-g"
+      ],
+      "alsoArtists": []
+    },
+    "reggaeton": {
+      "id": "reggaeton",
+      "name": "Reggaeton",
+      "parent": "latin",
+      "year": 1995,
+      "origin": "San Juan & Panama City",
+      "summary": "Panama's Spanish-language reggae met Puerto Rico's underground hip-hop in the 90s, and the result — built on the dembow riddim — was censored, bootlegged and then globally dominant. Spain and the rest of Latin America now make their own versions; it may be the most influential rhythm of the century.",
+      "sound": "The dembow beat (boom-ch-boom-chick), deep bass, sung-rapped Spanish vocals, synth hooks.",
+      "bpm": [
+        88,
+        100
+      ],
+      "influencedBy": [
+        "reggae-dub",
+        "hip-hop"
+      ],
+      "related": [
+        "latin-trap",
+        "club"
+      ],
+      "artists": [
+        "bad-gyal"
+      ],
+      "alsoArtists": [
+        "rommulas",
+        "becky-g"
+      ]
+    },
+    "latin-trap": {
+      "id": "latin-trap",
+      "name": "Latin Trap & Rap",
+      "parent": "latin",
+      "year": 2016,
+      "origin": "Puerto Rico, Argentina & Spain",
+      "summary": "Trap reached Puerto Rico around 2016 and became a movement; Argentina's freestyle-battle scene then produced a generation of brilliant young rappers, some of whom now fold their grandparents' folk music in. Experimental producers in Spain and Latin America push it toward club music and art pop.",
+      "sound": "Trap drums and 808s, Spanish-language flows, dark or melodic beats, the odd folk instrument.",
+      "influencedBy": [
+        "trap"
+      ],
+      "related": [
+        "reggaeton",
+        "hyperpop"
+      ],
+      "artists": [
+        "milo-j",
+        "akriila"
+      ],
+      "alsoArtists": []
+    },
+    "cumbia": {
+      "id": "cumbia",
+      "name": "Cumbia",
+      "parent": "latin",
+      "year": 1940,
+      "origin": "Colombia's Caribbean coast",
+      "summary": "Rooted in Afro-Colombian and Indigenous music from Colombia's Caribbean coast, cumbia went big-band in the 1940s and 50s and then travelled everywhere — Mexico, Peru, Argentina, Los Angeles. Each place rebuilt it in its own image, making it Latin America's great shared dance rhythm.",
+      "sound": "Shuffling 2/4 groove, güiro scrape, accordion or keyboard melodies, call-and-response choruses.",
+      "bpm": [
+        80,
+        110
+      ],
+      "influencedBy": [],
+      "related": [
+        "regional-mexican"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "cumbia-villera": {
+      "id": "cumbia-villera",
+      "name": "Cumbia Villera",
+      "parent": "cumbia",
+      "year": 2000,
+      "origin": "Greater Buenos Aires",
+      "summary": "Cumbia from the villas (informal neighbourhoods) of Greater Buenos Aires around 2000, during Argentina's economic collapse: cheap keyboards, raw street lyrics, a party in defiance of everything. It scandalised the establishment, became a huge popular movement, and is now a nostalgic singalong.",
+      "sound": "Cumbia beat on electronic keyboards, wheezy synth leads, chanted street-slang choruses.",
+      "bpm": [
+        90,
+        105
+      ],
+      "influencedBy": [
+        "gangsta-rap",
+        "punk-rock"
+      ],
+      "related": [],
+      "artists": [
+        "los-pibes-chorros"
+      ],
+      "alsoArtists": []
+    },
+    "regional-mexican": {
+      "id": "regional-mexican",
+      "name": "Regional Mexican",
+      "parent": "latin",
+      "year": 1920,
+      "origin": "Mexico & the US borderlands",
+      "summary": "The umbrella for Mexico's regional traditions — mariachi, banda, norteño, sierreño — which in the 2020s exploded as young artists blended corridos with trap, rock and R&B. The borderlands are its heartland, so California is home turf.",
+      "sound": "Accordion, bajo sexto, tuba or horns, twelve-string guitars, storytelling corridos.",
+      "influencedBy": [],
+      "related": [
+        "cumbia"
+      ],
+      "artists": [],
+      "alsoArtists": [
+        "becky-g"
+      ]
+    },
+    "norteno": {
+      "id": "norteno",
+      "name": "Norteño",
+      "parent": "regional-mexican",
+      "year": 1930,
+      "origin": "Northern Mexico & Texas",
+      "summary": "Accordion music from Northern Mexico and Texas, shaped by German and Czech immigrants' polkas meeting Mexican corridos. Its great bands became the voice of migrants on both sides of the border. Cross it with post-punk and it sounds surprisingly natural.",
+      "sound": "Button accordion, bajo sexto, polka and waltz rhythms, ballads and story songs.",
+      "influencedBy": [],
+      "related": [
+        "post-punk"
+      ],
+      "artists": [
+        "klave-efectiva"
+      ],
+      "alsoArtists": [
+        "la-texana"
+      ]
+    },
+    "global-pop": {
+      "id": "global-pop",
+      "name": "Global Pop",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Pop industries outside the Anglo-American bubble that now set trends for it: Seoul's idol system, Tokyo's eccentrics, Manila's boy bands, Lagos's Afrobeats, Punjabi stadium stars and Cairo's next wave. Each has its own long history; all of them share the internet.",
+      "sound": "Local languages, scales and rhythms in global pop packaging.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#4ade80"
+    },
+    "k-pop": {
+      "id": "k-pop",
+      "name": "K-pop",
+      "parent": "global-pop",
+      "year": 1992,
+      "origin": "Seoul",
+      "summary": "In 1992 a trio brought rap and new jack swing to Korean TV; the industry that followed built a training system, razor-sharp choreography and fandoms that move markets. Its records collage hip-hop, EDM, R&B and pop into maximal three-minute songs, and its live shows run like military operations with much better outfits.",
+      "sound": "Genre-switching sections, rap breaks, big dance-pop choruses, precise group vocals.",
+      "influencedBy": [
+        "dance-pop",
+        "contemporary-rnb",
+        "hip-hop"
+      ],
+      "related": [
+        "j-pop",
+        "p-pop"
+      ],
+      "artists": [
+        "jisoo",
+        "nct",
+        "babymonster"
+      ],
+      "alsoArtists": [
+        "no-na"
+      ]
+    },
+    "j-pop": {
+      "id": "j-pop",
+      "name": "J-pop",
+      "parent": "global-pop",
+      "year": 1990,
+      "origin": "Tokyo",
+      "summary": "Japanese pop got its name in the late 80s and grew into an industry of idols, anime themes and gloriously odd auteurs. It has always been happy to be strange — fist-pumping choreography and punk shouts next to sugary melodies.",
+      "sound": "Dense arrangements, rapid key and style changes, bright melodies, theatrical vocals.",
+      "influencedBy": [
+        "dance-pop",
+        "punk-rock"
+      ],
+      "related": [
+        "k-pop"
+      ],
+      "artists": [
+        "atarashii-gakko"
+      ],
+      "alsoArtists": []
+    },
+    "p-pop": {
+      "id": "p-pop",
+      "name": "P-pop",
+      "parent": "global-pop",
+      "year": 2018,
+      "origin": "Manila",
+      "summary": "Filipino pop has a long history, but the late-2010s P-pop wave borrowed K-pop's training and choreography and made it proudly local, with Tagalog lyrics and enormous online fandoms. One boy band's 2019 breakthrough kicked the door open for a whole scene.",
+      "sound": "Tight group vocals, choreography-driven beats, Tagalog and English lyrics, big ballads.",
+      "influencedBy": [
+        "k-pop",
+        "contemporary-rnb"
+      ],
+      "related": [
+        "dance-pop"
+      ],
+      "artists": [
+        "sb19"
+      ],
+      "alsoArtists": []
+    },
+    "gugak-fusion": {
+      "id": "gugak-fusion",
+      "name": "Gugak Fusion",
+      "parent": "global-pop",
+      "year": 2010,
+      "origin": "Seoul",
+      "summary": "Korean traditional music (gugak) rebuilt with modern bands: centuries-old pansori storytelling sung over funk and indie-rock basslines. A 2020 tourism campaign made it go viral worldwide. Proof that the oldest songs on the bill can be the freshest.",
+      "sound": "Pansori-style vocals, traditional modes and instruments, funky bass and drums, theatrical delivery.",
+      "influencedBy": [
+        "funk",
+        "alternative-rock"
+      ],
+      "related": [
+        "k-pop"
+      ],
+      "artists": [
+        "leenalchi"
+      ],
+      "alsoArtists": []
+    },
+    "bhangra": {
+      "id": "bhangra",
+      "name": "Bhangra",
+      "parent": "global-pop",
+      "year": 1980,
+      "origin": "Punjab & Birmingham, UK",
+      "summary": "Punjabi harvest-festival folk reborn in 1980s Britain when the diaspora plugged it into disco, reggae and hip-hop. The dhol's beat became a dancefloor signal from Birmingham to Toronto, and it's the ancestor of today's Punjabi pop superstars.",
+      "sound": "Thundering dhol drum, tumbi riffs, call-and-response shouts, bouncy chaal rhythm.",
+      "bpm": [
+        90,
+        110
+      ],
+      "influencedBy": [
+        "reggae-dub",
+        "disco"
+      ],
+      "related": [],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "punjabi-pop": {
+      "id": "punjabi-pop",
+      "name": "Punjabi Pop",
+      "parent": "bhangra",
+      "year": 2005,
+      "origin": "Punjab, UK & Canada",
+      "summary": "Punjabi music went global through YouTube, diaspora studios in the UK and Canada, and stars who also headline films: folk melodies and dhol over hip-hop beats. In 2023 it reached a Coachella main stage for the first time; now it's part of the furniture.",
+      "sound": "Punjabi vocals with folk ornaments, dhol and tumbi over trap or pop beats, a lot of swagger.",
+      "influencedBy": [
+        "hip-hop",
+        "contemporary-rnb"
+      ],
+      "related": [
+        "k-pop"
+      ],
+      "artists": [
+        "diljit-dosanjh"
+      ],
+      "alsoArtists": []
+    },
+    "arabic-pop": {
+      "id": "arabic-pop",
+      "name": "Arabic Pop",
+      "parent": "global-pop",
+      "year": 1985,
+      "origin": "Cairo & Beirut",
+      "summary": "Egypt's 80s 'al-jeel' generation put Arabic melodies over drum machines; Beirut and the Gulf built a star system around it. The newest wave — Egyptian rap, street-party mahraganat, Arabic R&B — is louder, younger and increasingly global.",
+      "sound": "Arabic scales and vocal ornaments, darbuka rhythms, modern R&B or trap production.",
+      "influencedBy": [
+        "contemporary-rnb",
+        "dance-pop"
+      ],
+      "related": [
+        "club"
+      ],
+      "artists": [
+        "tul8te"
+      ],
+      "alsoArtists": []
+    },
+    "afrobeat": {
+      "id": "afrobeat",
+      "name": "Afrobeat",
+      "parent": "global-pop",
+      "year": 1970,
+      "origin": "Lagos",
+      "summary": "Fela Kuti's 1970s Lagos invention: James Brown funk, jazz horns and Yoruba rhythms in long, politically fearless jams. Different spelling, different genre from today's Afrobeats — but the drums and the swagger run in the family.",
+      "sound": "Interlocking guitars, long horn lines, polyrhythmic percussion, extended grooves.",
+      "bpm": [
+        100,
+        125
+      ],
+      "influencedBy": [
+        "funk",
+        "jazz"
+      ],
+      "related": [],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "afrobeats": {
+      "id": "afrobeats",
+      "name": "Afrobeats",
+      "parent": "afrobeat",
+      "year": 2010,
+      "origin": "Lagos, Accra & London",
+      "summary": "West African pop of the 2010s and 20s — Nigerian and Ghanaian stars plus London's Afroswing — blending highlife, dancehall, R&B and hip-hop, lately with amapiano's log drums. Now one of the world's biggest pop exports and a festival staple.",
+      "sound": "Laid-back syncopated percussion, shakers, warm basslines, sung hooks in English, Pidgin and Yoruba.",
+      "bpm": [
+        95,
+        115
+      ],
+      "influencedBy": [
+        "contemporary-rnb",
+        "reggae-dub"
+      ],
+      "related": [
+        "club",
+        "reggaeton"
+      ],
+      "artists": [
+        "ayra-starr"
+      ],
+      "alsoArtists": [
+        "odeal"
+      ]
+    },
+    "folk-country": {
+      "id": "folk-country",
+      "name": "Folk & Country",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Songs that sound like they were written at a kitchen table or on a long drive. Country and folk are the oldest storytelling traditions on this map, and indie musicians keep coming back to them for honesty, twang and harmony.",
+      "sound": "Acoustic guitars, fiddle and pedal steel, storytelling lyrics, close harmonies.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [],
+      "alsoArtists": [],
+      "color": "#d6a77a"
+    },
+    "country": {
+      "id": "country",
+      "name": "Country",
+      "parent": "folk-country",
+      "year": 1927,
+      "origin": "Bristol, Tennessee & Nashville",
+      "summary": "The 1927 Bristol Sessions are country's big bang; Nashville turned it into an industry, and outlaws, cowpunks and alt-country kids have rebelled against that industry ever since. Today's country is bigger than ever and borrowing freely from pop and hip-hop.",
+      "sound": "Twang, pedal steel, fiddle, story songs, close harmonies.",
+      "influencedBy": [],
+      "related": [
+        "cowpunk"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "alt-country": {
+      "id": "alt-country",
+      "name": "Alt-country & Americana",
+      "parent": "country",
+      "year": 1990,
+      "origin": "Belleville, Illinois",
+      "summary": "Punk-raised kids rediscovered Hank Williams in the early 90s and built a scene around country's sincerity without Nashville's gloss. Now it's home to folk-leaning songwriters and indie bands who own a pedal steel.",
+      "sound": "Acoustic and electric guitars, pedal steel, earnest vocals, rootsy production.",
+      "influencedBy": [
+        "punk-rock",
+        "indie-rock"
+      ],
+      "related": [
+        "cowpunk",
+        "indie-folk"
+      ],
+      "artists": [
+        "joshua-slone"
+      ],
+      "alsoArtists": [
+        "pinegrove"
+      ]
+    },
+    "folk": {
+      "id": "folk",
+      "name": "Folk Revival",
+      "parent": "folk-country",
+      "year": 1958,
+      "origin": "Greenwich Village & British folk clubs",
+      "summary": "The 50s–60s revival in Greenwich Village and British folk clubs turned old ballads and protest songs into a movement, then plugged in. Folk's quiet intimacy comes back into indie music every time loudness gets tiring.",
+      "sound": "Acoustic guitar, plain voice, ballad forms, harmonies.",
+      "influencedBy": [],
+      "related": [
+        "psychedelic-rock"
+      ],
+      "artists": [],
+      "alsoArtists": []
+    },
+    "indie-folk": {
+      "id": "indie-folk",
+      "name": "Indie Folk",
+      "parent": "folk",
+      "year": 2005,
+      "origin": "US",
+      "summary": "Mid-2000s indie musicians brought folk's intimacy into the indie world — cabin records, choir-boy harmonies, banjo-and-strings epics. The 2020s version is sharper and sadder: hushed, devastating songs that crowds scream along to anyway.",
+      "sound": "Fingerpicked guitars, hushed vocals, sparse arrangements that swell, devastating lyrics.",
+      "influencedBy": [
+        "indie-rock",
+        "emo"
+      ],
+      "related": [
+        "alt-country",
+        "dream-pop"
+      ],
+      "artists": [
+        "phoebe-bridgers"
+      ],
+      "alsoArtists": [
+        "joshua-slone"
+      ]
+    },
+    "uncharted": {
+      "id": "uncharted",
+      "name": "Uncharted",
+      "parent": null,
+      "year": null,
+      "origin": "",
+      "summary": "Acts we couldn't pin down yet — the name is too common, the internet is too quiet, or the poster spelling is ambiguous. Go find out and tell the crew. Some of the best Coachella discoveries start exactly here.",
+      "sound": "Unknown. That's the fun part.",
+      "influencedBy": [],
+      "related": [],
+      "artists": [
+        "nirosta-steel",
+        "eli",
+        "after",
+        "the-mainliners",
+        "chasewest",
+        "talon"
+      ],
+      "alsoArtists": [],
+      "color": "#8a8f98"
+    }
+  }
+}
