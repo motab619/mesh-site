@@ -1,41 +1,1615 @@
 {
   "version": 1,
   "id": "coachella-2027-w2",
-  "rev": 1,
-  "festival": { "name": "Coachella 2027", "tz": "America/Los_Angeles" },
+  "rev": 2,
+  "festival": {
+    "name": "Coachella 2027",
+    "tz": "America/Los_Angeles"
+  },
   "days": [
-    { "id": "fri", "date": "2027-04-23", "label": "Friday" },
-    { "id": "sat", "date": "2027-04-24", "label": "Saturday" },
-    { "id": "sun", "date": "2027-04-25", "label": "Sunday" }
+    {
+      "id": "fri",
+      "date": "2027-04-16",
+      "label": "Friday"
+    },
+    {
+      "id": "sat",
+      "date": "2027-04-17",
+      "label": "Saturday"
+    },
+    {
+      "id": "sun",
+      "date": "2027-04-18",
+      "label": "Sunday"
+    }
   ],
   "stages": [
-    { "id": "coachella", "name": "Coachella" },
-    { "id": "outdoor", "name": "Outdoor" },
-    { "id": "sahara", "name": "Sahara" },
-    { "id": "mojave", "name": "Mojave" },
-    { "id": "gobi", "name": "Gobi" },
-    { "id": "sonora", "name": "Sonora" },
-    { "id": "yuma", "name": "Yuma" },
-    { "id": "quasar", "name": "Quasar" }
+    {
+      "id": "coachella",
+      "name": "Coachella"
+    },
+    {
+      "id": "outdoor",
+      "name": "Outdoor"
+    },
+    {
+      "id": "sahara",
+      "name": "Sahara"
+    },
+    {
+      "id": "mojave",
+      "name": "Mojave"
+    },
+    {
+      "id": "gobi",
+      "name": "Gobi"
+    },
+    {
+      "id": "sonora",
+      "name": "Sonora"
+    },
+    {
+      "id": "yuma",
+      "name": "Yuma"
+    },
+    {
+      "id": "quasar",
+      "name": "Quasar"
+    }
   ],
   "sets": [],
   "tba": [
-    { "id": "test-band-the-placeholders", "idx": 0, "artistId": "test-band-the-placeholders", "name": "Test Band: The Placeholders", "day": "fri" },
-    { "id": "test-band-dj-lorem-ipsum", "idx": 1, "artistId": "test-band-dj-lorem-ipsum", "name": "Test Band: DJ Lorem Ipsum", "day": "sat" }
+    {
+      "id": "dua-lipa",
+      "idx": 2,
+      "artistId": "dua-lipa",
+      "name": "Dua Lipa",
+      "day": "fri"
+    },
+    {
+      "id": "madonna",
+      "idx": 3,
+      "artistId": "madonna",
+      "name": "Madonna",
+      "day": "fri"
+    },
+    {
+      "id": "zara-larsson",
+      "idx": 4,
+      "artistId": "zara-larsson",
+      "name": "Zara Larsson",
+      "day": "fri"
+    },
+    {
+      "id": "steve-lacy",
+      "idx": 5,
+      "artistId": "steve-lacy",
+      "name": "Steve Lacy",
+      "day": "fri"
+    },
+    {
+      "id": "jisoo",
+      "idx": 6,
+      "artistId": "jisoo",
+      "name": "JISOO",
+      "day": "fri"
+    },
+    {
+      "id": "diljit-dosanjh",
+      "idx": 7,
+      "artistId": "diljit-dosanjh",
+      "name": "Diljit Dosanjh",
+      "day": "fri"
+    },
+    {
+      "id": "peggy-gou",
+      "idx": 8,
+      "artistId": "peggy-gou",
+      "name": "Peggy Gou",
+      "day": "fri"
+    },
+    {
+      "id": "kehlani",
+      "idx": 9,
+      "artistId": "kehlani",
+      "name": "Kehlani",
+      "day": "fri"
+    },
+    {
+      "id": "solid-grooves",
+      "idx": 10,
+      "artistId": "solid-grooves",
+      "name": "Solid Grooves",
+      "day": "fri"
+    },
+    {
+      "id": "giorgio-moroder",
+      "idx": 11,
+      "artistId": "giorgio-moroder",
+      "name": "Giorgio Moroder",
+      "day": "fri"
+    },
+    {
+      "id": "social-distortion",
+      "idx": 12,
+      "artistId": "social-distortion",
+      "name": "Social Distortion",
+      "day": "fri"
+    },
+    {
+      "id": "pinegrove",
+      "idx": 13,
+      "artistId": "pinegrove",
+      "name": "Pinegrove",
+      "day": "fri"
+    },
+    {
+      "id": "angine-de-poitrine",
+      "idx": 14,
+      "artistId": "angine-de-poitrine",
+      "name": "Angine de Poitrine",
+      "day": "fri"
+    },
+    {
+      "id": "leon-thomas",
+      "idx": 15,
+      "artistId": "leon-thomas",
+      "name": "Leon Thomas",
+      "day": "fri"
+    },
+    {
+      "id": "drain-gang",
+      "idx": 16,
+      "artistId": "drain-gang",
+      "name": "Drain Gang",
+      "day": "fri"
+    },
+    {
+      "id": "snow-strippers",
+      "idx": 17,
+      "artistId": "snow-strippers",
+      "name": "Snow Strippers",
+      "day": "fri"
+    },
+    {
+      "id": "mike-d-5d",
+      "idx": 18,
+      "artistId": "mike-d-5d",
+      "name": "Mike D 5D",
+      "day": "fri"
+    },
+    {
+      "id": "chris-stassy",
+      "idx": 19,
+      "artistId": "chris-stassy",
+      "name": "Chris Stassy",
+      "day": "fri"
+    },
+    {
+      "id": "milo-j",
+      "idx": 20,
+      "artistId": "milo-j",
+      "name": "Milo J",
+      "day": "fri"
+    },
+    {
+      "id": "sg-lewis",
+      "idx": 21,
+      "artistId": "sg-lewis",
+      "name": "SG Lewis",
+      "day": "fri"
+    },
+    {
+      "id": "kelela",
+      "idx": 22,
+      "artistId": "kelela",
+      "name": "Kelela",
+      "day": "fri"
+    },
+    {
+      "id": "franky-rizardo",
+      "idx": 23,
+      "artistId": "franky-rizardo",
+      "name": "Franky Rizardo",
+      "day": "fri"
+    },
+    {
+      "id": "fetty-wap",
+      "idx": 24,
+      "artistId": "fetty-wap",
+      "name": "Fetty Wap",
+      "day": "fri"
+    },
+    {
+      "id": "vintage-culture",
+      "idx": 25,
+      "artistId": "vintage-culture",
+      "name": "Vintage Culture",
+      "day": "fri"
+    },
+    {
+      "id": "the-damned",
+      "idx": 26,
+      "artistId": "the-damned",
+      "name": "The Damned",
+      "day": "fri"
+    },
+    {
+      "id": "atarashii-gakko",
+      "idx": 27,
+      "artistId": "atarashii-gakko",
+      "name": "Atarashii Gakko!",
+      "day": "fri"
+    },
+    {
+      "id": "nettspend",
+      "idx": 28,
+      "artistId": "nettspend",
+      "name": "Nettspend",
+      "day": "fri"
+    },
+    {
+      "id": "american-football",
+      "idx": 29,
+      "artistId": "american-football",
+      "name": "American Football",
+      "day": "fri"
+    },
+    {
+      "id": "xaviersobased",
+      "idx": 30,
+      "artistId": "xaviersobased",
+      "name": "xaviersobased",
+      "day": "fri"
+    },
+    {
+      "id": "la-dispute",
+      "idx": 31,
+      "artistId": "la-dispute",
+      "name": "La Dispute",
+      "day": "fri"
+    },
+    {
+      "id": "haute-and-freddy",
+      "idx": 32,
+      "artistId": "haute-and-freddy",
+      "name": "Haute & Freddy",
+      "day": "fri"
+    },
+    {
+      "id": "the-hellp",
+      "idx": 33,
+      "artistId": "the-hellp",
+      "name": "The Hellp",
+      "day": "fri"
+    },
+    {
+      "id": "disco-dom",
+      "idx": 34,
+      "artistId": "disco-dom",
+      "name": "Disco Dom",
+      "day": "fri"
+    },
+    {
+      "id": "mph",
+      "idx": 35,
+      "artistId": "mph",
+      "name": "MPH",
+      "day": "fri"
+    },
+    {
+      "id": "bella-kay",
+      "idx": 36,
+      "artistId": "bella-kay",
+      "name": "Bella Kay",
+      "day": "fri"
+    },
+    {
+      "id": "this-is-lorelei",
+      "idx": 37,
+      "artistId": "this-is-lorelei",
+      "name": "This Is Lorelei",
+      "day": "fri"
+    },
+    {
+      "id": "the-womack-sisters",
+      "idx": 38,
+      "artistId": "the-womack-sisters",
+      "name": "The Womack Sisters",
+      "day": "fri"
+    },
+    {
+      "id": "mary-in-the-junkyard",
+      "idx": 39,
+      "artistId": "mary-in-the-junkyard",
+      "name": "mary in the junkyard",
+      "day": "fri"
+    },
+    {
+      "id": "close-friends-only",
+      "idx": 40,
+      "artistId": "close-friends-only",
+      "name": "Close Friends Only",
+      "day": "fri"
+    },
+    {
+      "id": "obskur",
+      "idx": 41,
+      "artistId": "obskur",
+      "name": "Obskür",
+      "day": "fri"
+    },
+    {
+      "id": "jacob-lusk",
+      "idx": 42,
+      "artistId": "jacob-lusk",
+      "name": "Jacob Lusk",
+      "day": "fri"
+    },
+    {
+      "id": "leenalchi",
+      "idx": 43,
+      "artistId": "leenalchi",
+      "name": "Leenalchi",
+      "day": "fri"
+    },
+    {
+      "id": "bea-miller",
+      "idx": 44,
+      "artistId": "bea-miller",
+      "name": "Bea Miller",
+      "day": "fri"
+    },
+    {
+      "id": "gang-of-youths",
+      "idx": 45,
+      "artistId": "gang-of-youths",
+      "name": "Gang of Youths",
+      "day": "fri"
+    },
+    {
+      "id": "love-spells",
+      "idx": 46,
+      "artistId": "love-spells",
+      "name": "Love Spells",
+      "day": "fri"
+    },
+    {
+      "id": "rafael",
+      "idx": 47,
+      "artistId": "rafael",
+      "name": "Rafael",
+      "day": "fri"
+    },
+    {
+      "id": "nirosta-steel",
+      "idx": 48,
+      "artistId": "nirosta-steel",
+      "name": "Nirosta Steel",
+      "day": "fri"
+    },
+    {
+      "id": "ragie-ban",
+      "idx": 49,
+      "artistId": "ragie-ban",
+      "name": "Ragie Ban",
+      "day": "fri"
+    },
+    {
+      "id": "eli",
+      "idx": 50,
+      "artistId": "eli",
+      "name": "Eli",
+      "day": "fri"
+    },
+    {
+      "id": "las-petunias",
+      "idx": 51,
+      "artistId": "las-petunias",
+      "name": "Las Petunias",
+      "day": "fri"
+    },
+    {
+      "id": "violet-grohl",
+      "idx": 52,
+      "artistId": "violet-grohl",
+      "name": "Violet Grohl",
+      "day": "fri"
+    },
+    {
+      "id": "jackie-hollander",
+      "idx": 53,
+      "artistId": "jackie-hollander",
+      "name": "Jackie Hollander",
+      "day": "fri"
+    },
+    {
+      "id": "jamback-x-marsolo",
+      "idx": 54,
+      "artistId": "jamback-x-marsolo",
+      "name": "Jamback x Marsolo",
+      "day": "fri"
+    },
+    {
+      "id": "noya",
+      "idx": 55,
+      "artistId": "noya",
+      "name": "NOYA",
+      "day": "fri"
+    },
+    {
+      "id": "tame-impala",
+      "idx": 56,
+      "artistId": "tame-impala",
+      "name": "Tame Impala",
+      "day": "sat"
+    },
+    {
+      "id": "phoebe-bridgers",
+      "idx": 57,
+      "artistId": "phoebe-bridgers",
+      "name": "Phoebe Bridgers",
+      "day": "sat"
+    },
+    {
+      "id": "weezer",
+      "idx": 58,
+      "artistId": "weezer",
+      "name": "Weezer",
+      "day": "sat"
+    },
+    {
+      "id": "tiesto",
+      "idx": 59,
+      "artistId": "tiesto",
+      "name": "Tiësto",
+      "day": "sat"
+    },
+    {
+      "id": "martin-garrix",
+      "idx": 60,
+      "artistId": "martin-garrix",
+      "name": "Martin Garrix",
+      "day": "sat"
+    },
+    {
+      "id": "robyn",
+      "idx": 61,
+      "artistId": "robyn",
+      "name": "Robyn",
+      "day": "sat"
+    },
+    {
+      "id": "role-model",
+      "idx": 62,
+      "artistId": "role-model",
+      "name": "Role Model",
+      "day": "sat"
+    },
+    {
+      "id": "adela",
+      "idx": 63,
+      "artistId": "adela",
+      "name": "ADÉLA",
+      "day": "sat"
+    },
+    {
+      "id": "maneskin",
+      "idx": 64,
+      "artistId": "maneskin",
+      "name": "Måneskin",
+      "day": "sat"
+    },
+    {
+      "id": "solomun",
+      "idx": 65,
+      "artistId": "solomun",
+      "name": "Solomun",
+      "day": "sat"
+    },
+    {
+      "id": "nct",
+      "idx": 66,
+      "artistId": "nct",
+      "name": "NCT",
+      "day": "sat"
+    },
+    {
+      "id": "enigma",
+      "idx": 67,
+      "artistId": "enigma",
+      "name": "Enigma",
+      "day": "sat"
+    },
+    {
+      "id": "underworld",
+      "idx": 68,
+      "artistId": "underworld",
+      "name": "Underworld",
+      "day": "sat"
+    },
+    {
+      "id": "charlotte-de-witte",
+      "idx": 69,
+      "artistId": "charlotte-de-witte",
+      "name": "Charlotte de Witte",
+      "day": "sat"
+    },
+    {
+      "id": "leon-bridges",
+      "idx": 70,
+      "artistId": "leon-bridges",
+      "name": "Leon Bridges",
+      "day": "sat"
+    },
+    {
+      "id": "cloonee",
+      "idx": 71,
+      "artistId": "cloonee",
+      "name": "Cloonee",
+      "day": "sat"
+    },
+    {
+      "id": "magdalena-bay",
+      "idx": 72,
+      "artistId": "magdalena-bay",
+      "name": "Magdalena Bay",
+      "day": "sat"
+    },
+    {
+      "id": "barry-can-t-swim",
+      "idx": 73,
+      "artistId": "barry-can-t-swim",
+      "name": "Barry Can't Swim",
+      "day": "sat"
+    },
+    {
+      "id": "boy-harsher",
+      "idx": 74,
+      "artistId": "boy-harsher",
+      "name": "Boy Harsher",
+      "day": "sat"
+    },
+    {
+      "id": "ki-ki",
+      "idx": 75,
+      "artistId": "ki-ki",
+      "name": "KI/KI",
+      "day": "sat"
+    },
+    {
+      "id": "mariah-the-scientist",
+      "idx": 76,
+      "artistId": "mariah-the-scientist",
+      "name": "Mariah the Scientist",
+      "day": "sat"
+    },
+    {
+      "id": "bad-gyal",
+      "idx": 77,
+      "artistId": "bad-gyal",
+      "name": "Bad Gyal",
+      "day": "sat"
+    },
+    {
+      "id": "basement",
+      "idx": 78,
+      "artistId": "basement",
+      "name": "Basement",
+      "day": "sat"
+    },
+    {
+      "id": "brutalismus-3000",
+      "idx": 79,
+      "artistId": "brutalismus-3000",
+      "name": "Brutalismus 3000",
+      "day": "sat"
+    },
+    {
+      "id": "beltran",
+      "idx": 80,
+      "artistId": "beltran",
+      "name": "Beltran",
+      "day": "sat"
+    },
+    {
+      "id": "underscores",
+      "idx": 81,
+      "artistId": "underscores",
+      "name": "underscores",
+      "day": "sat"
+    },
+    {
+      "id": "sb19",
+      "idx": 82,
+      "artistId": "sb19",
+      "name": "SB19",
+      "day": "sat"
+    },
+    {
+      "id": "twin-tribes",
+      "idx": 83,
+      "artistId": "twin-tribes",
+      "name": "Twin Tribes",
+      "day": "sat"
+    },
+    {
+      "id": "odeal",
+      "idx": 84,
+      "artistId": "odeal",
+      "name": "Odeal",
+      "day": "sat"
+    },
+    {
+      "id": "bassvictim",
+      "idx": 85,
+      "artistId": "bassvictim",
+      "name": "Bassvictim",
+      "day": "sat"
+    },
+    {
+      "id": "los-pibes-chorros",
+      "idx": 86,
+      "artistId": "los-pibes-chorros",
+      "name": "Los Pibes Chorros",
+      "day": "sat"
+    },
+    {
+      "id": "tiffany-day",
+      "idx": 87,
+      "artistId": "tiffany-day",
+      "name": "Tiffany Day",
+      "day": "sat"
+    },
+    {
+      "id": "no-na",
+      "idx": 88,
+      "artistId": "no-na",
+      "name": "no na",
+      "day": "sat"
+    },
+    {
+      "id": "mathame",
+      "idx": 89,
+      "artistId": "mathame",
+      "name": "Mathame",
+      "day": "sat"
+    },
+    {
+      "id": "ear",
+      "idx": 90,
+      "artistId": "ear",
+      "name": "ear",
+      "day": "sat"
+    },
+    {
+      "id": "vandelux",
+      "idx": 91,
+      "artistId": "vandelux",
+      "name": "Vandelux",
+      "day": "sat"
+    },
+    {
+      "id": "rommulas",
+      "idx": 92,
+      "artistId": "rommulas",
+      "name": "rommulas",
+      "day": "sat"
+    },
+    {
+      "id": "apollonia",
+      "idx": 93,
+      "artistId": "apollonia",
+      "name": "Apollonia",
+      "day": "sat"
+    },
+    {
+      "id": "getdown-services",
+      "idx": 94,
+      "artistId": "getdown-services",
+      "name": "Getdown Services",
+      "day": "sat"
+    },
+    {
+      "id": "good-neighbours",
+      "idx": 95,
+      "artistId": "good-neighbours",
+      "name": "Good Neighbours",
+      "day": "sat"
+    },
+    {
+      "id": "first-day-back",
+      "idx": 96,
+      "artistId": "first-day-back",
+      "name": "First Day Back",
+      "day": "sat"
+    },
+    {
+      "id": "jimi-jules",
+      "idx": 97,
+      "artistId": "jimi-jules",
+      "name": "Jimi Jules",
+      "day": "sat"
+    },
+    {
+      "id": "twisted-teens",
+      "idx": 98,
+      "artistId": "twisted-teens",
+      "name": "Twisted Teens",
+      "day": "sat"
+    },
+    {
+      "id": "murda-beatz",
+      "idx": 99,
+      "artistId": "murda-beatz",
+      "name": "Murda Beatz",
+      "day": "sat"
+    },
+    {
+      "id": "villanelle",
+      "idx": 100,
+      "artistId": "villanelle",
+      "name": "Villanelle",
+      "day": "sat"
+    },
+    {
+      "id": "kolter-x-sidney-charles",
+      "idx": 101,
+      "artistId": "kolter-x-sidney-charles",
+      "name": "Kolter x Sidney Charles",
+      "day": "sat"
+    },
+    {
+      "id": "la-texana",
+      "idx": 102,
+      "artistId": "la-texana",
+      "name": "La Texana",
+      "day": "sat"
+    },
+    {
+      "id": "omri",
+      "idx": 103,
+      "artistId": "omri",
+      "name": "OMRI.",
+      "day": "sat"
+    },
+    {
+      "id": "volkoder",
+      "idx": 104,
+      "artistId": "volkoder",
+      "name": "Volkoder",
+      "day": "sat"
+    },
+    {
+      "id": "zimmer90",
+      "idx": 105,
+      "artistId": "zimmer90",
+      "name": "Zimmer90",
+      "day": "sat"
+    },
+    {
+      "id": "lusid",
+      "idx": 106,
+      "artistId": "lusid",
+      "name": "LuSiD",
+      "day": "sat"
+    },
+    {
+      "id": "dream-boat",
+      "idx": 107,
+      "artistId": "dream-boat",
+      "name": "Dream Boat",
+      "day": "sat"
+    },
+    {
+      "id": "sza",
+      "idx": 108,
+      "artistId": "sza",
+      "name": "SZA",
+      "day": "sun"
+    },
+    {
+      "id": "don-toliver",
+      "idx": 109,
+      "artistId": "don-toliver",
+      "name": "Don Toliver",
+      "day": "sun"
+    },
+    {
+      "id": "dom-dolla",
+      "idx": 110,
+      "artistId": "dom-dolla",
+      "name": "Dom Dolla",
+      "day": "sun"
+    },
+    {
+      "id": "kygo",
+      "idx": 111,
+      "artistId": "kygo",
+      "name": "Kygo",
+      "day": "sun"
+    },
+    {
+      "id": "empire-of-the-sun",
+      "idx": 112,
+      "artistId": "empire-of-the-sun",
+      "name": "Empire of the Sun",
+      "day": "sun"
+    },
+    {
+      "id": "four-tet",
+      "idx": 113,
+      "artistId": "four-tet",
+      "name": "Four Tet",
+      "day": "sun"
+    },
+    {
+      "id": "the-neighbourhood",
+      "idx": 114,
+      "artistId": "the-neighbourhood",
+      "name": "The Neighbourhood",
+      "day": "sun"
+    },
+    {
+      "id": "becky-g",
+      "idx": 115,
+      "artistId": "becky-g",
+      "name": "Becky G",
+      "day": "sun"
+    },
+    {
+      "id": "babymonster",
+      "idx": 116,
+      "artistId": "babymonster",
+      "name": "BABYMONSTER",
+      "day": "sun"
+    },
+    {
+      "id": "amelie-lens-x-sara-landry",
+      "idx": 117,
+      "artistId": "amelie-lens-x-sara-landry",
+      "name": "Amelie Lens x Sara Landry",
+      "day": "sun"
+    },
+    {
+      "id": "remi-wolf",
+      "idx": 118,
+      "artistId": "remi-wolf",
+      "name": "Remi Wolf",
+      "day": "sun"
+    },
+    {
+      "id": "tove-lo",
+      "idx": 119,
+      "artistId": "tove-lo",
+      "name": "Tove Lo",
+      "day": "sun"
+    },
+    {
+      "id": "victoria-monet",
+      "idx": 120,
+      "artistId": "victoria-monet",
+      "name": "Victoria Monét",
+      "day": "sun"
+    },
+    {
+      "id": "esdeekid",
+      "idx": 121,
+      "artistId": "esdeekid",
+      "name": "EsDeeKid",
+      "day": "sun"
+    },
+    {
+      "id": "caroline-polachek",
+      "idx": 122,
+      "artistId": "caroline-polachek",
+      "name": "Caroline Polachek",
+      "day": "sun"
+    },
+    {
+      "id": "chase-and-status",
+      "idx": 123,
+      "artistId": "chase-and-status",
+      "name": "Chase & Status",
+      "day": "sun"
+    },
+    {
+      "id": "muna",
+      "idx": 124,
+      "artistId": "muna",
+      "name": "MUNA",
+      "day": "sun"
+    },
+    {
+      "id": "boris-brejcha",
+      "idx": 125,
+      "artistId": "boris-brejcha",
+      "name": "Boris Brejcha",
+      "day": "sun"
+    },
+    {
+      "id": "jorja-smith",
+      "idx": 126,
+      "artistId": "jorja-smith",
+      "name": "Jorja Smith",
+      "day": "sun"
+    },
+    {
+      "id": "the-avalanches",
+      "idx": 127,
+      "artistId": "the-avalanches",
+      "name": "The Avalanches",
+      "day": "sun"
+    },
+    {
+      "id": "bolo",
+      "idx": 128,
+      "artistId": "bolo",
+      "name": "BOLO",
+      "day": "sun"
+    },
+    {
+      "id": "pennywise",
+      "idx": 129,
+      "artistId": "pennywise",
+      "name": "Pennywise",
+      "day": "sun"
+    },
+    {
+      "id": "freddie-gibbs",
+      "idx": 130,
+      "artistId": "freddie-gibbs",
+      "name": "Freddie Gibbs",
+      "day": "sun"
+    },
+    {
+      "id": "shygirl",
+      "idx": 131,
+      "artistId": "shygirl",
+      "name": "Shygirl",
+      "day": "sun"
+    },
+    {
+      "id": "julia-wolf",
+      "idx": 132,
+      "artistId": "julia-wolf",
+      "name": "Julia Wolf",
+      "day": "sun"
+    },
+    {
+      "id": "odd-mob",
+      "idx": 133,
+      "artistId": "odd-mob",
+      "name": "Odd Mob",
+      "day": "sun"
+    },
+    {
+      "id": "ayra-starr",
+      "idx": 134,
+      "artistId": "ayra-starr",
+      "name": "Ayra Starr",
+      "day": "sun"
+    },
+    {
+      "id": "lambrini-girls",
+      "idx": 135,
+      "artistId": "lambrini-girls",
+      "name": "Lambrini Girls",
+      "day": "sun"
+    },
+    {
+      "id": "akriila",
+      "idx": 136,
+      "artistId": "akriila",
+      "name": "AKRIILA",
+      "day": "sun"
+    },
+    {
+      "id": "dinner-party",
+      "idx": 137,
+      "artistId": "dinner-party",
+      "name": "Dinner Party",
+      "day": "sun"
+    },
+    {
+      "id": "silva-bumpa",
+      "idx": 138,
+      "artistId": "silva-bumpa",
+      "name": "Silva Bumpa",
+      "day": "sun"
+    },
+    {
+      "id": "dj-habibeats",
+      "idx": 139,
+      "artistId": "dj-habibeats",
+      "name": "DJ Habibeats",
+      "day": "sun"
+    },
+    {
+      "id": "chanel-beads",
+      "idx": 140,
+      "artistId": "chanel-beads",
+      "name": "Chanel Beads",
+      "day": "sun"
+    },
+    {
+      "id": "adam-ten",
+      "idx": 141,
+      "artistId": "adam-ten",
+      "name": "Adam Ten",
+      "day": "sun"
+    },
+    {
+      "id": "after",
+      "idx": 142,
+      "artistId": "after",
+      "name": "After",
+      "day": "sun"
+    },
+    {
+      "id": "zack-fox",
+      "idx": 143,
+      "artistId": "zack-fox",
+      "name": "Zack Fox",
+      "day": "sun"
+    },
+    {
+      "id": "fat-dog",
+      "idx": 144,
+      "artistId": "fat-dog",
+      "name": "Fat Dog",
+      "day": "sun"
+    },
+    {
+      "id": "omar-plus",
+      "idx": 145,
+      "artistId": "omar-plus",
+      "name": "Omar+",
+      "day": "sun"
+    },
+    {
+      "id": "genesis-owusu",
+      "idx": 146,
+      "artistId": "genesis-owusu",
+      "name": "Genesis Owusu",
+      "day": "sun"
+    },
+    {
+      "id": "joshua-slone",
+      "idx": 147,
+      "artistId": "joshua-slone",
+      "name": "Joshua Slone",
+      "day": "sun"
+    },
+    {
+      "id": "the-mainliners",
+      "idx": 148,
+      "artistId": "the-mainliners",
+      "name": "The Mainliners",
+      "day": "sun"
+    },
+    {
+      "id": "marten-lou-x-alex-wann",
+      "idx": 149,
+      "artistId": "marten-lou-x-alex-wann",
+      "name": "Marten Lou x Alex Wann",
+      "day": "sun"
+    },
+    {
+      "id": "chasewest",
+      "idx": 150,
+      "artistId": "chasewest",
+      "name": "ChaseWest",
+      "day": "sun"
+    },
+    {
+      "id": "florence-road",
+      "idx": 151,
+      "artistId": "florence-road",
+      "name": "Florence Road",
+      "day": "sun"
+    },
+    {
+      "id": "jazzy",
+      "idx": 152,
+      "artistId": "jazzy",
+      "name": "Jazzy",
+      "day": "sun"
+    },
+    {
+      "id": "tul8te",
+      "idx": 153,
+      "artistId": "tul8te",
+      "name": "TUL8TE",
+      "day": "sun"
+    },
+    {
+      "id": "jakob-nowell-and-the-castle",
+      "idx": 154,
+      "artistId": "jakob-nowell-and-the-castle",
+      "name": "Jakob Nowell and The Castle",
+      "day": "sun"
+    },
+    {
+      "id": "talon",
+      "idx": 155,
+      "artistId": "talon",
+      "name": "Talón",
+      "day": "sun"
+    },
+    {
+      "id": "klave-efectiva",
+      "idx": 156,
+      "artistId": "klave-efectiva",
+      "name": "Klave Efectiva",
+      "day": "sun"
+    }
   ],
   "artists": {
-    "test-band-the-placeholders": {
-      "genres": ["indie rock", "surf rock"],
-      "vibes": ["golden hour"],
-      "tier": "big",
-      "blurb": "Not a real band. A test entry so the crew can try picks, notes and recommendations before the real lineup drops."
+    "dua-lipa": {
+      "tier": "headliner"
     },
-    "test-band-dj-lorem-ipsum": {
-      "genres": ["house", "indie rock"],
-      "vibes": ["sunset dance"],
-      "tier": "mid",
-      "blurb": "Not a real act either. Shares a genre with The Placeholders so \"If you like this\" has something to show."
+    "madonna": {
+      "tier": "special"
+    },
+    "zara-larsson": {
+      "tier": "big"
+    },
+    "steve-lacy": {
+      "tier": "big"
+    },
+    "jisoo": {
+      "tier": "big"
+    },
+    "diljit-dosanjh": {
+      "tier": "big"
+    },
+    "peggy-gou": {
+      "tier": "big"
+    },
+    "kehlani": {
+      "tier": "big"
+    },
+    "solid-grooves": {
+      "tier": "big"
+    },
+    "giorgio-moroder": {
+      "tier": "mid"
+    },
+    "social-distortion": {
+      "tier": "mid"
+    },
+    "pinegrove": {
+      "tier": "mid"
+    },
+    "angine-de-poitrine": {
+      "tier": "mid"
+    },
+    "leon-thomas": {
+      "tier": "mid"
+    },
+    "drain-gang": {
+      "tier": "mid"
+    },
+    "snow-strippers": {
+      "tier": "mid"
+    },
+    "mike-d-5d": {
+      "tier": "mid"
+    },
+    "chris-stassy": {
+      "tier": "mid"
+    },
+    "milo-j": {
+      "tier": "mid"
+    },
+    "sg-lewis": {
+      "tier": "mid"
+    },
+    "kelela": {
+      "tier": "mid"
+    },
+    "franky-rizardo": {
+      "tier": "mid"
+    },
+    "fetty-wap": {
+      "tier": "mid"
+    },
+    "vintage-culture": {
+      "tier": "mid"
+    },
+    "the-damned": {
+      "tier": "mid"
+    },
+    "atarashii-gakko": {
+      "tier": "small"
+    },
+    "nettspend": {
+      "tier": "small"
+    },
+    "american-football": {
+      "tier": "small"
+    },
+    "xaviersobased": {
+      "tier": "small"
+    },
+    "la-dispute": {
+      "tier": "small"
+    },
+    "haute-and-freddy": {
+      "tier": "small"
+    },
+    "the-hellp": {
+      "tier": "small"
+    },
+    "disco-dom": {
+      "tier": "small"
+    },
+    "mph": {
+      "tier": "small"
+    },
+    "bella-kay": {
+      "tier": "small"
+    },
+    "this-is-lorelei": {
+      "tier": "small"
+    },
+    "the-womack-sisters": {
+      "tier": "small"
+    },
+    "mary-in-the-junkyard": {
+      "tier": "small"
+    },
+    "close-friends-only": {
+      "tier": "small"
+    },
+    "obskur": {
+      "tier": "small"
+    },
+    "jacob-lusk": {
+      "tier": "small"
+    },
+    "leenalchi": {
+      "tier": "small"
+    },
+    "bea-miller": {
+      "tier": "small"
+    },
+    "gang-of-youths": {
+      "tier": "small"
+    },
+    "love-spells": {
+      "tier": "small"
+    },
+    "rafael": {
+      "tier": "small"
+    },
+    "nirosta-steel": {
+      "tier": "small"
+    },
+    "ragie-ban": {
+      "tier": "small"
+    },
+    "eli": {
+      "tier": "small"
+    },
+    "las-petunias": {
+      "tier": "small"
+    },
+    "violet-grohl": {
+      "tier": "small"
+    },
+    "jackie-hollander": {
+      "tier": "small"
+    },
+    "jamback-x-marsolo": {
+      "tier": "small"
+    },
+    "noya": {
+      "tier": "small"
+    },
+    "tame-impala": {
+      "tier": "headliner"
+    },
+    "phoebe-bridgers": {
+      "tier": "big"
+    },
+    "weezer": {
+      "tier": "big"
+    },
+    "tiesto": {
+      "tier": "big"
+    },
+    "martin-garrix": {
+      "tier": "big"
+    },
+    "robyn": {
+      "tier": "big"
+    },
+    "role-model": {
+      "tier": "big"
+    },
+    "adela": {
+      "tier": "big"
+    },
+    "maneskin": {
+      "tier": "big"
+    },
+    "solomun": {
+      "tier": "big"
+    },
+    "nct": {
+      "tier": "big"
+    },
+    "enigma": {
+      "tier": "mid"
+    },
+    "underworld": {
+      "tier": "mid"
+    },
+    "charlotte-de-witte": {
+      "tier": "mid"
+    },
+    "leon-bridges": {
+      "tier": "mid"
+    },
+    "cloonee": {
+      "tier": "mid"
+    },
+    "magdalena-bay": {
+      "tier": "mid"
+    },
+    "barry-can-t-swim": {
+      "tier": "mid"
+    },
+    "boy-harsher": {
+      "tier": "mid"
+    },
+    "ki-ki": {
+      "tier": "mid"
+    },
+    "mariah-the-scientist": {
+      "tier": "mid"
+    },
+    "bad-gyal": {
+      "tier": "mid"
+    },
+    "basement": {
+      "tier": "mid"
+    },
+    "brutalismus-3000": {
+      "tier": "mid"
+    },
+    "beltran": {
+      "tier": "mid"
+    },
+    "underscores": {
+      "tier": "mid"
+    },
+    "sb19": {
+      "tier": "mid"
+    },
+    "twin-tribes": {
+      "tier": "mid"
+    },
+    "odeal": {
+      "tier": "mid"
+    },
+    "bassvictim": {
+      "tier": "small"
+    },
+    "los-pibes-chorros": {
+      "tier": "small"
+    },
+    "tiffany-day": {
+      "tier": "small"
+    },
+    "no-na": {
+      "tier": "small"
+    },
+    "mathame": {
+      "tier": "small"
+    },
+    "ear": {
+      "tier": "small"
+    },
+    "vandelux": {
+      "tier": "small"
+    },
+    "rommulas": {
+      "tier": "small"
+    },
+    "apollonia": {
+      "tier": "small"
+    },
+    "getdown-services": {
+      "tier": "small"
+    },
+    "good-neighbours": {
+      "tier": "small"
+    },
+    "first-day-back": {
+      "tier": "small"
+    },
+    "jimi-jules": {
+      "tier": "small"
+    },
+    "twisted-teens": {
+      "tier": "small"
+    },
+    "murda-beatz": {
+      "tier": "small"
+    },
+    "villanelle": {
+      "tier": "small"
+    },
+    "kolter-x-sidney-charles": {
+      "tier": "small"
+    },
+    "la-texana": {
+      "tier": "small"
+    },
+    "omri": {
+      "tier": "small"
+    },
+    "volkoder": {
+      "tier": "small"
+    },
+    "zimmer90": {
+      "tier": "small"
+    },
+    "lusid": {
+      "tier": "small"
+    },
+    "dream-boat": {
+      "tier": "small"
+    },
+    "sza": {
+      "tier": "headliner"
+    },
+    "don-toliver": {
+      "tier": "big"
+    },
+    "dom-dolla": {
+      "tier": "big"
+    },
+    "kygo": {
+      "tier": "big"
+    },
+    "empire-of-the-sun": {
+      "tier": "big"
+    },
+    "four-tet": {
+      "tier": "big"
+    },
+    "the-neighbourhood": {
+      "tier": "big"
+    },
+    "becky-g": {
+      "tier": "big"
+    },
+    "babymonster": {
+      "tier": "big"
+    },
+    "amelie-lens-x-sara-landry": {
+      "tier": "mid"
+    },
+    "remi-wolf": {
+      "tier": "mid"
+    },
+    "tove-lo": {
+      "tier": "mid"
+    },
+    "victoria-monet": {
+      "tier": "mid"
+    },
+    "esdeekid": {
+      "tier": "mid"
+    },
+    "caroline-polachek": {
+      "tier": "mid"
+    },
+    "chase-and-status": {
+      "tier": "mid"
+    },
+    "muna": {
+      "tier": "mid"
+    },
+    "boris-brejcha": {
+      "tier": "mid"
+    },
+    "jorja-smith": {
+      "tier": "mid"
+    },
+    "the-avalanches": {
+      "tier": "mid"
+    },
+    "bolo": {
+      "tier": "mid"
+    },
+    "pennywise": {
+      "tier": "mid"
+    },
+    "freddie-gibbs": {
+      "tier": "mid"
+    },
+    "shygirl": {
+      "tier": "mid"
+    },
+    "julia-wolf": {
+      "tier": "mid"
+    },
+    "odd-mob": {
+      "tier": "mid"
+    },
+    "ayra-starr": {
+      "tier": "mid"
+    },
+    "lambrini-girls": {
+      "tier": "small"
+    },
+    "akriila": {
+      "tier": "small"
+    },
+    "dinner-party": {
+      "tier": "small"
+    },
+    "silva-bumpa": {
+      "tier": "small"
+    },
+    "dj-habibeats": {
+      "tier": "small"
+    },
+    "chanel-beads": {
+      "tier": "small"
+    },
+    "adam-ten": {
+      "tier": "small"
+    },
+    "after": {
+      "tier": "small"
+    },
+    "zack-fox": {
+      "tier": "small"
+    },
+    "fat-dog": {
+      "tier": "small"
+    },
+    "omar-plus": {
+      "tier": "small"
+    },
+    "genesis-owusu": {
+      "tier": "small"
+    },
+    "joshua-slone": {
+      "tier": "small"
+    },
+    "the-mainliners": {
+      "tier": "small"
+    },
+    "marten-lou-x-alex-wann": {
+      "tier": "small"
+    },
+    "chasewest": {
+      "tier": "small"
+    },
+    "florence-road": {
+      "tier": "small"
+    },
+    "jazzy": {
+      "tier": "small"
+    },
+    "tul8te": {
+      "tier": "small"
+    },
+    "jakob-nowell-and-the-castle": {
+      "tier": "small"
+    },
+    "talon": {
+      "tier": "small"
+    },
+    "klave-efectiva": {
+      "tier": "small"
     }
-  },
-  "credits": "Test lineup — not the real Coachella 2027 lineup."
+  }
 }
