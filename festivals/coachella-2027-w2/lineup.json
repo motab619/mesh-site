@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "coachella-2027-w2",
-  "rev": 3,
+  "rev": 4,
   "festival": {
     "name": "Coachella 2027",
     "tz": "America/Los_Angeles"
@@ -424,11 +424,26 @@
       "day": "fri"
     },
     {
-      "id": "jamback-x-marsolo",
-      "idx": 54,
-      "artistId": "jamback-x-marsolo",
-      "name": "Jamback x Marsolo",
-      "day": "fri"
+      "id": "jamback",
+      "idx": 159,
+      "artistId": "jamback",
+      "name": "Jamback",
+      "day": "fri",
+      "b2b": "Jamback x Marsolo",
+      "with": [
+        "marsolo"
+      ]
+    },
+    {
+      "id": "marsolo",
+      "idx": 160,
+      "artistId": "marsolo",
+      "name": "Marsolo",
+      "day": "fri",
+      "b2b": "Jamback x Marsolo",
+      "with": [
+        "jamback"
+      ]
     },
     {
       "id": "noya",
@@ -753,11 +768,26 @@
       "day": "sat"
     },
     {
-      "id": "kolter-x-sidney-charles",
-      "idx": 101,
-      "artistId": "kolter-x-sidney-charles",
-      "name": "Kolter x Sidney Charles",
-      "day": "sat"
+      "id": "kolter",
+      "idx": 161,
+      "artistId": "kolter",
+      "name": "Kolter",
+      "day": "sat",
+      "b2b": "Kolter x Sidney Charles",
+      "with": [
+        "sidney-charles"
+      ]
+    },
+    {
+      "id": "sidney-charles",
+      "idx": 162,
+      "artistId": "sidney-charles",
+      "name": "Sidney Charles",
+      "day": "sat",
+      "b2b": "Kolter x Sidney Charles",
+      "with": [
+        "kolter"
+      ]
     },
     {
       "id": "la-texana",
@@ -865,11 +895,26 @@
       "day": "sun"
     },
     {
-      "id": "amelie-lens-x-sara-landry",
-      "idx": 117,
-      "artistId": "amelie-lens-x-sara-landry",
-      "name": "Amelie Lens x Sara Landry",
-      "day": "sun"
+      "id": "amelie-lens",
+      "idx": 163,
+      "artistId": "amelie-lens",
+      "name": "Amelie Lens",
+      "day": "sun",
+      "b2b": "Amelie Lens x Sara Landry",
+      "with": [
+        "sara-landry"
+      ]
+    },
+    {
+      "id": "sara-landry",
+      "idx": 164,
+      "artistId": "sara-landry",
+      "name": "Sara Landry",
+      "day": "sun",
+      "b2b": "Amelie Lens x Sara Landry",
+      "with": [
+        "amelie-lens"
+      ]
     },
     {
       "id": "remi-wolf",
@@ -1089,11 +1134,26 @@
       "day": "sun"
     },
     {
-      "id": "marten-lou-x-alex-wann",
-      "idx": 149,
-      "artistId": "marten-lou-x-alex-wann",
-      "name": "Marten Lou x Alex Wann",
-      "day": "sun"
+      "id": "marten-lou",
+      "idx": 165,
+      "artistId": "marten-lou",
+      "name": "Marten Lou",
+      "day": "sun",
+      "b2b": "Marten Lou x Alex Wann",
+      "with": [
+        "alex-wann"
+      ]
+    },
+    {
+      "id": "alex-wann",
+      "idx": 166,
+      "artistId": "alex-wann",
+      "name": "Alex Wann",
+      "day": "sun",
+      "b2b": "Marten Lou x Alex Wann",
+      "with": [
+        "marten-lou"
+      ]
     },
     {
       "id": "chasewest",
@@ -1979,19 +2039,6 @@
       ],
       "blurb": "Bay Area DJ-producer playing driving house that tips into melodic techno; released on John Summit's Experts Only and plays Outside Lands and Vegas dayclubs."
     },
-    "jamback-x-marsolo": {
-      "tier": "small",
-      "genres": [
-        "minimal house",
-        "house",
-        "tech house",
-        "deep house"
-      ],
-      "vibes": [
-        "shuffle until sunrise"
-      ],
-      "blurb": "Two Dutch selectors from the Chris Stussy orbit going back to back. Jamback's Positive set the record for longest-running Beatport #1; Marsolo topped it too with Step By Step. Rolling, warm minimal grooves."
-    },
     "noya": {
       "tier": "small",
       "appleMusic": "https://music.apple.com/us/artist/noya/1735751097",
@@ -2772,18 +2819,6 @@
       ],
       "blurb": "Young UK band led by Gene Gallagher, playing loud, '90s-leaning rock with grunge fuzz and big choruses. Debut EP Measly Means came in 2026, followed by Governor's Ball, Lolla and Reading & Leeds."
     },
-    "kolter-x-sidney-charles": {
-      "tier": "small",
-      "genres": [
-        "house",
-        "tech house",
-        "minimal house"
-      ],
-      "vibes": [
-        "groove-rolling b2b"
-      ],
-      "blurb": "Two German house diggers going back-to-back: Kolter (Cologne, formerly Djoko, runs Koltrax) and Sidney Charles (Hamburg, Heavy House Society). Expect bouncy, swinging underground house."
-    },
     "la-texana": {
       "tier": "small",
       "appleMusic": "https://music.apple.com/us/artist/la-texana/1556783621",
@@ -3027,21 +3062,6 @@
         "hip-hop"
       ],
       "blurb": "YG's seven-member girl group trades on hard-hitting hip-hop production, rap-forward verses and big vocals. 2026 brought the CHOOM mini album, singles 'SUGAR HONEY ICE TEA' and 'DESERVE', and a world tour running into 2027."
-    },
-    "amelie-lens-x-sara-landry": {
-      "tier": "mid",
-      "genres": [
-        "techno",
-        "hard techno"
-      ],
-      "vibes": [
-        "no sunset, only strobe"
-      ],
-      "subs": [
-        "industrial techno",
-        "peak-time techno"
-      ],
-      "blurb": "Belgian techno star Amelie Lens, whose debut album Aura arrived in 2026, goes back-to-back with Sara Landry, the self-styled high priestess of hard techno. Expect relentless, fast, industrial-edged techno."
     },
     "remi-wolf": {
       "tier": "mid",
@@ -3553,17 +3573,6 @@
     "the-mainliners": {
       "tier": "small"
     },
-    "marten-lou-x-alex-wann": {
-      "tier": "small",
-      "genres": [
-        "house",
-        "tech house"
-      ],
-      "vibes": [
-        "b2b bounce"
-      ],
-      "blurb": "A one-off back-to-back pairing of two house producers from the club circuit. Expect a groove-first set of bouncy house and tech house built for a Sunday dance tent."
-    },
     "chasewest": {
       "tier": "small",
       "genres": [
@@ -3648,6 +3657,156 @@
         "hometown heroes"
       ],
       "blurb": "Hometown norteño group from the city of Coachella itself, flying the flag for the valley's regional Mexican scene. Think accordion, bajo sexto and dance-floor two-steps."
+    },
+    "jamback": {
+      "tier": "small",
+      "genres": [
+        "minimal house",
+        "house",
+        "tech house",
+        "deep house"
+      ],
+      "vibes": [
+        "shuffle until sunrise"
+      ],
+      "blurb": "Two Dutch selectors from the Chris Stussy orbit going back to back. Jamback's Positive set the record for longest-running Beatport #1; Marsolo topped it too with Step By Step. Rolling, warm minimal grooves. (Billed back to back with Marsolo.)",
+      "b2b": {
+        "billing": "Jamback x Marsolo",
+        "with": [
+          "marsolo"
+        ]
+      }
+    },
+    "marsolo": {
+      "tier": "small",
+      "genres": [
+        "minimal house",
+        "house",
+        "tech house",
+        "deep house"
+      ],
+      "vibes": [
+        "shuffle until sunrise"
+      ],
+      "blurb": "Two Dutch selectors from the Chris Stussy orbit going back to back. Jamback's Positive set the record for longest-running Beatport #1; Marsolo topped it too with Step By Step. Rolling, warm minimal grooves. (Billed back to back with Jamback.)",
+      "b2b": {
+        "billing": "Jamback x Marsolo",
+        "with": [
+          "jamback"
+        ]
+      }
+    },
+    "kolter": {
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house",
+        "minimal house"
+      ],
+      "vibes": [
+        "groove-rolling b2b"
+      ],
+      "blurb": "Two German house diggers going back-to-back: Kolter (Cologne, formerly Djoko, runs Koltrax) and Sidney Charles (Hamburg, Heavy House Society). Expect bouncy, swinging underground house. (Billed back to back with Sidney Charles.)",
+      "b2b": {
+        "billing": "Kolter x Sidney Charles",
+        "with": [
+          "sidney-charles"
+        ]
+      }
+    },
+    "sidney-charles": {
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house",
+        "minimal house"
+      ],
+      "vibes": [
+        "groove-rolling b2b"
+      ],
+      "blurb": "Two German house diggers going back-to-back: Kolter (Cologne, formerly Djoko, runs Koltrax) and Sidney Charles (Hamburg, Heavy House Society). Expect bouncy, swinging underground house. (Billed back to back with Kolter.)",
+      "b2b": {
+        "billing": "Kolter x Sidney Charles",
+        "with": [
+          "kolter"
+        ]
+      }
+    },
+    "amelie-lens": {
+      "tier": "mid",
+      "genres": [
+        "techno",
+        "hard techno"
+      ],
+      "vibes": [
+        "no sunset, only strobe"
+      ],
+      "subs": [
+        "industrial techno",
+        "peak-time techno"
+      ],
+      "blurb": "Belgian techno star Amelie Lens, whose debut album Aura arrived in 2026, goes back-to-back with Sara Landry, the self-styled high priestess of hard techno. Expect relentless, fast, industrial-edged techno. (Billed back to back with Sara Landry.)",
+      "b2b": {
+        "billing": "Amelie Lens x Sara Landry",
+        "with": [
+          "sara-landry"
+        ]
+      }
+    },
+    "sara-landry": {
+      "tier": "mid",
+      "genres": [
+        "techno",
+        "hard techno"
+      ],
+      "vibes": [
+        "no sunset, only strobe"
+      ],
+      "subs": [
+        "industrial techno",
+        "peak-time techno"
+      ],
+      "blurb": "Belgian techno star Amelie Lens, whose debut album Aura arrived in 2026, goes back-to-back with Sara Landry, the self-styled high priestess of hard techno. Expect relentless, fast, industrial-edged techno. (Billed back to back with Amelie Lens.)",
+      "b2b": {
+        "billing": "Amelie Lens x Sara Landry",
+        "with": [
+          "amelie-lens"
+        ]
+      }
+    },
+    "marten-lou": {
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "vibes": [
+        "b2b bounce"
+      ],
+      "blurb": "A one-off back-to-back pairing of two house producers from the club circuit. Expect a groove-first set of bouncy house and tech house built for a Sunday dance tent. (Billed back to back with Alex Wann.)",
+      "b2b": {
+        "billing": "Marten Lou x Alex Wann",
+        "with": [
+          "alex-wann"
+        ]
+      }
+    },
+    "alex-wann": {
+      "tier": "small",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "vibes": [
+        "b2b bounce"
+      ],
+      "blurb": "A one-off back-to-back pairing of two house producers from the club circuit. Expect a groove-first set of bouncy house and tech house built for a Sunday dance tent. (Billed back to back with Marten Lou.)",
+      "b2b": {
+        "billing": "Marten Lou x Alex Wann",
+        "with": [
+          "marten-lou"
+        ]
+      }
     }
   },
   "credits": "Research: the crew's notes, written for this site. Corrections welcome."

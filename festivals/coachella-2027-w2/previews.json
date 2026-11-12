@@ -4554,19 +4554,6 @@
     }
    ]
   },
-  "marten-lou-x-alex-wann": {
-   "track": "Your Body",
-   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/20/ab/5720abf2-98c4-7235-add9-edb0d33bf442/mzaf_1018303317155479902.plus.aac.p.m4a",
-   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/ab/73/67ab739c-da95-78d7-4edc-4cc31a679b89/5021732639141.jpg/100x100bb.jpg",
-   "songs": [
-    {
-     "title": "Your Body",
-     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/20/ab/5720abf2-98c4-7235-add9-edb0d33bf442/mzaf_1018303317155479902.plus.aac.p.m4a",
-     "url": "https://music.apple.com/us/album/your-body/1795957708?i=1795957720",
-     "id": 1795957720
-    }
-   ]
-  },
   "florence-road": {
    "track": "Hanging Out To Dry",
    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/a0/4d/44a04d50-7613-05af-e182-27f8ccff3191/mzaf_17961685188045684466.plus.aac.p.m4a",
@@ -5280,6 +5267,296 @@
      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/cc/f0/45ccf02e-68b7-e864-bb20-169d25cb243f/mzaf_12866070322124772539.plus.aac.p.m4a",
      "url": "https://music.apple.com/us/album/no-bad-vibes/1771854750?i=1771854751",
      "id": 1771854751
+    }
+   ]
+  },
+  "jamback": {
+   "track": "Can't Resist",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/91/28/a291281c-55d7-cf19-fe21-097d34050183/mzaf_12086046785396158534.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/99/23/e89923cf-ea96-1401-d72f-c4b4b6ec1948/5034644948911.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Can't Resist",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/91/28/a291281c-55d7-cf19-fe21-097d34050183/mzaf_12086046785396158534.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/cant-resist/1835526461?i=1835526465",
+     "id": 1835526465
+    },
+    {
+     "title": "Roaring 20's",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/34/c7/3a34c73b-0bc0-b880-15ab-47e1fcf4ed28/mzaf_878030389141928014.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/roaring-20s/1711675733?i=1711675734",
+     "id": 1711675734
+    },
+    {
+     "title": "For the Ladies",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/17/72/e817726d-185c-72ca-b72f-398326931cad/mzaf_1663942281947472299.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/for-the-ladies/6770631374?i=6770631619",
+     "id": 6770631619
+    },
+    {
+     "title": "Attention",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/9e/92/cf9e9226-3e00-a030-5aeb-83804c9861c3/mzaf_15724148730889286901.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/attention/1835526461?i=1835526466",
+     "id": 1835526466
+    },
+    {
+     "title": "Motion",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/6a/d9/116ad9f8-95ef-62d9-c180-22055fbc3d9d/mzaf_6974697803765744193.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/motion/1711675733?i=1711675735",
+     "id": 1711675735
+    }
+   ]
+  },
+  "marsolo": {
+   "track": "Step By Step",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/63/ae/1863ae9f-7b0a-9e53-ccf4-7eb2d8d48a50/mzaf_2070450838211710713.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/56/33/e75633f5-45c8-52c5-722c-6bd129ead32c/5034644353012.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Step By Step",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/63/ae/1863ae9f-7b0a-9e53-ccf4-7eb2d8d48a50/mzaf_2070450838211710713.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/step-by-step/1786211693?i=1786211694",
+     "id": 1786211694
+    },
+    {
+     "title": "Run (feat. O.MMY)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/9b/f9/ac9bf9d5-a150-6409-19f2-6e6f5d25d5ae/mzaf_5404505519735356876.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/run-feat-o-mmy/6772290751?i=6772290935",
+     "id": 6772290935
+    },
+    {
+     "title": "Spaceship",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/0e/0b/810e0b32-9bbe-332d-6d87-4658f00e7f37/mzaf_6158170517293551108.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/spaceship/1842920401?i=1842920402",
+     "id": 1842920402
+    },
+    {
+     "title": "Sense of Style",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/a7/be/eea7be20-05be-b013-5b69-6c1f480d30ea/mzaf_5146577792898535639.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/sense-of-style/1763088051?i=1763088054",
+     "id": 1763088054
+    },
+    {
+     "title": "Ecstasy",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/91/8b/ef918bc8-ae54-ae03-c1c6-2dfbbfea8d7e/mzaf_13898948083338734855.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/ecstasy/1828547838?i=1828547839",
+     "id": 1828547839
+    }
+   ]
+  },
+  "kolter": {
+   "track": "Trapped (Radio-Edit)",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/f8/e8/3bf8e8ac-3314-38e7-f3bd-18eed86ddf4f/mzaf_11763009418186924688.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/08/66/88086654-f523-c619-8020-796768182cbf/4065328866116.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Trapped (Radio-Edit)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/f8/e8/3bf8e8ac-3314-38e7-f3bd-18eed86ddf4f/mzaf_11763009418186924688.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/trapped-radio-edit/6775662420?i=6775662423",
+     "id": 6775662423
+    },
+    {
+     "title": "Hey Everybody",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/8e/95/d68e95c4-0135-d09f-65ec-84ff02f6d23c/mzaf_1190215784265976371.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/hey-everybody/6784787844?i=6784787846",
+     "id": 6784787846
+    },
+    {
+     "title": "Washed Away",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/32/56/1432566c-5a67-f8f2-92f2-005db346f9b5/mzaf_6729425060582474627.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/washed-away/1711644723?i=1711644724",
+     "id": 1711644724
+    },
+    {
+     "title": "One Last",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/8c/9a/f08c9a73-37e4-a5df-1a01-b47b3abf331f/mzaf_9053839028148126419.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/one-last/1480478578?i=1480478586",
+     "id": 1480478586
+    },
+    {
+     "title": "Always Talkin Sh!T",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/d3/76/74d376cf-d9f7-c9ba-a2ce-bd5f12b7e7fc/mzaf_14196697733217108952.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/always-talkin-sh-t/1743997679?i=1743997684",
+     "id": 1743997684
+    }
+   ]
+  },
+  "sidney-charles": {
+   "track": "Hyper Rave",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/f5/51/dbf5515c-6cae-68d1-a6db-57574af338ac/mzaf_15609246138668720303.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/70/77/23707716-7d8c-d476-4617-ccddd195f8db/cover.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Hyper Rave",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/f5/51/dbf5515c-6cae-68d1-a6db-57574af338ac/mzaf_15609246138668720303.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/hyper-rave/1848338892?i=1848338894",
+     "id": 1848338894
+    },
+    {
+     "title": "Take It Back (To the Old School)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/9c/8d/c69c8dc4-cfbf-fc70-0cd6-c5810b915770/mzaf_11015548668424569664.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/take-it-back-to-the-old-school/1848338892?i=1848338893",
+     "id": 1848338893
+    },
+    {
+     "title": "Soultrade",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/98/f4/5098f458-c939-3510-d0c4-2be6a3e4c565/mzaf_10936073820040535275.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/soultrade/1222059507?i=1222060699",
+     "id": 1222060699
+    },
+    {
+     "title": "Swing Theory",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/a0/4f/c5a04f1d-dd11-28a3-062f-d77f95767d5e/mzaf_17145519745013628662.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/swing-theory/1517076423?i=1517076636",
+     "id": 1517076636
+    },
+    {
+     "title": "Don't Go (Doctor Dru Remix)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/9e/04/1e9e0445-a7ae-ac95-7a59-c8a956d5ed3e/mzaf_2670018108527593152.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/dont-go-doctor-dru-remix/1160735854?i=1160736219",
+     "id": 1160736219
+    }
+   ]
+  },
+  "amelie-lens": {
+   "track": "Young Forever",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/ca/21/85ca2189-7445-e4cd-63f9-431423f8ce64/mzaf_7813746451694155288.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/32/b7/1d32b7b8-192e-e956-ace0-1b0344a23d77/196873670423.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Young Forever",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/ca/21/85ca2189-7445-e4cd-63f9-431423f8ce64/mzaf_7813746451694155288.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/young-forever/1843647028?i=1843647029",
+     "id": 1843647029
+    },
+    {
+     "title": "Hypnotized",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/55/5d/c5555d9e-f947-1c43-2ce5-e3de5631de25/mzaf_867928603655446903.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/hypnotized/1795515031?i=1795515032",
+     "id": 1795515032
+    },
+    {
+     "title": "the only one",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/59/4a/13594a68-13f8-c3cc-c4c1-88da43903b78/mzaf_1423229063352873248.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/the-only-one/6770713169?i=6770713204",
+     "id": 6770713204
+    },
+    {
+     "title": "drift away",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/d1/87/09d187d8-a788-2c6a-6f6a-3dc209eb1c75/mzaf_4170032231373313800.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/drift-away/6770713169?i=6770714011",
+     "id": 6770714011
+    },
+    {
+     "title": "Drift",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/13/cb/ff13cb58-1870-d216-6bab-23a086c4453b/mzaf_9525201893621825703.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/drift/1795556817?i=1795556819",
+     "id": 1795556819
+    }
+   ]
+  },
+  "sara-landry": {
+   "track": "Girlboss",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/b7/99/d0b799f8-5ce1-5614-2e7b-0f6fca0e2b57/mzaf_11171408442573099888.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/3f/bc/373fbccc-a4fc-c558-2f2b-a7464f20f951/8721416145445.png/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Girlboss",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/b7/99/d0b799f8-5ce1-5614-2e7b-0f6fca0e2b57/mzaf_11171408442573099888.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/girlboss/1837264987?i=1837264988",
+     "id": 1837264988
+    },
+    {
+     "title": "Interesting",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/c4/b8/cfc4b81e-53af-e7a8-fa05-5d10d4c412dd/mzaf_3898905820868652464.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/interesting/6802771607?i=6802771609",
+     "id": 6802771609
+    },
+    {
+     "title": "Shake That",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/23/0a/bd230a12-200d-691c-39a9-25ab2a13e1fd/mzaf_11309115473392835544.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/shake-that/6785838986?i=6785838987",
+     "id": 6785838987
+    },
+    {
+     "title": "No Sleep",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/ce/3c/eace3c24-fef6-df0c-a7a5-352ae8caa016/mzaf_10819957189162846875.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/no-sleep/1638165781?i=1638165790",
+     "id": 1638165790
+    },
+    {
+     "title": "Legacy",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/50/8a/cb/508acbd7-eea5-26d0-d12c-eb1cfb79ae68/mzaf_8460345155291206070.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/legacy/1710523446?i=1710523454",
+     "id": 1710523454
+    }
+   ]
+  },
+  "marten-lou": {
+   "track": "Your Body",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/20/ab/5720abf2-98c4-7235-add9-edb0d33bf442/mzaf_1018303317155479902.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/ab/73/67ab739c-da95-78d7-4edc-4cc31a679b89/5021732639141.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Your Body",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/20/ab/5720abf2-98c4-7235-add9-edb0d33bf442/mzaf_1018303317155479902.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/your-body/1795957708?i=1795957720",
+     "id": 1795957720
+    },
+    {
+     "title": "My Love for You (Yebba's Heartbreak)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/86/d8/3886d87c-b5b0-230b-6d3c-524256daf31c/mzaf_7373283795418607310.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/my-love-for-you-yebbas-heartbreak/1709655117?i=1709655120",
+     "id": 1709655120
+    },
+    {
+     "title": "All I Ever Wanted (feat. ORI)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/96/14/519614f3-ab9f-9614-5181-d0a80416cfb5/mzaf_104078354450671370.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/all-i-ever-wanted-feat-ori/1846333979?i=1846333985",
+     "id": 1846333985
+    },
+    {
+     "title": "Chemical (feat. Ross Quinn)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/00/48/a500483a-7ab8-92b4-1325-26191e29925b/mzaf_290471918000729976.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/chemical-feat-ross-quinn/6805542560?i=6805542563",
+     "id": 6805542563
+    }
+   ]
+  },
+  "alex-wann": {
+   "track": "Lost Keys",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/16/4f/15164fbf-6f01-00fe-3b25-b92260617d36/mzaf_10131018118680959285.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/cf/f4/aecff470-f4d3-71fe-c704-ed13fb1f27d4/1200214918866.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Lost Keys",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/16/4f/15164fbf-6f01-00fe-3b25-b92260617d36/mzaf_10131018118680959285.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/lost-keys/6804837062?i=6804837069",
+     "id": 6804837069
+    },
+    {
+     "title": "Right",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/88/80/158880c9-ae79-0a38-580e-49b5c3176c49/mzaf_1984467287200082817.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/right/1821143644?i=1821143649",
+     "id": 1821143649
+    },
+    {
+     "title": "Chase",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/8d/de/328ddec0-7f52-374c-9a26-d93179d6bc15/mzaf_4490127898846815366.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/chase/1787190958?i=1787190960",
+     "id": 1787190960
+    },
+    {
+     "title": "Peperuke (feat. Nes Mburu)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/a7/e5/82a7e52a-186b-33a2-d9dc-2d5834e16f0d/mzaf_2770845698246803817.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/peperuke-feat-nes-mburu/1784005926?i=1784005927",
+     "id": 1784005927
+    },
+    {
+     "title": "Rayarah",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/10/9c/80109c91-8e27-ca20-36c7-8d15be56bb4f/mzaf_3654197836101299212.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/rayarah/1699419542?i=1699419553",
+     "id": 1699419553
     }
    ]
   }
