@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "coachella-2027-w1",
-  "rev": 6,
+  "rev": 7,
   "festival": {
     "name": "Coachella 2027",
     "tz": "America/Los_Angeles"
@@ -1358,7 +1358,8 @@
       "vibes": [
         "phones in pockets"
       ],
-      "blurb": "The London tech house label and party that rules Thursdays at DC10 in Ibiza, founded by Michael Bibi and PAWSA. Expect a rotating crew going back to back on rolling, groovy, bass-heavy tech house — the 2026 Ibiza nights even banned phones."
+      "blurb": "The London tech house label and party that rules Thursdays at DC10 in Ibiza, founded by Michael Bibi and PAWSA. Expect a rotating crew going back to back on rolling, groovy, bass-heavy tech house — the 2026 Ibiza nights even banned phones.",
+      "appleMusic": "https://music.apple.com/us/artist/michael-bibi/685311477"
     },
     "giorgio-moroder": {
       "tier": "mid",
@@ -1981,7 +1982,13 @@
       "blurb": "House and indie-dance DJ known for emotive, melodic builds; 2025 brought remixes for RÜFÜS DU SOL and Jamie Jones and a first Coachella set."
     },
     "nirosta-steel": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/nirosta-steel/768185855",
+      "genres": [
+        "art pop",
+        "indie pop"
+      ],
+      "blurb": "Steven Hall's queer art-pop project, a rare festival appearance and one of the bill's most talked-about small-type names."
     },
     "ragie-ban": {
       "tier": "small",
@@ -3576,13 +3583,20 @@
       "blurb": "Kentucky singer-songwriter who broke through online in 2025 with plainspoken country-folk. Work with Zach Bryan raised his profile and his debut album Thinking Too Much nearly topped iTunes. Acoustic heartache, sung straight."
     },
     "the-mainliners": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/the-mainliners/1618881604",
+      "genres": [
+        "punk"
+      ],
+      "blurb": "Hollywood punk band, part of the SoCal punk contingent on Sunday's bill."
     },
     "chasewest": {
       "tier": "small",
       "genres": [
         "house"
-      ]
+      ],
+      "appleMusic": "https://music.apple.com/us/artist/chasewest/1484508122",
+      "blurb": "Los Angeles tech house DJ and producer with a minimal-tech edge; runs his own Chaste Records label."
     },
     "florence-road": {
       "tier": "small",
@@ -3646,7 +3660,8 @@
         "reggae rock",
         "pop rock"
       ],
-      "blurb": "Jakob Nowell, son of Sublime's late Bradley Nowell and now Sublime's own frontman, leads his side project here. Expect Long Beach-bred alt rock with ska and reggae in its bones, sung by a voice that sounds eerily familiar."
+      "blurb": "Jakob Nowell, son of Sublime's late Bradley Nowell and now Sublime's own frontman, leads his side project here. Expect Long Beach-bred alt rock with ska and reggae in its bones, sung by a voice that sounds eerily familiar.",
+      "appleMusic": "https://music.apple.com/us/artist/jakobs-castle/1676201041"
     },
     "talon": {
       "tier": "small",

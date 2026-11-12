@@ -5664,6 +5664,80 @@
      "id": 1717513399
     }
    ]
+  },
+  "solid-grooves": {
+   "track": "Different Side (feat. Audio Bullys)",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/83/05/788305dc-13dd-d065-e414-e3ecc621859f/mzaf_12981899925940365638.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/68/80/6368804f-421b-b280-2f0d-05efc37f0b5d/cover.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Different Side (feat. Audio Bullys)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/83/05/788305dc-13dd-d065-e414-e3ecc621859f/mzaf_12981899925940365638.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/different-side-feat-audio-bullys/1673189255?i=1673189256",
+     "id": 1673189256
+    },
+    {
+     "title": "Got the Fire",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/e9/55/e2e95584-bf12-1b41-a046-24de68b2a0e4/mzaf_18009775584188114824.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/got-the-fire/1332803643?i=1332804166",
+     "id": 1332804166
+    },
+    {
+     "title": "La Murga (Michael's Midnight Mix)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/08/6f/c6/086fc66d-7b9b-d7c9-efaa-df88b5afa9d1/mzaf_14370249034273723733.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/la-murga-michaels-midnight-mix/1625736615?i=1625736621",
+     "id": 1625736621
+    },
+    {
+     "title": "Otto's Chant",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/de/ca/60deca53-e32b-0151-1946-4e3b4b502e81/mzaf_4744773584805986060.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/ottos-chant/1462380036?i=1462380037",
+     "id": 1462380037
+    },
+    {
+     "title": "Lemonade",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/20/38/83/20388305-823e-fb24-9e2e-91727d1f2a01/mzaf_12403172498848108718.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/lemonade/1522090288?i=1522090289",
+     "id": 1522090289
+    }
+   ]
+  },
+  "jakob-nowell-and-the-castle": {
+   "track": "Time Traveler",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0d/1e/12/0d1e123f-56cd-5e12-7a7e-d432eb0041ea/mzaf_8120770617645764478.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/25/be/d425be1f-d8e4-d8d9-a47e-dfaf443dc625/0045778802401.png/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Time Traveler",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0d/1e/12/0d1e123f-56cd-5e12-7a7e-d432eb0041ea/mzaf_8120770617645764478.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/time-traveler/1687672727?i=1687672728",
+     "id": 1687672728
+    },
+    {
+     "title": "Catch Me",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/6e/ac/8d6eacd5-a5e3-f4b9-0022-01d76818ec94/mzaf_12639732202132961222.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/catch-me/1724029743?i=1724029752",
+     "id": 1724029752
+    },
+    {
+     "title": "Garden Grove",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/fa/b3/8efab300-0222-5482-84ca-c9ede0997a2b/mzaf_1766583612262322100.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/garden-grove/1801800576?i=1801800581",
+     "id": 1801800581
+    },
+    {
+     "title": "Close Enough",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/bf/10/30bf1076-7871-b745-08d8-0863976f2c8d/mzaf_17350909991215421906.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/close-enough/1724029743?i=1724029750",
+     "id": 1724029750
+    },
+    {
+     "title": "Supervillain",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/f4/58/33f4585e-1a21-e40a-ee05-5943d5eefb6a/mzaf_11805478619866963752.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/supervillain/1724029743?i=1724029745",
+     "id": 1724029745
+    }
+   ]
   }
  }
 }
