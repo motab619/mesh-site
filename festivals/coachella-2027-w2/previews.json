@@ -5559,6 +5559,111 @@
      "id": 1699419553
     }
    ]
+  },
+  "eli": {
+   "track": "Glitter",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/fd/f4/f3fdf43a-a5e3-0bb8-9cfe-975df88007dd/mzaf_2476061407006047142.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/8a/d1/9d8ad1e2-614d-5a31-695c-4bd794deca73/196873833361.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "Glitter",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/fd/f4/f3fdf43a-a5e3-0bb8-9cfe-975df88007dd/mzaf_2476061407006047142.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/glitter/1856396987?i=1856397127",
+     "id": 1856397127
+    },
+    {
+     "title": "Marianne",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/8e/15/178e1518-1a75-ce6c-c55a-aee8d76927b1/mzaf_7550885832108108463.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/marianne/1815587304?i=1815587456",
+     "id": 1815587456
+    },
+    {
+     "title": "Crush (Girls Trip)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/69/59/cc695907-6db3-f0c2-d622-7e04756f71db/mzaf_10084479459559877333.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/crush-girls-trip/1894058251?i=1894058278",
+     "id": 1894058278
+    },
+    {
+     "title": "Girl of Your Dreams",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/f9/98/9af99865-1a78-97f1-5f49-2bff601fb8d7/mzaf_4063164518917237043.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/girl-of-your-dreams/1819822914?i=1819822918",
+     "id": 1819822918
+    },
+    {
+     "title": "F**k the DJ",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/d0/67/d8d067f9-957e-f251-1312-c17ad21b6b83/mzaf_6902387169993754835.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/f-k-the-dj/6769903867?i=6769903870",
+     "id": 6769903870
+    }
+   ]
+  },
+  "mike-d-5d": {
+   "track": "True Colors",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/8a/ab/668aab68-2e8a-767f-5ad8-07bebb398b33/mzaf_11691482614140093381.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/70/8f/1d708ffa-e37a-f61f-9a5e-36a304ea909b/20UMGIM78668.rgb.jpg/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "True Colors",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/8a/ab/668aab68-2e8a-767f-5ad8-07bebb398b33/mzaf_11691482614140093381.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/true-colors/6776032889?i=6776032892",
+     "id": 6776032892
+    },
+    {
+     "title": "Switch Up",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/a3/29/9ca329a6-225e-1477-cb57-5eea45bc22ca/mzaf_13289276205004192447.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/switch-up/6776032889?i=6776032890",
+     "id": 6776032890
+    },
+    {
+     "title": "What We Got",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/33/d1/c433d131-1125-e41d-fcd6-599f5288c11d/mzaf_7371911120995201317.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/what-we-got/6776032889?i=6776032891",
+     "id": 6776032891
+    },
+    {
+     "title": "Crypto",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/fe/91/6ffe9161-c09e-0a44-adc3-bbb4cc2788af/mzaf_6107683855773782327.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/crypto/6776032889?i=6776032933",
+     "id": 6776032933
+    }
+   ]
+  },
+  "talon": {
+   "track": "No Phone Party",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/25/8f/42258f71-b9fb-6876-28e2-950d2f59d53a/mzaf_14049946617667669780.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/50/dc/3350dcb0-731e-c709-2bed-d46ef16e89a6/8721554208460.png/100x100bb.jpg",
+   "songs": [
+    {
+     "title": "No Phone Party",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/25/8f/42258f71-b9fb-6876-28e2-950d2f59d53a/mzaf_14049946617667669780.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/no-phone-party/6802411376?i=6802411377",
+     "id": 6802411377
+    },
+    {
+     "title": "Funk it",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/46/b6/5b46b66e-0f53-ceb3-dce0-dfdabbdc44a2/mzaf_4590284495144301723.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/funk-it/1818448044?i=1818448048",
+     "id": 1818448048
+    },
+    {
+     "title": "Oxossi (feat. Maitê Inaê)",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/66/27/f76627e8-d009-1ec0-d2e3-34efbd09c6b8/mzaf_2477066323951000318.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/oxossi-feat-mait%C3%AA-ina%C3%AA/1774265612?i=1774265628",
+     "id": 1774265628
+    },
+    {
+     "title": "Imagine",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/3f/3f/9d3f3f93-170e-c21c-28b1-9ae7b71cfbce/mzaf_1532805636448418283.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/imagine/6810630599?i=6810630600",
+     "id": 6810630600
+    },
+    {
+     "title": "Todo A Ti",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/64/4d/17/644d1758-322d-5b26-f9a3-32064bfcab4c/mzaf_9557321396348544286.plus.aac.p.m4a",
+     "url": "https://music.apple.com/us/album/todo-a-ti/1717512885?i=1717513399",
+     "id": 1717513399
+    }
+   ]
   }
  }
 }

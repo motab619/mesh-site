@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "coachella-2027-w1",
-  "rev": 3,
+  "rev": 6,
   "festival": {
     "name": "Coachella 2027",
     "tz": "America/Los_Angeles"
@@ -1499,7 +1499,8 @@
         "rap rock",
         "electronic"
       ],
-      "blurb": "Beastie Boys co-founder Mike D's new band with his sons. Debut album Thank You (August 2026) is glitchy, distorted rap over stuttering breaks, the first full-length from a Beastie since 2011. Live sets splice new songs with Beastie Boys hits."
+      "blurb": "Beastie Boys co-founder Mike D's new band with his sons. Debut album Thank You (August 2026) is glitchy, distorted rap over stuttering breaks, the first full-length from a Beastie since 2011. Live sets splice new songs with Beastie Boys hits.",
+      "appleMusic": "https://music.apple.com/us/artist/mike-d/1646443127"
     },
     "chris-stassy": {
       "tier": "mid",
@@ -1995,7 +1996,11 @@
       "blurb": "Young Brazilian DJ-producer (Iago Cardoso) making bouncy tech house with jazz and soul samples in the mix; Chris Lake has backed and collaborated with him."
     },
     "eli": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/eli/1802895652",
+      "genres": [
+        "pop"
+      ]
     },
     "las-petunias": {
       "tier": "small",
@@ -3644,7 +3649,12 @@
       "blurb": "Jakob Nowell, son of Sublime's late Bradley Nowell and now Sublime's own frontman, leads his side project here. Expect Long Beach-bred alt rock with ska and reggae in its bones, sung by a voice that sounds eerily familiar."
     },
     "talon": {
-      "tier": "small"
+      "tier": "small",
+      "appleMusic": "https://music.apple.com/us/artist/tal%C3%B3n/1667963838",
+      "genres": [
+        "house",
+        "afro house"
+      ]
     },
     "klave-efectiva": {
       "tier": "small",
