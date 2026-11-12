@@ -10,7 +10,28 @@
       "lineup": "coachella-2027-w2/lineup.json",
       "venue": "coachella-2027-w2/venue.json",
       "overlays": null,
-      "food": "coachella-2027-w2/food.json"
+      "food": "coachella-2027-w2/food.json",
+      "genres": "coachella-2027-w2/genres.json",
+      "previews": "coachella-2027-w2/previews.json",
+      "web": {
+        "tz": "America/Los_Angeles",
+        "dayZero": "2027-04-15",
+        "grounds": { "lat": 33.6803, "lng": -116.2378 },
+        "walks": {
+          "coachella:outdoor": "2-3", "coachella:gobi": "5-7", "coachella:mojave": "5-7",
+          "coachella:sonora": "6-8", "coachella:yuma": "7-9", "coachella:sahara": "12-15",
+          "coachella:quasar": "13-16",
+          "outdoor:gobi": "4-6", "outdoor:mojave": "4-6", "outdoor:sonora": "5-7",
+          "outdoor:yuma": "6-8", "outdoor:sahara": "11-14", "outdoor:quasar": "12-15",
+          "gobi:mojave": "1-2", "gobi:sonora": "2-3", "gobi:yuma": "3-4",
+          "gobi:sahara": "8-11", "gobi:quasar": "9-12",
+          "mojave:sonora": "2-3", "mojave:yuma": "3-4", "mojave:sahara": "8-11",
+          "mojave:quasar": "9-12",
+          "sonora:yuma": "2-3", "sonora:sahara": "8-10", "sonora:quasar": "9-11",
+          "yuma:sahara": "7-10", "yuma:quasar": "8-11",
+          "sahara:quasar": "2-3"
+        }
+      }
     }
   ]
 }
