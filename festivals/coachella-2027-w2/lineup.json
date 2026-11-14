@@ -1,7 +1,7 @@
 {
   "version": 1,
   "id": "coachella-2027-w2",
-  "rev": 8,
+  "rev": 9,
   "festival": {
     "name": "Coachella 2027",
     "tz": "America/Los_Angeles"
@@ -1392,7 +1392,7 @@
         "roots rock",
         "rock"
       ],
-      "blurb": "Mike Ness's Orange County punk lifers, mixing punk with country and blues swagger. Born to Kill (May 2026, Epitaph) is their first album in 15 years and comes after Ness's recovery from cancer. Greased hair, big riffs, sing-along heartbreak."
+      "blurb": "Mike Ness's Orange County punk lifers, mixing punk with country and blues swagger. Born to Kill (May 2026, Epitaph) is their first album in 15 years. Greased hair, big riffs, sing-along heartbreak."
     },
     "pinegrove": {
       "tier": "mid",
@@ -1605,7 +1605,7 @@
       "subs": [
         "hip hop"
       ],
-      "blurb": "Paterson rapper whose sing-rap hooks defined 2015 with \"Trap Queen\". Released early from federal prison in early 2026, he returned with the album Zavier on 300 Entertainment that March and a summer Nostalgia Tour."
+      "blurb": "Paterson rapper whose sing-rap hooks defined 2015 with \"Trap Queen\". 2026 brought the album Zavier on 300 Entertainment and a summer Nostalgia Tour."
     },
     "vintage-culture": {
       "tier": "mid",
@@ -1771,8 +1771,7 @@
       ],
       "subs": [
         "funk"
-      ],
-      "blurb": "Disco-funk side project of French house DJ Dombresky, launched with a beach set at EDC Las Vegas 2021. Sets lean on '70s-style refunk edits; a 2025 Inferno show at the LA Palladium grew it into a headline act."
+      ]
     },
     "mph": {
       "tier": "small",
@@ -1803,7 +1802,7 @@
         "pop rock",
         "bedroom pop"
       ],
-      "blurb": "Florida-based singer-songwriter behind 2026's guitar-pop breakout \"iloveitiloveitiloveit\", a No. 2 UK hit about a relationship she knows is bad for her. It led the EP A Couple Minutes Out, after her 2025 debut EP Sick to My Stomach."
+      "blurb": "Florida-based singer-songwriter behind 2026's guitar-pop breakout \"iloveitiloveitiloveit\", a No. 2 UK hit. It led the EP A Couple Minutes Out, after her 2025 debut EP Sick to My Stomach."
     },
     "this-is-lorelei": {
       "tier": "small",
@@ -1978,8 +1977,7 @@
         "indie dance",
         "house",
         "melodic house"
-      ],
-      "blurb": "House and indie-dance DJ known for emotive, melodic builds; 2025 brought remixes for RÜFÜS DU SOL and Jamie Jones and a first Coachella set."
+      ]
     },
     "nirosta-steel": {
       "tier": "small",
@@ -1987,8 +1985,7 @@
       "genres": [
         "art pop",
         "indie pop"
-      ],
-      "blurb": "Steven Hall's queer art-pop project, a rare festival appearance and one of the bill's most talked-about small-type names."
+      ]
     },
     "ragie-ban": {
       "tier": "small",
@@ -2021,8 +2018,7 @@
       "subs": [
         "pop punk",
         "garage punk"
-      ],
-      "blurb": "Madrid trio (Elsa, Natalia, Cecilia) mixing scrappy punk energy with sweet pop hooks, sung in Spanish, with a riotous live show."
+      ]
     },
     "violet-grohl": {
       "tier": "small",
@@ -2061,8 +2057,7 @@
       "subs": [
         "acid house",
         "electronica"
-      ],
-      "blurb": "Tel Aviv DJ whose sets weave disco, acid house and electronica into a house-rooted flow; a fixture of the city's underground since 2018."
+      ]
     },
     "tame-impala": {
       "tier": "headliner",
@@ -2173,7 +2168,7 @@
       "vibes": [
         "dancing on your own, together"
       ],
-      "blurb": "Swedish pop auteur of euphoric, heartbroken dance songs. Sexistential (March 2026), her first album since 2018, mixes club pop with frank songs about IVF, single motherhood and desire."
+      "blurb": "Swedish pop auteur of euphoric, heartbroken dance songs. Sexistential (March 2026), her first album since 2018, mixes club pop with frank, personal songs about desire."
     },
     "role-model": {
       "tier": "big",
@@ -2270,8 +2265,7 @@
         "trip hop",
         "ambient",
         "electronic"
-      ],
-      "blurb": "Michael Cretu's studio project that set Gregorian chant and breathy vocals over slow hip-hop beats. 'Sadeness' and 'Return to Innocence' were worldwide hits in the early 1990s; for years it existed only on record, so a live set is a rare event."
+      ]
     },
     "underworld": {
       "tier": "mid",
@@ -2389,7 +2383,7 @@
         "coldwave",
         "industrial"
       ],
-      "blurb": "Jae Matthews and Augustus Muller make moody, pulsing darkwave built for black-lit dance floors. After their split as a couple, they returned in 2026 with Get Mean, a tighter, harder record."
+      "blurb": "Jae Matthews and Augustus Muller make moody, pulsing darkwave built for black-lit dance floors. In 2026 they released Get Mean, a tighter, harder record."
     },
     "ki-ki": {
       "tier": "mid",
@@ -2664,8 +2658,7 @@
         "glitch pop",
         "lo-fi pop",
         "idm"
-      ],
-      "blurb": "New York duo making glitchy, lo-fi pop with IDM textures, in the line of The Postal Service. Debut album in 2025, and their second, Rumspringa, came out on A24 Music in May 2026."
+      ]
     },
     "vandelux": {
       "tier": "small",
@@ -2844,8 +2837,7 @@
       "subs": [
         "regional mexican",
         "alternative rock"
-      ],
-      "blurb": "Josué Ramírez's project grafts cold, Cure-style post-punk guitars onto norteño accordions and trumpets. Started as a teenager in 2021, it reached a debut album, La Casa Que Cae, and a sold-out Mexico City show in 2025."
+      ]
     },
     "omri": {
       "tier": "small",
@@ -2860,8 +2852,7 @@
       ],
       "subs": [
         "psychedelic house"
-      ],
-      "blurb": "A Tel Aviv DJ who came up through psytrance before turning to deep, trippy, groove-led house. Ran the city's NEKOODOT and More than Friends parties and now plays alongside the Crosstown Rebels and Hot Creations crowd."
+      ]
     },
     "volkoder": {
       "tier": "small",
@@ -2907,8 +2898,7 @@
         "glitch hop",
         "psychedelic bass",
         "electronica"
-      ],
-      "blurb": "Dean McDonnell's live-looping bass project layers guitar, funky bass, didgeridoo, theremin and turntable scratching over grooving low end. A long-time fixture of the St. Louis bass scene with a run of self-released LPs."
+      ]
     },
     "dream-boat": {
       "tier": "small",
@@ -2923,8 +2913,7 @@
         "yacht rock",
         "soft rock",
         "sunshine pop"
-      ],
-      "blurb": "Two members of Parcels, Patrick Hetherington and Jules Crommelin, started this side project during long tours. The first single, 'Real!', leans into Beach Boys harmonies and smooth yacht-rock sheen, with an album due spring 2027."
+      ]
     },
     "sza": {
       "tier": "headliner",
@@ -3214,7 +3203,7 @@
       "subs": [
         "high-tech minimal"
       ],
-      "blurb": "The masked German who calls his sound 'high-tech minimal': rubbery basslines, ominous synth hooks and long, theatrical builds. Played Tomorrowland 2026 and has said he plans to retire in 2028, so the farewell window is open."
+      "blurb": "The masked German who calls his sound 'high-tech minimal': rubbery basslines, ominous synth hooks and long, theatrical builds. Played Tomorrowland 2026."
     },
     "jorja-smith": {
       "tier": "mid",
@@ -3270,8 +3259,7 @@
         "latin tech house",
         "latin house",
         "reggaeton"
-      ],
-      "blurb": "Mexican-American DJ blending tech house with reggaeton, mariachi and hip-hop samples and Spanglish vocals. Rose fast from a 2024 Beyond Wonderland art-car set to EDC 2026 and a fall 2026 headline tour."
+      ]
     },
     "pennywise": {
       "tier": "mid",
@@ -3425,8 +3413,7 @@
         "jazz-rap",
         "r&b",
         "hip-hop"
-      ],
-      "blurb": "Supergroup of Terrace Martin, Robert Glasper, Kamasi Washington and producer 9th Wonder, playing smoky, slow-cooked jazz over hip-hop grooves. Third album Watchu Bringing? came out in August 2026."
+      ]
     },
     "silva-bumpa": {
       "tier": "small",
@@ -3544,8 +3531,7 @@
       ],
       "subs": [
         "uk house"
-      ],
-      "blurb": "British producer who sings on his own house tracks, pairing R&B-style hooks with 4x4 and garage-leaning grooves. Collabs with GEE LEE, Josh Baker and Luke Dean put him in the UK club charts and on Radio 1."
+      ]
     },
     "genesis-owusu": {
       "tier": "small",
@@ -3587,16 +3573,14 @@
       "appleMusic": "https://music.apple.com/us/artist/the-mainliners/1618881604",
       "genres": [
         "punk"
-      ],
-      "blurb": "Hollywood punk band, part of the SoCal punk contingent on Sunday's bill."
+      ]
     },
     "chasewest": {
       "tier": "small",
       "genres": [
         "house"
       ],
-      "appleMusic": "https://music.apple.com/us/artist/chasewest/1484508122",
-      "blurb": "Los Angeles tech house DJ and producer with a minimal-tech edge; runs his own Chaste Records label."
+      "appleMusic": "https://music.apple.com/us/artist/chasewest/1484508122"
     },
     "florence-road": {
       "tier": "small",
@@ -3660,7 +3644,6 @@
         "reggae rock",
         "pop rock"
       ],
-      "blurb": "Jakob Nowell, son of Sublime's late Bradley Nowell and now Sublime's own frontman, leads his side project here. Expect Long Beach-bred alt rock with ska and reggae in its bones, sung by a voice that sounds eerily familiar.",
       "appleMusic": "https://music.apple.com/us/artist/jakobs-castle/1676201041"
     },
     "talon": {
@@ -3680,8 +3663,7 @@
       ],
       "vibes": [
         "hometown heroes"
-      ],
-      "blurb": "Hometown norteño group from the city of Coachella itself, flying the flag for the valley's regional Mexican scene. Think accordion, bajo sexto and dance-floor two-steps."
+      ]
     },
     "jamback": {
       "tier": "small",
@@ -3834,5 +3816,5 @@
       }
     }
   },
-  "credits": "Research: the crew's notes, written for this site. Corrections welcome."
+  "credits": "Short write-ups drafted with AI help from public sources; may be wrong. Corrections: support@meshpit.net"
 }
